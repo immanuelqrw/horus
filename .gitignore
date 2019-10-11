@@ -65,3 +65,7 @@ typings/
 .DS_Store
 
 build/
+
+src/.sass-cache/
+
+*.map

@@ -518,7 +518,7 @@ This project setup minifies your CSS and adds vendor prefixes to it automaticall
 For example, this:
 
 ```css
-.App {
+.app {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -528,7 +528,7 @@ For example, this:
 becomes this:
 
 ```css
-.App {
+.app {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
