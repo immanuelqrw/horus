@@ -2,7 +2,7 @@
   "name": "horus",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://immanuelqrw.github.io/horus",
+  "homepage": "horus.immanuelqrw.dev",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "node-sass": "^4.12.0",
