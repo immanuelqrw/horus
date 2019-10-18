@@ -1,14 +1,26 @@
 {
   "name": "horus",
   "version": "0.1.0",
+  "description": "Bingo Website",
   "private": true,
   "homepage": "https://horus.immanuelqrw.dev",
   "dependencies": {
+    "@material-ui/core": "4.3.2",
+    "@material-ui/icons": "4.2.1",
+    "chartist": "0.10.1",
+    "classnames": "2.2.6",
     "gh-pages": "^2.1.1",
+    "history": "4.9.0",
     "node-sass": "^4.12.0",
+    "perfect-scrollbar": "1.4.0",
+    "prop-types": "15.7.2",
     "react": "^16.10.2",
+    "react-chartist": "0.13.3",
     "react-dom": "^16.10.2",
+    "react-google-maps": "9.4.5",
+    "react-router-dom": "5.0.1",
     "react-scripts": "^3.2.0",
+    "react-swipeable-views": "0.13.3",
     "sass-loader": "^8.0.0"
   },
   "scripts": {
@@ -21,10 +33,12 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
+    "@types/history": "^4.7.3",
     "@types/jest": "^24.0.18",
     "@types/node": "^12.7.12",
     "@types/react": "^16.9.5",
     "@types/react-dom": "^16.9.1",
+    "@types/react-router-dom": "^5.1.0",
     "typescript": "^3.6.4"
   },
   "browserslist": {
