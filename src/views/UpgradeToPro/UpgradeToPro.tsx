@@ -194,7 +194,7 @@ function UpgradeToPro(props: any) {
                       <Button
                         round={true}
                         color="danger"
-                        href="https://www.creative-tim.com/product/material-dashboard-pro-react?ref=md-free-react-upgrade-live"
+                        href="https://www.immanuelqrw.com/"
                       >
                         Upgrade to Pro
                       </Button>

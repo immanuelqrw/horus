@@ -162,7 +162,7 @@ class FixedPlugin extends Component<Props, State> {
               <div className="button-container">
                 <Button
                   color="success"
-                  href="https://www.creative-tim.com/product/material-dashboard-react"
+                  href="https://www.immanuelqrw.com"
                   target="_blank"
                   fullWidth={true}
                 >
@@ -174,7 +174,7 @@ class FixedPlugin extends Component<Props, State> {
               <div className="button-container">
                 <Button
                   color="warning"
-                  href="https://www.creative-tim.com/product/material-dashboard-pro-react"
+                  href="https://www.immanuelqrw.com"
                   target="_blank"
                   fullWidth={true}
                 >
@@ -186,7 +186,7 @@ class FixedPlugin extends Component<Props, State> {
               <Button
                 color="info"
                 fullWidth={true}
-                href="https://demos.creative-tim.com/material-dashboard-react/#/documentation/tutorial"
+                href="https://demos.immanuelqrw.com"
                 target="_blank"
               >
                 Documentation

@@ -102,8 +102,8 @@ class Notifications extends React.Component<Props, State> {
               Material UI
             </a>{' '}
             and styled by{' '}
-            <a target="_blank" href="https://www.creative-tim.com/">
-              Creative Tim
+            <a target="_blank" href="https://www.immanuelqrw.com/">
+              ImmanuelQRW
             </a>
             . Please checkout the{' '}
             <a href="#pablo" target="_blank">
