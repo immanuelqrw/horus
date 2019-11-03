@@ -63,11 +63,11 @@ class RTL extends React.Component<Props, State> {
 
   handleImageClick = (i: string) => {
     this.setState({ image: i });
-  }
+  };
 
   handleColorClick = (c: string) => {
     this.setState({ color: c });
-  }
+  };
 
   handleFixedClick = () => {
     if (this.state.fixedClasses === 'dropdown') {
@@ -75,11 +75,11 @@ class RTL extends React.Component<Props, State> {
     } else {
       this.setState({ fixedClasses: 'dropdown' });
     }
-  }
+  };
 
   handleDrawerToggle = () => {
     this.setState({ mobileOpen: !this.state.mobileOpen });
-  }
+  };
 
   getRoute() {
     return this.props.location.pathname !== '/admin/maps';
@@ -89,7 +89,7 @@ class RTL extends React.Component<Props, State> {
     if (window.innerWidth >= 960) {
       this.setState({ mobileOpen: false });
     }
-  }
+  };
 
   componentDidMount() {
     if (navigator.platform.indexOf('Win') > -1) {

@@ -1,6 +1,6 @@
 /* eslint-disable */
 import React from 'react';
-import { Switch, Route, Redirect } from 'react-router-dom';
+import { Switch, Route } from 'react-router-dom';
 // creates a beautiful scrollbar
 import PerfectScrollbar from 'perfect-scrollbar';
 import 'perfect-scrollbar/css/perfect-scrollbar.css';
@@ -63,11 +63,11 @@ class Dashboard extends React.Component<Props, State> {
   
   handleImageClick = (i: string) => {
     this.setState({ image: i });
-  }
+  };
 
   handleColorClick = (c: string) => {
     this.setState({ color: c });
-  }
+  };
 
   handleFixedClick = () => {
     if (this.state.fixedClasses === 'dropdown') {
@@ -75,11 +75,11 @@ class Dashboard extends React.Component<Props, State> {
     } else {
       this.setState({ fixedClasses: 'dropdown' });
     }
-  }
+  };
 
   handleDrawerToggle = () => {
     this.setState({ mobileOpen: !this.state.mobileOpen });
-  }
+  };
 
   getRoute() {
     return this.props.location.pathname !== '/admin/maps';
@@ -89,7 +89,7 @@ class Dashboard extends React.Component<Props, State> {
     if (window.innerWidth >= 960) {
       this.setState({ mobileOpen: false });
     }
-  }
+  };
 
   componentDidMount() {
     if (navigator.platform.indexOf('Win') > -1) {
@@ -131,7 +131,7 @@ class Dashboard extends React.Component<Props, State> {
             handleDrawerToggle={this.handleDrawerToggle}
             {...rest}
           />
-          {/* On the /maps route we want the map to be on full screen - this is not possible if the content and conatiner classes are present because they have some paddings which would make the map smaller */}
+          {/* On the /maps route we want the map to be on full screen - this is not possible if the content and container classes are present because they have some paddings which would make the map smaller */}
           {this.getRoute() ? (
             <div className={classes.content}>
               <div className={classes.container}>{switchRoutes}</div>

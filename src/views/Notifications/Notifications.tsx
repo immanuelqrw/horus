@@ -74,7 +74,7 @@ class Notifications extends React.Component<Props, State> {
   }
   // to stop the warning of calling setState of unmounted component
   componentWillUnmount() {
-    var id = window.setTimeout(() => { }, 0);
+    let id = window.setTimeout(() => { }, 0);
     while (id--) {
       window.clearTimeout(id);
     }
@@ -98,11 +98,11 @@ class Notifications extends React.Component<Props, State> {
           <h4 className={classes.cardTitleWhite}>Notifications</h4>
           <p className={classes.cardCategoryWhite}>
             Handcrafted by our friends from{' '}
-            <a target="_blank" href="https://material-ui-next.com/">
+            <a target="_blank" rel="noopener noreferrer" href="https://material-ui-next.com/">
               Material UI
             </a>{' '}
             and styled by{' '}
-            <a target="_blank" href="https://www.immanuelqrw.com/">
+            <a target="_blank" rel="noopener noreferrer" href="https://www.immanuelqrw.com/">
               ImmanuelQRW
             </a>
             . Please checkout the{' '}

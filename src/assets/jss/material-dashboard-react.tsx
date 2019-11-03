@@ -4,8 +4,7 @@
  * Material Dashboard React - v1.6.0 based on Material Dashboard - v1.2.0
  =========================================================
 
- * Product Page: http://www.immanuelqrw.com/
- * Copyright 2018 ImmanuelQRW (http://www.immanuelqrw.com)
+ * Copyright 2019 ImmanuelQRW (http://www.immanuelqrw.com)
  * Licensed under MIT (https://github.com/immanuelqrw/horus/blob/master/LICENSE.md)
 
  =========================================================
