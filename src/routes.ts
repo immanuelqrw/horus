@@ -91,7 +91,15 @@ const dashboardRoutes = [
     icon: Language,
     component: RTLPage,
     layout: '/rtl'
-  }
+  },
+  {
+    path: '/hex',
+    name: 'HexBingo',
+    rtlName: 'لوحة القيادة',
+    icon: Dashboard,
+    component: DashboardPage,
+    layout: '/admin'
+  },
 ];
 
 export default dashboardRoutes;

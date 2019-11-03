@@ -15,8 +15,8 @@ import Notifications from '@material-ui/icons/Notifications';
 import Dashboard from '@material-ui/icons/Dashboard';
 import Search from '@material-ui/icons/Search';
 // core components
-import CustomInput from '../CustomInput/CustomInput';
-import Button from '../CustomButtons/Button';
+import CustomInput from 'components/CustomInput/CustomInput';
+import Button from 'components/CustomButtons/Button';
 
 import headerLinksStyle from '../../assets/jss/material-dashboard-react/components/headerLinksStyle';
 
@@ -34,7 +34,7 @@ class HeaderLinks extends React.Component<Props, {}> {
 
   handleToggle = () => {
     this.setState({ open: !this.state.open });
-  }
+  };
 
   handleClose = (event: any) => {
     if (this.anchorEl.contains(event.target)) {
@@ -42,7 +42,7 @@ class HeaderLinks extends React.Component<Props, {}> {
     }
 
     this.setState({ open: false });
-  }
+  };
 
   render() {
     const { classes } = this.props;
