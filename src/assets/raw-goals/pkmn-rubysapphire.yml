@@ -1,0 +1,408 @@
+---
+- name: Poochyena
+  difficulty: 1
+  types:
+    - pkmn
+- name: TM05 (Roar)
+  difficulty: 1
+  types:
+    - tm
+- name: HM05 (Flash)
+  difficulty: 1
+  types:
+    - hm
+- name: Coin Case
+  difficulty: 1
+  types:
+    - item
+- name: Tentacool
+  difficulty: 2
+  types:
+    - pkmn
+- name: A Pokemon with a stat related ability
+  difficulty: 2
+  types:
+    - ability
+- name: Soot Sack
+  difficulty: 2
+  types:
+    - item
+- name: TM36 (Sludge Bomb)
+  difficulty: 2
+  types:
+    - tm
+- name: Slakoth
+  difficulty: 3
+  types:
+    - pkmn
+- name: 7 Different Berries
+  difficulty: 3
+  types:
+    - multiitem
+- name: Numel
+  difficulty: 3
+  types:
+    - pkmn
+- name: Lava Cookie
+  difficulty: 3
+  types:
+    - item
+- name: 10 pokemon owned
+  difficulty: 4
+  types:
+    - dex
+- name: Zangoose or Seviper
+  difficulty: 4
+  types:
+    - pkmnpair
+- name: 6 different water type Pokemon
+  difficulty: 4
+  types:
+    - dex
+- name: A Pokemon with Double Kick or Mud Shot
+  difficulty: 4
+  types:
+    - starter
+- name: Plusle or Minun
+  difficulty: 5
+  types:
+    - pkmnpair
+- name: Defeat Winstrate Family
+  difficulty: 5
+  types:
+    - trainer
+- name: Participate in a Contest
+  difficulty: 5
+  types:
+    - contest
+- name: Mawile or Sableye
+  difficulty: 5
+  types:
+    - pkmnpair
+- name: 10 TMs
+  difficulty: 6
+  types:
+    - tm
+- name: Ether
+  difficulty: 6
+  types:
+    - item
+- name: Magikarp
+  difficulty: 6
+  types:
+    - pkmn
+    - karp
+- name: Full Daycare
+  difficulty: 6
+  types:
+    - egg
+- name: A powder item
+  difficulty: 7
+  types:
+    - itempair
+- name: No money on hand
+  difficulty: 7
+  types:
+    - cash
+- name: Do not catch a Legendary Pokemon
+  difficulty: 7
+  types:
+    - instant
+- name: Trade with an NPC
+  difficulty: 7
+  types:
+    - trade
+- name: 6 different flying type Pokemon
+  difficulty: 8
+  types:
+    - dex
+- name: Feed a Pokemon a Pokeblock
+  difficulty: 8
+  types:
+    - pokeblock
+- name: A Pokemon with a status related ability
+  difficulty: 8
+  types:
+    - ability
+- name: Volbeat or Illumise
+  difficulty: 8
+  types:
+    - pkmnpair
+- name: Defeat a Slugma
+  difficulty: 9
+  types:
+    - pkmn
+- name: A Pokemon with a weather related ability
+  difficulty: 9
+  types:
+    - ability
+- name: Defeat all 5 cyclists on Cycling Road
+  difficulty: 9
+  types:
+    - trainer
+- name: Complete a Trick House maze
+  difficulty: 9
+  types:
+    - trickmaster
+- name: Dustox or Beautifly
+  difficulty: 10
+  types:
+    - pkmnpair
+- name: Do not heal at any Pokemon Centers
+  difficulty: 10
+  types:
+    - heal
+    - instant
+- name: Sell a Rare Candy
+  difficulty: 10
+  types:
+    - item
+- name: Make a secret base
+  difficulty: 10
+  types:
+    - tm
+- name: Gloom
+  difficulty: 11
+  types:
+    - pkmn
+- name: A Pokemon with 4 moves with STAB
+  difficulty: 11
+  types:
+    - tm
+- name: Exp Share
+  difficulty: 11
+  types:
+    - item
+- name: TM44 (Rest)
+  difficulty: 11
+  types:
+    - tm
+- name: Pearl or Big Pearl
+  difficulty: 12
+  types:
+    - itempair
+- name: Spoink
+  difficulty: 12
+  types:
+    - pkmn
+- name: Hatch an egg
+  difficulty: 12
+  types:
+    - egg
+- name: Make a Pokémon relearn a move
+  difficulty: 12
+  types:
+    - item
+- name: Swablu
+  difficulty: 13
+  types:
+    - pkmn
+- name: Do not use any TMs
+  difficulty: 13
+  types:
+    - tm
+    - instant
+- name: Ninjask or Shedinja
+  difficulty: 13
+  types:
+    - pkmn
+- name: Three type-boosting items
+  difficulty: 13
+  types:
+    - multiitem
+- name: Golbat
+  difficulty: 14
+  types:
+    - pkmn
+- name: Solrock or Lunatone
+  difficulty: 14
+  types:
+    - pkmnpair
+- name: A Pokemon with 4 non-TM status moves
+  difficulty: 14
+  types:
+    - move
+- name: Pokemon with an evasion boosting move
+  difficulty: 14
+  types:
+    - move
+- name: 7 different types of Poke Ball
+  difficulty: 15
+  types:
+    - multiitem
+- name: Barboach
+  difficulty: 15
+  types:
+    - pkmn
+- name: Evolve 5 different Pokémon
+  difficulty: 15
+  types:
+    - hm
+    - instant
+- name: A baby Pokemon
+  difficulty: 15
+  types:
+    - egg
+    - pkmn
+- name: 20 Pokemon owned
+  difficulty: 16
+  types:
+    - dex
+- name: Stop starter evolving 6 times
+  difficulty: 16
+  types:
+    - starter
+- name: Lileep or Anorith
+  difficulty: 16
+  types:
+    - pkmnpair
+- name: Pelipper
+  difficulty: 16
+  types:
+    - pkmn
+- name: TM19 (Giga Drain)
+  difficulty: 17
+  types:
+    - tm
+- name: Use a stone to evolve a Pokemon
+  difficulty: 17
+  types:
+    - multiitem
+- name: Shuppet or Duskull
+  difficulty: 17
+  types:
+    - pkmn
+- name: 50 pokemon seen
+  difficulty: 17
+  types:
+    - dex
+- name: Defeat 4 Kecleons
+  difficulty: 18
+  types:
+    - kecleon
+- name: Gyarados
+  difficulty: 18
+  types:
+    - pkmn
+    - karp
+- name: Defeat all 7 trainers on Route 123
+  difficulty: 18
+  types:
+    - trainer
+- name: Breloom
+  difficulty: 18
+  types:
+    - pkmn
+- name: Vulpix
+  difficulty: 19
+  types:
+    - pkmn
+- name: Defeat 10 Swimmers
+  difficulty: 19
+  types:
+    - trainer
+- name: Catch something from Safari Zone
+  difficulty: 19
+  types:
+    - safari
+- name: 5 Valuable Items
+  difficulty: 19
+  types:
+    - multiitem
+- name: Burn a Kecleon
+  difficulty: 20
+  types:
+    - move
+- name: 20 TMs
+  difficulty: 20
+  types:
+    - item
+- name: HM02 (Fly)
+  difficulty: 20
+  types:
+    - hm
+- name: Sea or Lax Incense
+  difficulty: 20
+  types:
+    - item
+- name: Featherbadge
+  difficulty: 21
+  types:
+    - badge
+- name: Magneton
+  difficulty: 21
+  types:
+    - pkmn
+- name: "$50,000"
+  difficulty: 21
+  types:
+    - cash
+- name: Put a Pokeblock into a Safari Zone Container
+  difficulty: 21
+  types:
+    - pokeblock
+- name: Two different non-key exchangeable items
+  difficulty: 22
+  types:
+    - multiitem
+- name: A Trade Evolution Item
+  difficulty: 22
+  types:
+    - multiitem
+- name: Wobbuffet
+  difficulty: 22
+  types:
+    - pkmn
+- name: 3 different level 30 Pokemon
+  difficulty: 22
+  types:
+    - dex
+- name: TM21 (Frustration) or TM27 (Return)
+  difficulty: 23
+  types:
+    - tm
+- name: All rods
+  difficulty: 23
+  types:
+    - rods
+- name: Defeat 5 Ninja Boys
+  difficulty: 23
+  types:
+    - trainer
+- name: HM08 (Dive)
+  difficulty: 23
+  types:
+    - hm
+- name: Seadra
+  difficulty: 24
+  types:
+    - pkmn
+- name: Grovyle
+  difficulty: 24
+  types:
+    - starter
+    - pkmn
+- name: TM04 (Calm Mind)
+  difficulty: 24
+  types:
+    - tm
+- name: Relicanth or Wailord
+  difficulty: 24
+  types:
+    - pkmnpair
+- name: Defeat all 6 Trainers on Route 125
+  difficulty: 25
+  types:
+    - trainer
+- name: Catch a Dragon-type Pokemon
+  difficulty: 25
+  types:
+    - pkmn
+- name: All badges
+  difficulty: 25
+  types:
+    - badge
+- name: Heracross or Pinsir
+  difficulty: 25
+  types:
+    - pkmnpair

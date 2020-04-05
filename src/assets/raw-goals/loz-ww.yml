@@ -1,0 +1,284 @@
+---
+- name: Drown
+  difficulty: 1
+  types:
+    - DEATH
+- name: Die in Any Way
+  difficulty: 1
+  types:
+    - DEATH
+- name: Win Battleship
+  difficulty: 1
+  types:
+    - MINIGAME
+- name: Collect 10 Charts
+  difficulty: 2
+  types:
+    - COLLECT
+- name: Brew a Green/Blue Potion
+  difficulty: 2
+  types:
+    - CHUCHU
+    - WINDFALL
+- name: Feed 2 Fishy Bois
+  difficulty: 2
+  types:
+    - BAIT
+    - OCEAN
+- name: Score 20 or higher in Mail Sorting
+  difficulty: 3
+  types:
+    - MINIGAME
+    - DRAGON_ROOST
+- name: Throw Medli Into a Wall
+  difficulty: 3
+  types:
+    - DRAGON_ROOST
+- name: Collect Forest Water
+  difficulty: 3
+  types:
+    - BOTTLE
+    - FOREST_HAVEN
+- name: Die by Blue ChuChu
+  difficulty: 4
+  types:
+    - CHUCHU
+- name: Picto Box
+  difficulty: 4
+  types:
+    - COLLECT
+    - WINDFALL
+- name: Die from a Gunboat
+  difficulty: 4
+  types:
+    - DEATH
+    - OCEAN
+- name: Hear a Rumor From Kids
+  difficulty: 5
+  types:
+    - WINDFALL
+- name: Kill 5 Enemies With One Attack
+  difficulty: 5
+  types:
+    - HUNT
+- name: Get a Seagull Hurt
+  difficulty: 5
+  types:
+    - BAIT
+- name: Heal Grandma
+  difficulty: 6
+  types:
+    - OUTSET
+- name: Give Kalle Demos Water to Drink
+  difficulty: 6
+  types:
+    - BOTTLE
+    - FOREST_HAVEN
+- name: Deluxe Picto Box
+  difficulty: 6
+  types:
+    - WINDFALL
+- name: Kill Enemies with 3 Different Alternate Weapons
+  difficulty: 7
+  types:
+    - HUNT
+- name: 2 Bottles
+  difficulty: 7
+  types:
+    - COLLECT
+    - WINDFALL
+    - OCEAN
+    - DRAGON_ROOST
+- name: OHKO a Deku Baba with Boomerang
+  difficulty: 7
+  types:
+    - HUNT
+    - FOREST_HAVEN
+- name: 3 chests found on Lookout Platforms
+  difficulty: 8
+  types:
+    - BOMB
+    - OCEAN
+- name: At least 1 of Every Spoil (Bag not required)
+  difficulty: 8
+  types:
+    - COLLECT
+- name: Have 8 Heart Containers
+  difficulty: 8
+  types:
+    - COLLECT
+- name: Big Octo Great Fairy
+  difficulty: 9
+  types:
+    - BOOMERANG
+    - BOMB
+    - ARROW
+- name: Chest inside Mother Island
+  difficulty: 9
+  types:
+    - OCEAN
+    - CYCLONUS
+- name: Clear Pawprint Island
+  difficulty: 9
+  types:
+    - OCEAN
+    - GRAPPLING_HOOK
+    - HOOKSHOT
+- name: Defeat a Stalfos
+  difficulty: 10
+  types:
+    - HUNT
+- name: Deku Nut Golf
+  difficulty: 10
+  types:
+    - OCEAN
+    - DEKU_LEAF
+- name: 3 Bottles
+  difficulty: 10
+  types:
+    - COLLECT
+    - WINDFALL
+    - OCEAN
+    - DRAGON_ROOST
+- name: Double Magic Meter
+  difficulty: 11
+  types:
+    - OCEAN
+    - BOOMERANG
+    - BOMB
+- name: Angular Isles Chest
+  difficulty: 11
+  types:
+    - OCEAN
+    - HOOKSHOT
+    - DEKU_LEAF
+- name: Flight Control Platform Submarine
+  difficulty: 12
+  types:
+    - OCEAN
+- name: Spook Guy at Milk Bar
+  difficulty: 12
+  types:
+    - WINDFALL
+- name: Get Cursed by Cursed Bubble
+  difficulty: 13
+  types:
+    - OCEAN
+- name: Haul Link the Pig up the Mountain
+  difficulty: 13
+  types:
+    - OUTSET
+    - OCEAN
+    - POWER_BRACELETS
+- name: Fix a Broken Sign with Aria
+  difficulty: 14
+  types:
+    - WIND_WAKER
+- name: Have 10 Heart Containers
+  difficulty: 14
+  types:
+    - COLLECT
+- name: 20 Golden Feathers to Hoskit
+  difficulty: 15
+  types:
+    - COLLECT
+- name: Ivan - Catch Killer Bees
+  difficulty: 15
+  types:
+    - WINDFALL
+- name: Outset Island Great Fairy
+  difficulty: 16
+  types:
+    - OUTSET
+    - BOMB
+- name: Ice Ring Isle - Inner Cave Chest
+  difficulty: 16
+  types:
+    - OCEAN
+    - FIRE_ARROW
+- name: OHKO a Wizzrobe with a Fire/Ice Arrow
+  difficulty: 17
+  types:
+    - HUNT
+    - FIRE_ARROW
+    - ICE_ARROW
+- name: 99 Arrow Quiver
+  difficulty: 17
+  types:
+    - OCEAN
+    - BOW
+- name: 99 Bomb Bag
+  difficulty: 18
+  types:
+    - OCEAN
+    - BOMB
+- name: Diamond Steppe Island Warp Maze Chests
+  difficulty: 18
+  types:
+    - OCEAN
+    - HOOKSHOT
+- name: Complete a Long Sidequest
+  difficulty: 19
+  types:
+    - WINDFALL
+- name: Kill a Darknut
+  difficulty: 19
+  types:
+    - HUNT
+- name: 20 Joy Pendants to Mrs. Marie
+  difficulty: 20
+  types:
+    - COLLECT
+    - SPOIL
+- name: Decorate Private Oasis
+  difficulty: 20
+  types:
+    - OCEAN
+    - MAIL
+- name: One Slide Puzzle in Cabana
+  difficulty: 21
+  types:
+    - OCEAN
+- name: Squash an Enemy with Hammer
+  difficulty: 21
+  types:
+    - HUNT
+    - HAMMER
+- name: Stock Exotic Flower in Zunari's Shop
+  difficulty: 23
+  types:
+    - WINDFALL
+    - MAIL
+- name: Three-Eye Reef Chest
+  difficulty: 22
+  types:
+    - OCEAN
+    - BOMB
+- name: Top of Deku Tree
+  difficulty: 19
+  types:
+    - FOREST_HAVEN
+    - DEKu_LEAF
+- name: OHKO a ReDead with a Light Arrow
+  difficulty: 24
+  types:
+    - HUNT
+    - LIGHT_ARROW
+- name: Savage Labyrinth Floor 30
+  difficulty: 25
+  types:
+    - HUNT
+    - OUTSET
+- name: 4 Bottles
+  difficulty: 25
+  types:
+    - COLLECT
+    - WINDFALL
+    - OCEAN
+    - DRAGON_ROOST
+- name: Open Nintendo Gallery
+  difficulty: 10
+  types:
+    - FOREST_HAVEN
+    - DEKu_LEAF
+    - BAIT

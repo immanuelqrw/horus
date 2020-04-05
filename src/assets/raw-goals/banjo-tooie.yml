@@ -1,0 +1,931 @@
+---
+- name: All Honeycomb in IoH
+  difficulty: 1
+  types:
+    - Honeycombs
+    - IoH
+- name: 6-Health BK
+  difficulty: 1
+  types:
+    - Honeycombs
+    - IoH
+- name: 3 Jiggies in MT
+  difficulty: 1
+  types:
+    - MT
+    - jiggies
+- name: Purchase Blubberâ€™s Last Possession
+  difficulty: 1
+  types:
+    - JRL
+- name: All Warppads in GGM
+  difficulty: 2
+  types:
+    - Warps
+    - GGM
+- name: All Notes in GGM
+  difficulty: 2
+  types:
+    - Notes
+    - GGM
+- name: Free Gobi
+  difficulty: 2
+  types:
+    - WW
+- name: All Warppads in CCL
+  difficulty: 2
+  types:
+    - Warps
+    - CCL
+- name: All Honeycombs in GGM
+  difficulty: 2
+  types:
+    - Honeycombs
+    - GGM
+- name: Get Double Air
+  difficulty: 2
+  types:
+    - Moves
+    - IoH
+- name: Dilberta Jiggy
+  difficulty: 2
+  types:
+    - MT
+    - GGM
+- name: Pillars Jiggy
+  difficulty: 2
+  types:
+    - MT
+- name: Stub Biggafoots Toe
+  difficulty: 3
+  types:
+    - HFP
+- name: Oxygenate JRL Water
+  difficulty: 3
+  types:
+    - JRL
+- name: All Jinjos in MT
+  difficulty: 3
+  types:
+    - Jinjos
+    - MT
+- name: Relic Jiggy
+  difficulty: 3
+  types:
+    - MT
+- name: 4 Cheato Pages
+  difficulty: 3
+  types:
+    - Cheatos
+- name: 4 Jiggies in MT
+  difficulty: 3
+  types:
+    - MT
+    - jiggies
+- name: All Cheato Pages in MT
+  difficulty: 3
+  types:
+    - Cheatos
+    - MT
+- name: All Honeycombs in MT
+  difficulty: 4
+  types:
+    - Honeycombs
+    - MT
+- name: All Warppads in WW
+  difficulty: 4
+  types:
+    - Warps
+    - WW
+- name: Pawno Cheato Page
+  difficulty: 4
+  types:
+    - Cheatos
+    - JRL
+- name: 4 Trebleclefs
+  difficulty: 4
+  types:
+    - Trebleclef
+- name: 30 Doubloons
+  difficulty: 4
+  types:
+    - JRL
+- name: Smugglers Cove Jiggy
+  difficulty: 4
+  types:
+    - JRL
+- name: 7-Health BK
+  difficulty: 4
+  types:
+    - Honeycombs
+    - IoH
+- name: All Notes in JRL
+  difficulty: 5
+  types:
+    - Notes
+    - JRL
+- name: All Warppads in JRL
+  difficulty: 5
+  types:
+    - Warps
+    - JRL
+- name: All Honeycombs in WW
+  difficulty: 5
+  types:
+    - Honeycombs
+    - WW
+- name: All Notes in WW
+  difficulty: 5
+  types:
+    - Notes
+    - WW
+- name: Kill 5 Minjos
+  difficulty: 5
+  types:
+    - Minjos
+- name: All Warppads in MT
+  difficulty: 5
+  types:
+    - Warps
+    - MT
+- name: All Honeycombs in HFP
+  difficulty: 5
+  types:
+    - Honeycombs
+    - HFP
+    - JRL
+- name: Learn Breegull Bash
+  difficulty: 5
+  types:
+    - Moves
+    - SoS
+    - IoH
+- name: 5 Jiggies in MT
+  difficulty: 5
+  types:
+    - MT
+    - jiggies
+- name: 4 Jiggies in GGM
+  difficulty: 6
+  types:
+    - GGM
+    - jiggies
+- name: All Honeycombs in JRL
+  difficulty: 6
+  types:
+    - Honeycombs
+    - JRL
+- name: Ancient Swimming Baths CP
+  difficulty: 6
+  types:
+    - Cheatos
+    - JRL
+- name: All Honeycombs in TDL
+  difficulty: 6
+  types:
+    - Honeycombs
+    - TDL
+- name: Mingy Jongo Jiggy
+  difficulty: 6
+  types:
+    - Bosses
+    - CCL
+- name: All Honeycombs in CCL
+  difficulty: 6
+  types:
+    - Honeycombs
+    - CCL
+- name: Targitzan Jiggy
+  difficulty: 6
+  types:
+    - Bosses
+    - MT
+- name: 6 Jiggies in MT
+  difficulty: 6
+  types:
+    - MT
+    - jiggies
+- name: 7 Glowbos
+  difficulty: 7
+  types:
+    - Glowbo
+- name: Mayan Kickball Jiggy
+  difficulty: 7
+  types:
+    - MT
+- name: Chompasaurus Jiggy
+  difficulty: 7
+  types:
+    - TDL
+- name: All Warppads in HFP
+  difficulty: 7
+  types:
+    - Warps
+    - HFP
+- name: Stomping Plains Jiggy
+  difficulty: 7
+  types:
+    - TDL
+- name: Volcano Jiggy
+  difficulty: 7
+  types:
+    - HFP
+- name: All Notes in HFP
+  difficulty: 7
+  types:
+    - Notes
+    - HFP
+- name: 5 Trebleclefs
+  difficulty: 7
+  types:
+    - Trebleclef
+- name: Ice Wall Jiggy
+  difficulty: 7
+  types:
+    - HFP
+- name: Cheese Wedge Jiggy
+  difficulty: 7
+  types:
+    - CCL
+- name: All Cheato Pages in TDL
+  difficulty: 7
+  types:
+    - Cheatos
+    - TDL
+- name: Enlarge the Small Dino
+  difficulty: 8
+  types:
+    - TDL
+- name: Terry Jiggy
+  difficulty: 8
+  types:
+    - Bosses
+    - TDL
+- name: Kill 7 Minjos
+  difficulty: 8
+  types:
+    - Minjos
+- name: All Notes in IoH
+  difficulty: 8
+  types:
+    - Notes
+    - IoH
+- name: All Notes in TDL
+  difficulty: 8
+  types:
+    - Notes
+    - TDL
+- name: Roar Cage Jiggy as T-Rex
+  difficulty: 8
+  types:
+    - TDL
+- name: Merry Maggie Jiggy
+  difficulty: 8
+  types:
+    - JRL
+- name: Mr. Patch Jiggy
+  difficulty: 8
+  types:
+    - Bosses
+    - WW
+- name: Eyeball Plant Jiggy
+  difficulty: 8
+  types:
+    - CCL
+- name: Mountain CP as T-Rex
+  difficulty: 8
+  types:
+    - Cheatos
+    - TDL
+- name: Rocknuts Jiggy
+  difficulty: 8
+  types:
+    - TDL
+- name: All Cheato Pages in HFP
+  difficulty: 8
+  types:
+    - Cheatos
+    - HFP
+- name: 6 Cheato Pages
+  difficulty: 8
+  types:
+    - Cheatos
+- name: All Cheato Pages in JRL
+  difficulty: 9
+  types:
+    - Cheatos
+    - JRL
+- name: All Jinjos in WW
+  difficulty: 9
+  types:
+    - Jinjos
+    - WW
+- name: Ice Train Jiggy
+  difficulty: 9
+  types:
+    - HFP
+- name: All Jinjos in JRL
+  difficulty: 9
+  types:
+    - Jinjos
+    - JRL
+- name: Weldar Jiggy
+  difficulty: 9
+  types:
+    - GI
+- name: Zubba's Minigame Jiggy
+  difficulty: 9
+  types:
+    - CCL
+- name: Oogle Boogle Jiggy
+  difficulty: 9
+  types:
+    - TDL
+- name: All Warppads in TDL
+  difficulty: 9
+  types:
+    - Warps
+    - TDL
+- name: 4 Train Switches
+  difficulty: 9
+  types:
+    - Train
+- name: Trash Can Jiggy
+  difficulty: 10
+  types:
+    - CCL
+- name: 4 Jiggies in CCL
+  difficulty: 10
+  types:
+    - CCL
+    - jiggies
+- name: Jiggy & CP in Pot O' Gold
+  difficulty: 10
+  types:
+    - Cheatos
+    - CCL
+- name: 5 Jiggies in GGM
+  difficulty: 10
+  types:
+    - GGM
+    - jiggies
+- name: Both Crazy Castle Jiggies
+  difficulty: 10
+  types:
+    - WW
+- name: Kill George and Mildred
+  difficulty: 10
+  types:
+    - CCL
+    - HFP
+- name: Chris P. Bacon Jiggy
+  difficulty: 10
+  types:
+    - JRL
+- name: Dippy Jiggy
+  difficulty: 10
+  types:
+    - TDL
+    - CCL
+- name: All Jinjos in TDL
+  difficulty: 10
+  types:
+    - Jinjos
+    - TDL
+- name: Spook the Unga Bunga
+  difficulty: 10
+  types:
+    - TDL
+- name: 7 Jiggies in MT
+  difficulty: 10
+  types:
+    - MT
+    - jiggies
+- name: All Jinjos in CCL
+  difficulty: 11
+  types:
+    - Jinjos
+    - CCL
+- name: 9 Glowbos
+  difficulty: 11
+  types:
+    - Glowbo
+- name: All Cheato Pages in GGM
+  difficulty: 11
+  types:
+    - Cheatos
+    - GGM
+- name: 6 Trebleclefs
+  difficulty: 11
+  types:
+    - Trebleclef
+- name: Open all Elevator Doors
+  difficulty: 11
+  types:
+    - GI
+- name: Pig Pool Jiggy
+  difficulty: 11
+  types:
+    - JRL
+    - CCL
+    - HFP
+- name: All Wumba Warp Pads
+  difficulty: 11
+  types:
+    - Warps
+- name: 4 Jiggies in HFP
+  difficulty: 11
+  types:
+    - HFP
+    - jiggies
+- name: Sub Game Jiggy
+  difficulty: 11
+  types:
+    - JRL
+- name: Woo Fak Fak Jiggy
+  difficulty: 11
+  types:
+    - Jiggies
+    - Bosses
+    - JRL
+- name: Colosseum Kickball Jiggy
+  difficulty: 11
+  types:
+    - HFP
+    - MT
+- name: Old King Coal Jiggy
+  difficulty: 11
+  types:
+    - Bosses
+    - Train
+    - GGM
+- name: 8 Jiggies in MT
+  difficulty: 11
+  types:
+    - MT
+    - jiggies
+- name: All Honeycombs in GI
+  difficulty: 12
+  types:
+    - Honeycombs
+    - GI
+- name: Toxic Waste Jinjo from JRL
+  difficulty: 12
+  types:
+    - Jinjos
+    - JRL
+    - Route
+- name: All Jinjos in HFP
+  difficulty: 12
+  types:
+    - Jinjos
+    - HFP
+- name: Kill 9 Minjos
+  difficulty: 12
+  types:
+    - Minjos
+- name: Canary Mary Jiggy & CP in GGM
+  difficulty: 12
+  types:
+    - Cheatos
+    - GGM
+- name: All Notes in CCL
+  difficulty: 12
+  types:
+    - Notes
+    - CCL
+- name: 4 Jiggies in TDL
+  difficulty: 12
+  types:
+    - TDL
+    - jiggies
+- name: Aliens Jiggy in JRL
+  difficulty: 12
+  types:
+    - JRL
+- name: All Jinjos in GGM
+  difficulty: 12
+  types:
+    - Jinjos
+    - GGM
+- name: 8-Health BK
+  difficulty: 12
+  types:
+    - Honeycombs
+    - IoH
+- name: Grow Both Beanstalks
+  difficulty: 13
+  types:
+    - CCL
+- name: Call Train to HFP Fire Side
+  difficulty: 13
+  types:
+    - Train
+    - HFP
+    - GGM
+- name: 8 Cheato Pages
+  difficulty: 13
+  types:
+    - Cheatos
+- name: 4 Jiggies in WW
+  difficulty: 13
+  types:
+    - WW
+    - jiggies
+- name: 5 Jiggies in CCL
+  difficulty: 13
+  types:
+    - CCL
+    - jiggies
+- name: All Cheato Pages in GI
+  difficulty: 13
+  types:
+    - Cheatos
+    - GI
+    - Bosses
+- name: Crushing Shed Jiggy
+  difficulty: 13
+  types:
+    - GGM
+- name: Dragon Brothers Jiggy
+  difficulty: 14
+  types:
+    - Bosses
+    - HFP
+- name: All Warppads in GI
+  difficulty: 14
+  types:
+    - Warps
+    - GI
+- name: Unscrew All 3 Platforms in GI
+  difficulty: 14
+  types:
+    - GI
+- name: 5 Jiggies in TDL
+  difficulty: 14
+  types:
+    - TDL
+    - jiggies
+- name: Learn Claw Clamber Boots
+  difficulty: 14
+  types:
+    - Moves
+    - GI
+- name: 5 Jiggies in HFP
+  difficulty: 14
+  types:
+    - HFP
+    - jiggies
+- name: Defeat 5 Bosses
+  difficulty: 14
+  types:
+    - Bosses
+- name: 6 Jiggies in GGM
+  difficulty: 14
+  types:
+    - GGM
+    - jiggies
+- name: All Jinjos in IoH & SM
+  difficulty: 14
+  types:
+    - Jinjos
+    - IoH
+    - JRL
+- name: 11 Glowbos
+  difficulty: 15
+  types:
+    - Glowbo
+- name: 7 Trebleclefs
+  difficulty: 15
+  types:
+    - Trebleclef
+- name: All Notes in GI
+  difficulty: 15
+  types:
+    - Notes
+    - GI
+- name: Tiptup Jiggy
+  difficulty: 15
+  types:
+    - JRL
+    - TDL
+- name: All Mumbo Warp Pads
+  difficulty: 15
+  types:
+    - Warps
+- name: 5 Jiggies in GI
+  difficulty: 15
+  types:
+    - GI
+    - jiggies
+- name: Hatch all Eggs in CCL
+  difficulty: 16
+  types:
+    - CCL
+    - TDL
+- name: All Jinjos in GI
+  difficulty: 16
+  types:
+    - Jinjos
+    - GI
+- name: Both Toxic Waste Jiggies
+  difficulty: 16
+  types:
+    - GI
+    - JRL
+- name: Open Superstash Deluxe Safe
+  difficulty: 16
+  types:
+    - CCL
+- name: Learn Leg Spring
+  difficulty: 16
+  types:
+    - Moves
+    - GI
+- name: Call Train to GI
+  difficulty: 16
+  types:
+    - GI
+    - Train
+- name: Call Train to TDL
+  difficulty: 16
+  types:
+    - Train
+    - TDL
+- name: Star Spinner Jiggy
+  difficulty: 16
+  types:
+    - WW
+- name: Mayan and Colosseum Kickball Jiggies
+  difficulty: 17
+  types:
+    - HFP
+    - MT
+- name: 10 Cheato Pages
+  difficulty: 17
+  types:
+    - Cheatos
+- name: 4 Jiggies in JRL
+  difficulty: 17
+  types:
+    - JRL
+    - jiggies
+- name: 6 Jiggies in TDL
+  difficulty: 17
+  types:
+    - TDL
+    - jiggies
+- name: Defeat Klungo 3
+  difficulty: 17
+  types:
+    - Bosses
+    - IoH
+    - CK
+- name: Clinkers Cavern Jiggy
+  difficulty: 17
+  types:
+    - GI
+- name: Quality Control Jiggy
+  difficulty: 17
+  types:
+    - GI
+- name: 7 Jiggies in GGM
+  difficulty: 17
+  types:
+    - GGM
+    - jiggies
+- name: 6 Jiggies in CCL
+  difficulty: 18
+  types:
+    - CCL
+    - jiggies
+- name: Learn Snooze Pack
+  difficulty: 18
+  types:
+    - Moves
+    - GI
+- name: Woo Fak Fak Jiggy as BK
+  difficulty: 18
+  types:
+    - Bosses
+    - JRL
+- name: Boggyâ€™s Kids Jiggy
+  difficulty: 18
+  types:
+    - WW
+    - TDL
+- name: All Train Switches
+  difficulty: 18
+  types:
+    - Train
+- name: Hatch Heggyâ€™s 3 Eggs
+  difficulty: 18
+  types:
+    - SoS
+- name: Learn Shack Pack
+  difficulty: 19
+  types:
+    - Moves
+    - HFP
+- name: Twinkly Packaging Jiggy
+  difficulty: 19
+  types:
+    - GI
+- name: 5 Jiggies in WW
+  difficulty: 19
+  types:
+    - WW
+    - jiggies
+- name: All Cheato Pages in WW
+  difficulty: 19
+  types:
+    - Cheatos
+    - WW
+- name: 13 Glowbos
+  difficulty: 19
+  types:
+    - Glowbo
+- name: 8 Trebleclefs
+  difficulty: 19
+  types:
+    - Trebleclef
+- name: Dodgem Dome Jiggy
+  difficulty: 20
+  types:
+    - WW
+- name: Woo Fak Fak Jiggy as BK
+  difficulty: 20
+  types:
+    - Bosses
+    - JRL
+- name: Icicle Grotto CP w/ Shack Pack
+  difficulty: 20
+  types:
+    - HFP
+    - Cheato
+- name: 7 Jiggies in CCL
+  difficulty: 20
+  types:
+    - CCL
+    - jiggies
+- name: 6 Jiggies in GI
+  difficulty: 20
+  types:
+    - GI
+    - jiggies
+- name: Dragon Kazooie
+  difficulty: 20
+  types:
+    - SoS
+    - IoH
+    - GGM
+    - MT
+- name: Defeat 6 Bosses
+  difficulty: 20
+  types:
+    - Bosses
+- name: Learn Glide
+  difficulty: 20
+  types:
+    - Moves
+    - HFP
+- name: Defeat Hag 1
+  difficulty: 20
+  types:
+    - CK
+    - Bosses
+    - DCW
+- name: Worker Jiggy in GI
+  difficulty: 20
+  types:
+    - GI
+- name: 8 Jiggies in GGM
+  difficulty: 20
+  types:
+    - GGM
+    - jiggies
+- name: Oil Drill Jiggy
+  difficulty: 21
+  types:
+    - HFP
+- name: 12 Cheato Pages
+  difficulty: 21
+  types:
+    - Cheatos
+- name: Jelly Castle Jiggy as Banjo
+  difficulty: 21
+  types:
+    - CCL
+    - HFP
+- name: Canary Mary Jiggy & CP in CCL
+  difficulty: 21
+  types:
+    - GGM
+    - CCL
+    - Cheatos
+- name: 6 Jiggies in HFP
+  difficulty: 21
+  types:
+    - HFP
+    - jiggies
+- name: Sabreman Jiggy
+  difficulty: 21
+  types:
+    - HFP
+    - WW
+    - TDL
+- name: Terryâ€™s Kids Jiggy
+  difficulty: 22
+  types:
+    - TDL
+    - Bosses
+- name: 6 Jiggies in WW
+  difficulty: 22
+  types:
+    - WW
+    - jiggies
+- name: 8 Jiggies in CCL
+  difficulty: 22
+  types:
+    - CCL
+    - jiggies
+- name: 5 Jiggies in JRL
+  difficulty: 22
+  types:
+    - JRL
+    - jiggies
+- name: 9 Trebleclefs
+  difficulty: 22
+  types:
+    - Trebleclef
+- name: 7 Jiggies in GI
+  difficulty: 23
+  types:
+    - GI
+    - jiggies
+- name: All Cheato Pages in CCL
+  difficulty: 23
+  types:
+    - Cheatos
+    - CCL
+- name: 9-Health BK
+  difficulty: 23
+  types:
+    - Honeycombs
+    - IoH
+- name: Hatch 7 Eggs
+  difficulty: 23
+  types:
+    - TDL
+    - JRL
+    - SoS
+    - CCL
+- name: Ride Train to Icy Side
+  difficulty: 23
+  types:
+    - HFP
+    - Train
+- name: 6 Jiggies in JRL
+  difficulty: 24
+  types:
+    - JRL
+    - jiggies
+- name: Open all 4 Battery Doors in GI
+  difficulty: 24
+  types:
+    - GI
+    - WW
+- name: 7 Jiggies in TDL
+  difficulty: 24
+  types:
+    - TDL
+    - jiggies
+- name: 7 Jiggies in WW
+  difficulty: 24
+  types:
+    - WW
+    - jiggies
+- name: Learn Sack Pack
+  difficulty: 25
+  types:
+    - Moves
+    - HFP
+    - CCL
+- name: Alienâ€™s Kids Jiggy
+  difficulty: 25
+  types:
+    - HFP
+    - JRL
+- name: Heal The Sick Styracosaurus
+  difficulty: 25
+  types:
+    - TDL
+- name: 7 Jiggies in HFP
+  difficulty: 25
+  types:
+    - HFP
+    - jiggies
+- name: Defeat 7 Bosses
+  difficulty: 25
+  types:
+    - Bosses

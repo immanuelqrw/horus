@@ -1,0 +1,436 @@
+---
+- name: Get all 28 beans in Willow
+  difficulty: 1
+  types:
+    - willow
+- name: Activate both secrets in Willow from out of bounds
+  difficulty: 1
+  types:
+    - willow
+- name: Complete Willow without using the mouse
+  difficulty: 2
+  types:
+    - willow
+- name: Get all of the beans in the chasm
+  difficulty: 2
+  types:
+    - rictu
+- name: Get Hagrid's Wizard Card during your first night at Hogwarts
+  difficulty: 2
+  types:
+    - cards
+    - outside
+- name: Get 8 challenge stars in Rictusempra
+  difficulty: 3
+  types:
+    - rictu
+    - stars
+- name: Hit 10 cauldrons
+  difficulty: 3
+  types:
+    - collection
+- name: Get on top of Hagrid's Hut
+  difficulty: 3
+  types:
+    - outside
+- name: Get all Rictusempra secrets
+  difficulty: 4
+  types:
+    - rictu
+    - cards
+- name: Put 15 crabs into pits during Rictusempra
+  difficulty: 4
+  types:
+    - rictu
+- name: Kill Peeves
+  difficulty: 4
+  types:
+    - skurge
+- name: Finish a spell challenge with a gnome in your hand
+  difficulty: 4
+  types:
+    - compstar
+- name: Collect the 14 beans on the roof in the Bean Bonus Room
+  difficulty: 4
+  types:
+    - beans
+- name: Complete a Quidditch game before learning how to fly
+  difficulty: 5
+  types:
+    - outside
+- name: Lose 5 house points
+  difficulty: 5
+  types:
+    - inside
+- name: Cast at all 3 of the pigs near Hagrid's Hut
+  difficulty: 5
+  types:
+    - outside
+- name: Get behind the Quidditch gate
+  difficulty: 5
+  types:
+    - outside
+- name: Get the 16 beans on Lockhart's balcony
+  difficulty: 5
+  types:
+    - stairs
+- name: Complete Rictusempra without using the mouse
+  difficulty: 6
+  types:
+    - rictu
+- name: Get 8 Skurge challenge stars
+  difficulty: 6
+  types:
+    - skurge
+    - stars
+- name: Get all Skurge secrets
+  difficulty: 6
+  types:
+    - skurge
+    - cards
+- name: Clip 4 gnomes out of bounds
+  difficulty: 6
+  types:
+    - bicorn
+- name: Enter Quidditch practice from out of bounds
+  difficulty: 6
+  types:
+    - outside
+- name: All Bicorn secrets
+  difficulty: 7
+  types:
+    - bicorn
+    - cards
+- name: Empty 10 armor stands
+  difficulty: 7
+  types:
+    - inside
+- name: Lose a Quidditch match by 250 points
+  difficulty: 7
+  types:
+    - outside
+- name: Complete Skurge without using the mouse
+  difficulty: 8
+  types:
+    - skurge
+- name: Get enough ingredients for 4 potions during Bicorn
+  difficulty: 8
+  types:
+    - bicorn
+    - potions
+- name: Complete all 10 duels
+  difficulty: 8
+  types:
+    - duels
+    - beans
+- name: Activate a potion cauldron with a gnome
+  difficulty: 8
+  types:
+    - potions
+- name: Get to the Diffindo classroom before Quidditch practice
+  difficulty: 8
+  types:
+    - outside
+- name: Complete Diffindo without casting Diffindo
+  difficulty: 9
+  types:
+    - diffindo
+- name: Empty 5 bean boxes
+  difficulty: 9
+  types:
+    - collection
+- name: Buy the Quidditch Armor
+  difficulty: 9
+  types:
+    - beans
+- name: Talk to Percy, Hagrid, Snape, and Madam Pomfrey
+  difficulty: 9
+  types:
+    - inside
+    - outside
+    - stairs
+- name: Beat Peter without Expelliarmus
+  difficulty: 10
+  types:
+    - duels
+    - beans
+- name: Get 9 Diffindo challenge stars
+  difficulty: 10
+  types:
+    - diffindo
+    - stars
+- name: Complete Diffindo without using the mouse
+  difficulty: 10
+  types:
+    - diffindo
+- name: Have 15 potions
+  difficulty: 10
+  types:
+    - potions
+- name: Buy the Nimbus 2001
+  difficulty: 10
+  types:
+    - beans
+- name: Make a 5 mushroom high tower in Diffindo
+  difficulty: 11
+  types:
+    - diffindo
+- name: Get all Boomslang secrets
+  difficulty: 11
+  types:
+    - boom
+    - cards
+- name: Collect 3 chocolate frogs in Boomslang
+  difficulty: 11
+  types:
+    - boom
+- name: Buy 3 Bronze Wizard Cards
+  difficulty: 11
+  types:
+    - cards
+    - beans
+- name: Get 2 health increases
+  difficulty: 11
+  types:
+    - cards
+    - beans
+- name: Beat Malfoy with only Mimblewimble
+  difficulty: 12
+  types:
+    - diffindo
+- name: Cut all Venomous Tentacula heads off in Boomslang
+  difficulty: 12
+  types:
+    - boom
+- name: Collect 17 challenge stars
+  difficulty: 12
+  types:
+    - stars
+- name: Finish with 1000 beans
+  difficulty: 12
+  types:
+    - beans
+- name: Get 13 Diffindo challenge stars
+  difficulty: 13
+  types:
+    - diffindo
+    - stars
+- name: Complete Boomslang without jumping
+  difficulty: 13
+  types:
+    - boom
+- name: Complete Goyle without casting Skurge
+  difficulty: 13
+  types:
+    - goyle
+- name: Go up the fireplace in Goyle
+  difficulty: 13
+  types:
+    - goyle
+- name: Get 2 keys
+  difficulty: 13
+  types:
+    - cards
+    - beans
+- name: Let McGonagall fall down during the second Nick cutscene
+  difficulty: 14
+  types:
+    - stairs
+    - goyle
+- name: Buy 4 Silver Wizard Cards
+  difficulty: 14
+  types:
+    - cards
+    - beans
+- name: Collect 23 wizard cards
+  difficulty: 14
+  types:
+    - cards
+- name: Get all Goyle secrets
+  difficulty: 14
+  types:
+    - goyle
+    - cards
+- name: Win a Quidditch match by 60 points
+  difficulty: 15
+  types:
+    - outside
+- name: Open 5 of each of the 4 chest types
+  difficulty: 15
+  types:
+    - collection
+- name: Hit 8 different Lumos statues in Goyle
+  difficulty: 15
+  types:
+    - goyle
+- name: Knock over 8 flower pots
+  difficulty: 15
+  types:
+    - collection
+    - boom
+- name: Collect both potion ingredients as Harry in Slytherin
+  difficulty: 16
+  types:
+    - slyth
+- name: Hit 25 cauldrons
+  difficulty: 16
+  types:
+    - collection
+- name: Spawn 12 gnomes in the girl's bathroom
+  difficulty: 16
+  types:
+    - collection
+- name: Finish with 2000 beans
+  difficulty: 16
+  types:
+    - beans
+- name: Get 3 health increases
+  difficulty: 17
+  types:
+    - cards
+    - beans
+- name: Buy 8 Bronze Wizard Cards
+  difficulty: 17
+  types:
+    - cards
+    - beans
+- name: Get all Slytherin secrets
+  difficulty: 17
+  types:
+    - slyth
+    - cards
+- name: Walk up the stairs to Girl's Dormitory in Slytherin
+  difficulty: 18
+  types:
+    - slyth
+- name: Collect 37 wizard cards
+  difficulty: 18
+  types:
+    - cards
+- name: Collect 31 challenge stars
+  difficulty: 18
+  types:
+    - stars
+- name: Get 5 secrets as Harry in Slytherin
+  difficulty: 19
+  types:
+    - slyth
+- name: Complete Spongify without using the mouse
+  difficulty: 19
+  types:
+    - sponge
+- name: Jump on 5 Spongify tiles in a row without landing
+  difficulty: 19
+  types:
+    - sponge
+- name: Enter Forest from out of bounds
+  difficulty: 19
+  types:
+    - forest
+- name: Get 3 keys
+  difficulty: 19
+  types:
+    - cards
+    - beans
+- name: Get all 4 completion stars
+  difficulty: 20
+  types:
+    - sponge
+    - compstar
+- name: Open all 5 Peeves chests
+  difficulty: 20
+  types:
+    - goyle
+- name: Collect 8 beans from the Great Hall at night
+  difficulty: 20
+  types:
+    - inside
+    - forest
+- name: Get all Grounds secrets in both day and night
+  difficulty: 20
+  types:
+    - cards
+- name: Get all Entry Hall secrets
+  difficulty: 20
+  types:
+    - cards
+    - inside
+- name: Have 9 Slytherins surrounding you on the table in Slytherin
+  difficulty: 21
+  types:
+    - slyth
+- name: Get all Forest secrets
+  difficulty: 21
+  types:
+    - forest
+    - cards
+- name: Get all Grand Staircase secrets
+  difficulty: 21
+  types:
+    - cards
+    - stairs
+    - sponge
+- name: Hit all of the ropes in the Aragog fight
+  difficulty: 21
+  types:
+    - forest
+- name: Kill 12 spiders in the Aragog fight
+  difficulty: 22
+  types:
+    - forest
+- name: Get 8 Spongify challenge stars
+  difficulty: 22
+  types:
+    - sponge
+    - stars
+- name: Cast on 5 Lumos statues during Spongify
+  difficulty: 22
+  types:
+    - sponge
+- name: Use all 9 Spongify tiles in the Grand Staircase area
+  difficulty: 22
+  types:
+    - sponge
+    - stairs
+- name: Get all Spongify secrets
+  difficulty: 23
+  types:
+    - sponge
+    - cards
+- name: All Chamber secrets
+  difficulty: 23
+  types:
+    - chamber
+- name: Skip the boulder cutscene in Chamber
+  difficulty: 23
+  types:
+    - chamber
+- name: Collect 53 wizard cards
+  difficulty: 23
+  types:
+    - cards
+- name: Put 4 imps into the same hole
+  difficulty: 24
+  types:
+    - sponge
+- name: Avoid fire damage from the snake statues in Chamber
+  difficulty: 24
+  types:
+    - chamber
+- name: Finish the game
+  difficulty: 24
+  types:
+    - chamber
+- name: Take no damage in the Basilisk fight
+  difficulty: 25
+  types:
+    - chamber
+- name: Get the Harry Potter Wizard Card
+  difficulty: 25
+  types:
+    - cards
+- name: Get 5 health increases
+  difficulty: 25
+  types:
+    - cards
+    - beans

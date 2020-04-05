@@ -1,0 +1,461 @@
+---
+- name: Repair a tool/armour
+  difficulty: 1
+  types:
+    - TOOL
+    - ARMOR
+- name: Grow wheat
+  difficulty: 2
+  types:
+    - FARM
+    - WHEAT
+    - FOOD
+- name: Get a full stack of an edible item
+  difficulty: 3
+  types:
+    - FOOD
+- name: Breed a chicken
+  difficulty: 3
+  types:
+    - BREED
+    - CHICKEN
+- name: Breed a cow
+  difficulty: 3
+  types:
+    - BREED
+    - COW
+- name: Breed a pig
+  difficulty: 3
+  types:
+    - BREED
+    - PIG
+- name: Breed a sheep
+  difficulty: 3
+  types:
+    - BREED
+    - SHEEP
+- name: Tame a cat
+  difficulty: 4
+  types:
+    - TAME
+    - CAT
+- name: Tame a wolf
+  difficulty: 4
+  types:
+    - TAME
+    - WOLF
+- name: Tame a horse
+  difficulty: 3
+  types:
+    - TAME
+    - HORSE
+- name: Tame a donkey
+  difficulty: 8
+  types:
+    - TAME
+    - DONKEY
+- name: Shear a sheep
+  difficulty: 4
+  types:
+    - SHEEP
+    - SHEARS
+- name: Spawn a chicken with an egg
+  difficulty: 4
+  types:
+    - CHICKEN
+- name: Write a book
+  difficulty: 4
+  types:
+    - LEATHER
+    - PAPER
+- name: Bake a cake
+  difficulty: 4
+  types:
+    - FOOD
+- name: Reach bedrock
+  difficulty: 4
+  types:
+    - MINE
+- name: Reach the height limit
+  difficulty: 4
+  types:
+    - MINE
+- name: Grow a melon
+  difficulty: 6
+  types:
+    - FARM
+    - MELON
+- name: Grow a pumpkin
+  difficulty: 6
+  types:
+    - FARM
+    - PUMPKIN
+- name: Use a grindstone
+  difficulty: 5
+  types:
+    - STONE
+- name: Breed a horse
+  difficulty: 7
+  types:
+    - BREED
+    - HORSE
+- name: Tame a mule
+  difficulty: 7
+  types:
+    - BREED
+    - HORSE
+    - DONKEY
+- name: Full set of wooden tools
+  difficulty: 2
+  types:
+    - TOOL
+    - WOOD
+- name: Full set of stone tools
+  difficulty: 3
+  types:
+    - TOOL
+    - STONE
+- name: Catch a fish
+  difficulty: 5
+  types:
+    - FISHING
+    - FISH
+- name: Use a minecart
+  difficulty: 5
+  types:
+    - IRON
+    - MINECART
+- name: Put a banner on a shield
+  difficulty: 5
+  types:
+    - BANNER
+    - SHIELD
+- name: Build a trans pride flag
+  difficulty: 8
+  types:
+    - WOOL
+    - DYE
+- name: Ride a llama
+  difficulty: 10
+  types:
+    - LLAMA
+- name: Compost some food
+  difficulty: 4
+  types:
+    - WOOD
+    - FOOD
+- name: Cook food on a campfire
+  difficulty: 4
+  types:
+    - WOOD
+    - FOOD
+- name: Tame a parrot
+  difficulty: 10
+  types:
+    - TAME
+    - PARROT
+- name: Eat a suspicious stew
+  difficulty: 5
+  types:
+    - FOOD
+- name: Make a dispenser
+  difficulty: 7
+  types:
+    - STONE
+    - REDSTONE
+- name: Full set of leather armour
+  difficulty: 9
+  types:
+    - LEATHER
+    - ARMOR
+- name: Make a snow golem
+  difficulty: 7
+  types:
+    - SNOW
+    - PUMPKIN
+- name: Make a cookie
+  difficulty: 10
+  types:
+    - COCOA
+    - WHEAT
+- name: Light a firework
+  difficulty: 9
+  types:
+    - GUNPOWDER
+    - PAPER
+- name: Detonate TNT
+  difficulty: 10
+  types:
+    - GUNPOWDER
+- name: Kill a slime
+  difficulty: 10
+  types:
+    - HUNT
+    - SLIME
+- name: Kill a witch
+  difficulty: 8
+  types:
+    - HUNT
+    - WITCH
+- name: Fill a map
+  difficulty: 11
+  types:
+    - EXPLORE
+    - REDSTONE
+- name: Find a village
+  difficulty: 12
+  types:
+    - EXPLORE
+    - VILLAGE
+- name: Make a trade
+  difficulty: 13
+  types:
+    - TRADE
+    - VILLAGE
+- name: Full set of iron tools
+  difficulty: 12
+  types:
+    - IRON
+    - TOOL
+- name: Make an iron golem
+  difficulty: 13
+  types:
+    - IRON
+    - PUMPKIN
+- name: Find buried treasure
+  difficulty: 14
+  types:
+    - EXPLORE
+- name: Full set of iron armour
+  difficulty: 13
+  types:
+    - IRON
+    - ARMOR
+- name: Full set of gold tools
+  difficulty: 15
+  types:
+    - GOLD
+    - TOOL
+- name: Full set of gold armour
+  difficulty: 15
+  types:
+    - GOLD
+    - ARMOR
+- name: Make a redstone clock
+  difficulty: 12
+  types:
+    - REDSTONE
+- name: Find diamond ore
+  difficulty: 13
+  types:
+    - DIAMOND
+    - MINE
+- name: Use a nametag
+  difficulty: 15
+  types:
+    - NAMETAG
+- name: Make an enchanting table
+  difficulty: 14
+  types:
+    - ENCHANT
+    - DIAMOND
+    - OBSIDIAN
+- name: Enchant an item
+  difficulty: 15
+  types:
+    - ENCHANT
+- name: Full set of diamond tools.
+  difficulty: 18
+  types:
+    - DIAMOND
+    - TOOL
+- name: Enter the nether
+  difficulty: 12
+  types:
+    - OBSIDIAN
+- name: Get withered
+  difficulty: 14
+  types:
+    - HUNT
+    - WITHER
+- name: Full set of diamond armour
+  difficulty: 20
+  types:
+    - DIAMOND
+    - ARMOR
+- name: Find an abandoned mineshaft
+  difficulty: 15
+  types:
+    - EXPLORE
+    - MINE
+- name: Find a shipwreck
+  difficulty: 17
+  types:
+    - EXPLORE
+    - OCEAN
+- name: Find a desert temple
+  difficulty: 18
+  types:
+    - EXPLORE
+    - DESERT
+- name: Make a full enchanting setup
+  difficulty: 17
+  types:
+    - LEATHER
+    - PAPER
+    - DIAMOND
+    - OBSIDIAN
+    - ENCHANT
+- name: Play a music disc
+  difficulty: 20
+  types:
+    - EXPLORE
+    - DIAMOND
+- name: Find a pillager outpost
+  difficulty: 17
+  types:
+    - EXPLORE
+    - PILLAGER
+- name: Find a dungeon
+  difficulty: 19
+  types:
+    - EXPLORE
+- name: Find a swamp hut
+  difficulty: 21
+  types:
+    - EXPLORE
+    - SWAMP
+- name: Kill an evoker
+  difficulty: 20
+  types:
+    - HUNT
+    - PILLAGER
+- name: Find a nether fortress
+  difficulty: 16
+  types:
+    - EXPLORE
+    - NETHER
+- name: Kill a ghast
+  difficulty: 17
+  types:
+    - HUNT
+    - GHAST
+- name: Brew a potion
+  difficulty: 20
+  types:
+    - HUNT
+    - BLAZE
+- name: Make a potion of healing
+  difficulty: 21
+  types:
+    - HUNT
+    - BLAZE
+    - GOLD
+    - MELON
+- name: Make an ender chest
+  difficulty: 20
+  types:
+    - OBSIDIAN
+    - HUNT
+    - BLAZE
+    - ENDERMAN
+- name: Full set of chain armour
+  difficulty: 23
+  types:
+    - EXPLORE
+    - CHAIN
+- name: Find a desert well
+  difficulty: 21
+  types:
+    - EXPLORE
+    - DESERT
+- name: Make a functional mob farm
+  difficulty: 22
+  types:
+    - BUILD
+- name: Find an ice spike biome
+  difficulty: 23
+  types:
+    - EXPLORE
+    - ICE
+- name: Find a stronghold
+  difficulty: 22
+  types:
+    - EXPLORE
+- name: Enter the end
+  difficulty: 23
+  types:
+    - EXPLORE
+    - ENDERMAN
+    - BLAZE
+- name: Find a jungle temple
+  difficulty: 22
+  types:
+    - EXPLORE
+    - JUNGLE
+- name: Find an ocean temple
+  difficulty: 21
+  types:
+    - EXPLORE
+    - OCEAN
+- name: Find a forest mansion
+  difficulty: 24
+  types:
+    - EXPLORE
+    - FOREST
+- name: Kill all 3 guardians in an ocean temple
+  difficulty: 25
+  types:
+    - EXPLORE
+    - HUNT
+    - OCEAN
+- name: Find a fossil
+  difficulty: 25
+  types:
+    - EXPLORE
+- name: Activate a conduit
+  difficulty: 24
+  types:
+    - EXPLORE
+    - OCEAN
+- name: Eat an enchanted golden apple
+  difficulty: 25
+  types:
+    - EXPLORE
+- name: Find a mushroom island
+  difficulty: 25
+  types:
+    - EXPLORE
+- name: Find an end city
+  difficulty: 24
+  types:
+    - HUNT
+    - DRAGON
+    - EXPLORE
+- name: Levitate
+  difficulty: 24
+  types:
+    - EXPLORE
+- name: Find Elytra
+  difficulty: 25
+  types:
+    - EXPLORE
+- name: Spawn the wither
+  difficulty: 24
+  types:
+    - HUNT
+    - WITHER
+- name: Kill the wither
+  difficulty: 25
+  types:
+    - HUNT
+    - WITHER
+- name: Place a beacon
+  difficulty: 25
+  types:
+    - HUNT
+    - WITHER
+- name: Wear a turtle shell
+  difficulty: 25
+  types:
+    - TURTLE

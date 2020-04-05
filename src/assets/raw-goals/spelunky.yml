@@ -1,0 +1,212 @@
+---
+- name: Save a Damsel
+  difficulty: 1
+  types:
+    - SAVE
+- name: Use an Enemy to reach a higher place
+  difficulty: 1
+  types:
+    - ENEMY
+- name: Access the Black Market
+  difficulty: 1
+  types:
+    - EXPLORE
+    - JUNGLE
+- name: Win a game of Deathmatch [Best of 3+]
+  difficulty: 2
+  types:
+    - VERSUS
+- name: Kill a ShopKeeper
+  difficulty: 2
+  types:
+    - SHOPKEEPER
+    - HUNT
+- name: Drop into the Abyss
+  difficulty: 3
+  types:
+    - DEATH
+    - ICE_CAVES
+- name: Find a Jetpack
+  difficulty: 3
+  types:
+    - ITEM
+- name: Escape the Ghost
+  difficulty: 4
+  types:
+    - SURVIVE
+    - GHOST
+- name: Open the Jungle Shortcut
+  difficulty: 4
+  types:
+    - SHORTCUT
+    - MINES
+- name: Use the Ghost to make 10k
+  difficulty: 5
+  types:
+    - MONEY
+    - GHOST
+- name: Befriend a Golden Monkey
+  difficulty: 5
+  types:
+    - MONEY
+    - KALI
+- name: Forsake Kali by destroying her altar
+  difficulty: 6
+  types:
+    - KALI
+- name: Open the Ice Caves ShortCut
+  difficulty: 6
+  types:
+    - SHORTCUT
+    - JUNGLE
+- name: Offer a sacrifice to Kali
+  difficulty: 7
+  types:
+    - KALI
+- name: Kill a ShopKeeper with his own shotgun
+  difficulty: 7
+  types:
+    - HUNT
+    - SHOPKEEPER
+    - SHOTGUN
+- name: Kill a ShopKeeper with an attached sticky bomb
+  difficulty: 8
+  types:
+    - HUNT
+    - SHOPKEEPER
+    - BOMB
+- name: Kill the Queen Bee
+  difficulty: 8
+  types:
+    - HUNT
+    - JUNGLE
+- name: Escape the Haunted Castle
+  difficulty: 9
+  types:
+    - SURVIVE
+    - JUNGLE
+- name: Acquire the Ankh
+  difficulty: 9
+  types:
+    - JUNGLE
+    - BLACK_MARKET
+    - ITEM
+- name: Sacrifice yourself to Kali
+  difficulty: 10
+  types:
+    - KALI
+- name: Defeat Old Bitey
+  difficulty: 10
+  types:
+    - HUNT
+    - JUNGLE
+- name: Kill the Black Knight
+  difficulty: 11
+  types:
+    - HUNT
+    - JUNGLE
+- name: Acquire an Eggplant
+  difficulty: 11
+  types:
+    - ITEM
+    - KALI
+- name: Telefrag an enemy
+  difficulty: 12
+  types:
+    - HUNT
+    - ITEM
+- name: Open the Temple Shortcut
+  difficulty: 12
+  types:
+    - SHORTCUT
+    - ICE_CAVES
+- name: Acquire a Ball and Chain
+  difficulty: 13
+  types:
+    - KALI
+    - ITEM
+- name: Get the Crysknife
+  difficulty: 13
+  types:
+    - WORM
+    - JUNGLE
+    - ITEM
+- name: Detach the Ball and Chain
+  difficulty: 14
+  types:
+    - ICE_CAVES
+- name: Enter the City of Gold
+  difficulty: 15
+  types:
+    - HUNT
+    - BOSS
+    - EXPLORE
+    - TEMPLE
+- name: Destroy the Alien Queen
+  difficulty: 16
+  types:
+    - HUNT
+    - BOSS
+    - ICE_CAVES
+    - SPACESHIP
+- name: Using 2 Spelunkers, complete a Stage without a death
+  difficulty: 16
+  types:
+    - CO_OP
+    - SURVIVE
+- name: Get the Kapala
+  difficulty: 17
+  types:
+    - KALI
+- name: Befriend a Crystal Monkey
+  difficulty: 18
+  types:
+    - KALI
+    - JUNGLE
+- name: Finish a run with $1,000,000
+  difficulty: 19
+  types:
+    - MONEY
+- name: Defeat Anubis II
+  difficulty: 20
+  types:
+    - HUNT
+    - BOSS
+    - TEMPLE
+- name: Defeat Olmec without using any bombs
+  difficulty: 20
+  types:
+    - BOSS
+    - TEMPLE
+- name: Enter Hell
+  difficulty: 21
+  types:
+    - BOSS
+    - TEMPLE
+- name: Using 2 Spelunkers, complete an Area without a death
+  difficulty: 21
+  types:
+    - CO_OP
+    - SURVIVE
+- name: Kill Vlad
+  difficulty: 22
+  types:
+    - HUNT
+    - HELL
+- name: Take a Picture of Yama
+  difficulty: 23
+  types:
+    - ITEM
+    - HELL
+    - BOSS
+- name: Kill Enma
+  difficulty: 24
+  types:
+    - HELL
+    - BOSS
+- name: Eggplant Yama
+  difficulty: 25
+  types:
+    - ITEM
+    - HELL
+    - BOSS

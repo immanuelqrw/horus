@@ -1,0 +1,1856 @@
+---
+- name: Baboon Blast GB in Jungle Japes
+  difficulty: 1
+  types:
+    - japes
+    - donkey
+- name: 50 Bananas in Gloomy Galleon
+  difficulty: 1
+  types:
+    - gloomy
+    - gloomybananas
+- name: Angry Aztec Lobby GB
+  difficulty: 1
+  types:
+    - isles
+    - bonus
+    - tiny
+- name: 100 Bananas in Jungle Japes
+  difficulty: 1
+  types:
+    - japes
+    - japesbananas
+- name: 5 Blueprints
+  difficulty: 1
+  types:
+    - bp
+    - japesbp
+    - aztecbp
+    - factorybp
+    - gloomybp
+    - fungibp
+    - cavebp
+    - castlebp
+    - islesbp
+- name: 50 bananas in Creepy Castle
+  difficulty: 1
+  types:
+    - castle
+    - castlebananas
+- name: Open Gloomy Galleon Treasure Room
+  difficulty: 1
+  types:
+    - gloomy
+- name: Activate Production Room in Factory
+  difficulty: 1
+  types:
+    - factory
+    - donkey
+- name: Key 2
+  difficulty: 1
+  types:
+    - key
+- name: 1 GB on each kong
+  difficulty: 1
+  types:
+    - japesgb
+    - aztecgb
+    - factorygb
+    - gloomygb
+    - fungigb
+    - cavegb
+    - castlegb
+    - islesgb
+- name: 3 Tiny Blueprints
+  difficulty: 2
+  types:
+    - bp
+    - tiny
+    - japesbp
+    - aztecbp
+    - factorybp
+    - gloomybp
+    - fungibp
+    - cavebp
+    - castlebp
+    - islesbp
+- name: 2 Battle Crowns
+  difficulty: 2
+  types:
+    - japescrown
+    - azteccrown
+    - factorycrown
+    - gloomycrown
+    - fungicrown
+    - cavecrown
+    - castlecrown
+    - islescrown
+    - helmcrown
+- name: Complete 3 Baboon Blasts
+  difficulty: 2
+  types:
+    - donkey
+    - blast
+- name: 100 Bananas in Angry Aztec
+  difficulty: 2
+  types:
+    - aztec
+    - aztecbananas
+- name: 3 Donkey Blueprints
+  difficulty: 2
+  types:
+    - donkey
+    - bp
+    - japesbp
+    - aztecbp
+    - factorybp
+    - gloomybp
+    - fungibp
+    - cavebp
+    - castlebp
+    - islesbp
+- name: 3 Diddy Blueprints
+  difficulty: 2
+  types:
+    - diddy
+    - bp
+    - japesbp
+    - aztecbp
+    - factorybp
+    - gloomybp
+    - fungibp
+    - cavebp
+    - castlebp
+    - islesbp
+- name: 5 GBs in Jungle Japes
+  difficulty: 2
+  types:
+    - japes
+    - japesgb
+- name: 150 Bananas in any Level
+  difficulty: 2
+  types:
+    - japesbananas
+    - aztecbananas
+    - factorybananas
+    - gloomybananas
+    - fungibananas
+    - cavebananas
+    - castlebananas
+- name: 50 Bananas in Crystal Caves
+  difficulty: 2
+  types:
+    - cave
+    - cavebananas
+- name: 50 Bananas in Fungi Forest
+  difficulty: 2
+  types:
+    - fungibananas
+    - fungi
+- name: Gloomy Galleon Battle Crown
+  difficulty: 2
+  types:
+    - gloomy
+    - gloomycrown
+- name: Key 1
+  difficulty: 3
+  types:
+    - key
+- name: Baboon Blast GB in Crystal Caves
+  difficulty: 3
+  types:
+    - cave
+    - donkey
+    - blast
+- name: Seal Race GB
+  difficulty: 3
+  types:
+    - donkey
+    - gloomy
+    - race
+- name: Shoot 10 Banana Balloons
+  difficulty: 3
+  types:
+    - japesbananas
+    - aztecbananas
+    - factorybananas
+    - gloomybananas
+    - fungibananas
+    - cavebananas
+    - castlebananas
+- name: Galleon Submarine GB
+  difficulty: 3
+  types:
+    - gloomy
+    - bonus
+    - tiny
+- name: Tile Flipping GB in Crystal Caves
+  difficulty: 3
+  types:
+    - cave
+    - lanky
+- name: 100 Bananas in Frantic Factory
+  difficulty: 3
+  types:
+    - factory
+    - factorybananas
+- name: Cannon Game GB in Gloomy Galleon
+  difficulty: 3
+  types:
+    - chunky
+    - gloomy
+- name: Kill Giant Kosha
+  difficulty: 3
+  types:
+    - cave
+- name: Frantic Factory Battle Crown
+  difficulty: 3
+  types:
+    - factory
+    - factorycrown
+- name: Vulture GB
+  difficulty: 3
+  types:
+    - diddy
+    - aztec
+- name: 100 Bananas in Gloomy Galleon
+  difficulty: 4
+  types:
+    - gloomybananas
+    - gloomy
+- name: Key 4
+  difficulty: 4
+  types:
+    - key
+- name: Crystal Caves Battle Crown
+  difficulty: 4
+  types:
+    - cave
+    - cavecrown
+- name: Llama Temple Matching Game GB
+  difficulty: 4
+  types:
+    - lanky
+    - aztec
+- name: Both Banana Fairies in Gloomy Galleon
+  difficulty: 4
+  types:
+    - gloomy
+    - fairy
+- name: 5 GBs in DK Isles
+  difficulty: 4
+  types:
+    - islesgb
+    - isles
+- name: 100 Bananas in Creepy Castle
+  difficulty: 4
+  types:
+    - castlebananas
+    - castle
+- name: Diddy Minecart GB
+  difficulty: 4
+  types:
+    - japes
+    - diddy
+    - race
+- name: 25 Coins with all Kongs
+  difficulty: 4
+  types:
+    - coin
+    - restrict_coin
+- name: All Caged GBs in Jungle Japes
+  difficulty: 5
+  types:
+    - japesgb
+    - japes
+- name: Key 3
+  difficulty: 5
+  types:
+    - key
+    - key3
+- name: Fungi Forest Battle Crown
+  difficulty: 5
+  types:
+    - fungi
+    - fungicrown
+- name: Turn on Lighthouse
+  difficulty: 5
+  types:
+    - gloomy
+    - donkey
+- name: 3 Chunky Blueprints
+  difficulty: 5
+  types:
+    - chunky
+    - bp
+    - japesbp
+    - aztecbp
+    - factorybp
+    - gloomybp
+    - fungibp
+    - cavebp
+    - castlebp
+    - islesbp
+- name: Activate All Warps in Jungle Japes
+  difficulty: 5
+  types:
+    - japes
+    - japeswarp
+- name: Activate All Warps in Frantic Factory
+  difficulty: 5
+  types:
+    - factory
+    - factorywarp
+- name: 5 Banana Fairies
+  difficulty: 5
+  types:
+    - fairy
+    - key8
+- name: 3 Lanky Blueprints
+  difficulty: 5
+  types:
+    - lanky
+    - bp
+    - japesbp
+    - aztecbp
+    - factorybp
+    - gloomybp
+    - fungibp
+    - cavebp
+    - castlebp
+    - islesbp
+- name: All 100 Bananas with any Kong in any level
+  difficulty: 5
+  types:
+    - japesbananas
+    - aztecbananas
+    - factorybananas
+    - gloomybananas
+    - fungibananas
+    - cavebananas
+    - castlebananas
+- name: 100 Bananas in Crystal Caves
+  difficulty: 6
+  types:
+    - cave
+    - cavebananas
+- name: Pound the X GB in DK Isles
+  difficulty: 6
+  types:
+    - chunky
+    - isles
+- name: Giant Toy Monster GB
+  difficulty: 6
+  types:
+    - chunky
+    - factory
+- name: All Blueprints in Frantic Factory
+  difficulty: 6
+  types:
+    - factory
+    - manybp
+    - bp
+    - factorybp
+- name: Both Banana Fairies in Frantic Factory
+  difficulty: 6
+  types:
+    - factory
+    - fairy
+- name: 250 Total Bananas
+  difficulty: 6
+  types:
+    - japesbananas
+    - aztecbananas
+    - factorybananas
+    - gloomybananas
+    - fungibananas
+    - cavebananas
+    - castlebananas
+- name: DK Isles Summit GB
+  difficulty: 6
+  types:
+    - diddy
+    - bonus
+    - isles
+- name: 5 GBs in Angry Aztec
+  difficulty: 6
+  types:
+    - aztec
+    - aztecgb
+- name: Both Stealthy Snoop GBs
+  difficulty: 6
+  types:
+    - aztec
+    - gloomy
+    - bonus
+- name: 9 Rainbow Coins
+  difficulty: 6
+  types:
+    - coin
+    - restrict_coin
+- name: 100 Bananas in Fungi Forest
+  difficulty: 7
+  types:
+    - fungi
+    - fungibananas
+- name: Key 6
+  difficulty: 7
+  types:
+    - key
+    - key6
+- name: Pearl Rescue GB
+  difficulty: 7
+  types:
+    - tiny
+    - gloomy
+- name: All Blueprints in Jungle Japes
+  difficulty: 7
+  types:
+    - japes
+    - manybp
+    - bp
+    - japesbp
+- name: Angry Aztec Battle Crown
+  difficulty: 7
+  types:
+    - aztec
+    - lanky
+    - azteccrown
+- name: Both Banana Fairies in Angry Aztec
+  difficulty: 7
+  types:
+    - aztec
+    - fairy
+- name: Both Banana Fairies in Jungle Japes
+  difficulty: 7
+  types:
+    - japes
+    - fairy
+- name: 10 GBs
+  difficulty: 7
+  types:
+    - manybp
+    - bp
+    - japesgb
+    - aztecgb
+    - factorygb
+    - gloomygb
+    - fungigb
+    - cavegb
+    - castlegb
+    - islesgb
+- name: 1 GB for each Kong in Factory
+  difficulty: 7
+  types:
+    - factory
+    - factorygb
+- name: All Caged GBs in DK Isles
+  difficulty: 7
+  types:
+    - islesgb
+    - isles
+- name: 5 GBs in Frantic Factory
+  difficulty: 7
+  types:
+    - factory
+    - factorygb
+- name: Chunky's Caged Bonus GB in Angry Aztec
+  difficulty: 8
+  types:
+    - aztec
+    - chunky
+    - bonus
+- name: 3 Battle Crowns
+  difficulty: 8
+  types:
+    - japescrown
+    - azteccrown
+    - factorycrown
+    - gloomycrown
+    - fungicrown
+    - cavecrown
+    - castlecrown
+    - islescrown
+    - helmcrown
+- name: Mechanical Fish GB
+  difficulty: 8
+  types:
+    - diddy
+    - gloomy
+- name: Key 8
+  difficulty: 8
+  types:
+    - key
+    - fairy
+    - helm
+    - key8
+- name: 5 GBs in Gloomy Galleon
+  difficulty: 8
+  types:
+    - gloomygb
+    - gloomy
+- name: Squash Tomatoes GB
+  difficulty: 8
+  types:
+    - fungi
+    - chunky
+- name: Both Splish-Splash Salvage GBs
+  difficulty: 8
+  types:
+    - gloomy
+    - bonus
+    - japes
+- name: 5 Tiny Blueprints
+  difficulty: 8
+  types:
+    - bp
+    - tiny
+    - japesbp
+    - aztecbp
+    - factorybp
+    - gloomybp
+    - fungibp
+    - cavebp
+    - castlebp
+    - islesbp
+- name: Chunky's Seasickness GB
+  difficulty: 8
+  types:
+    - gloomy
+    - chunky
+    - donkey
+- name: All 3 Batty Barrel Bandit GBs
+  difficulty: 8
+  types:
+    - factory
+    - gloomy
+    - bonus
+- name: Both Tree GBs in Creepy Castle
+  difficulty: 9
+  types:
+    - chunky
+    - donkey
+    - castle
+- name: All Blueprints in Gloomy Galleon
+  difficulty: 9
+  types:
+    - gloomy
+    - manybp
+    - bp
+    - galleonbp
+- name: Activate All Warps in Creepy Castle
+  difficulty: 9
+  types:
+    - castle
+    - castlewarp
+- name: Activate All Warps in Angry Aztec
+  difficulty: 9
+  types:
+    - aztec
+    - aztecwarp
+- name: 5 Diddy Blueprints
+  difficulty: 9
+  types:
+    - bp
+    - diddy
+    - japesbp
+    - aztecbp
+    - factorybp
+    - gloomybp
+    - fungibp
+    - cavebp
+    - castlebp
+    - islesbp
+- name: Spider Mini-Boss GB
+  difficulty: 9
+  types:
+    - tiny
+    - fungi
+- name: Both Mad Maze Maul GBs
+  difficulty: 9
+  types:
+    - cave
+    - bonus
+    - japes
+- name: 100 bananas for any Kong in Jungle Japes
+  difficulty: 9
+  types:
+    - japesbananas
+    - japes
+- name: 5 Lobby GBs
+  difficulty: 9
+  types:
+    - isles
+    - islesgb
+- name: 1 GB for each Kong in Jungle Japes
+  difficulty: 9
+  types:
+    - japes
+    - japesgb
+- name: Both Banana Fairies in Crystal Caves
+  difficulty: 10
+  types:
+    - cave
+    - fairy
+- name: All Blueprints in Creepy Castle
+  difficulty: 10
+  types:
+    - manybp
+    - castle
+    - bp
+    - castlebp
+- name: All Blueprints in Crystal Caves
+  difficulty: 10
+  types:
+    - manybp
+    - cave
+    - bp
+    - cavebp
+- name: Key 7
+  difficulty: 10
+  types:
+    - castle
+    - key7
+    - key
+- name: 200 Bananas in Jungle Japes
+  difficulty: 10
+  types:
+    - japes
+    - japesbananas
+- name: Activate All Warps in Gloomy Galleon
+  difficulty: 10
+  types:
+    - gloomy
+    - gloomywarp
+- name: 10 Blueprints
+  difficulty: 10
+  types:
+    - bp
+    - manybp
+    - japesbp
+    - aztecbp
+    - factorybp
+    - gloomybp
+    - fungibp
+    - cavebp
+    - castlebp
+    - islesbp
+- name: 5 Donkey Blueprints
+  difficulty: 10
+  types:
+    - bp
+    - donkey
+    - japesbp
+    - aztecbp
+    - factorybp
+    - gloomybp
+    - fungibp
+    - cavebp
+    - castlebp
+    - islesbp
+- name: Beanstalk GB
+  difficulty: 10
+  types:
+    - tiny
+    - fungi
+- name: Creepy Castle Battle Crown
+  difficulty: 10
+  types:
+    - castlecrown
+    - castle
+    - lanky
+- name: Enter Every Level
+  difficulty: 10
+  types:
+    - helm
+    - manylevel
+- name: Chunky Minecart GB
+  difficulty: 11
+  types:
+    - chunky
+    - fungi
+    - race
+- name: 8 Banana Fairies
+  difficulty: 11
+  types:
+    - fairy
+- name: Both Speedy Swing Sortie GBs
+  difficulty: 11
+  types:
+    - japes
+    - bonus
+    - fungi
+- name: 5 Bonus Barrel GBs
+  difficulty: 11
+  types:
+    - bonus
+    - japesgb
+    - aztecgb
+    - factorygb
+    - gloomygb
+    - fungigb
+    - cavegb
+    - castlegb
+    - islesgb
+- name: 3 Banana Medals in Jungle Japes
+  difficulty: 11
+  types:
+    - japesbananas
+    - japes
+    - medal
+- name: 10 Donkey GBs
+  difficulty: 11
+  types:
+    - donkey
+    - bp
+    - japesgb
+    - aztecgb
+    - factorygb
+    - gloomygb
+    - fungigb
+    - cavegb
+    - castlegb
+    - islesgb
+- name: 1 GB for each Kong in Gloomy Galleon
+  difficulty: 11
+  types:
+    - gloomy
+    - gloomygb
+- name: 200 Bananas in Frantic Factory
+  difficulty: 11
+  types:
+    - factorybananas
+    - factory
+- name: 100 Bananas for any Kong in Angry Aztec
+  difficulty: 11
+  types:
+    - aztec
+    - aztecbananas
+- name: Activate All Warps in Crystal Caves
+  difficulty: 11
+  types:
+    - cave
+    - cavewarp
+- name: Rabbit Race GB
+  difficulty: 12
+  types:
+    - fungi
+    - lanky
+- name: Ballroom GB
+  difficulty: 12
+  types:
+    - diddy
+    - castle
+    - bonus
+- name: Both Banana Fairies in Fungi Forest
+  difficulty: 12
+  types:
+    - fungi
+    - fairy
+- name: 5 Lanky Blueprints
+  difficulty: 12
+  types:
+    - bp
+    - lanky
+    - japesbp
+    - aztecbp
+    - factorybp
+    - gloomybp
+    - fungibp
+    - cavebp
+    - castlebp
+    - islesbp
+- name: 5 Chunky Blueprints
+  difficulty: 12
+  types:
+    - bp
+    - chunky
+    - japesbp
+    - aztecbp
+    - factorybp
+    - gloomybp
+    - fungibp
+    - cavebp
+    - castlebp
+    - islesbp
+- name: 2 GBs on each kong
+  difficulty: 12
+  types:
+    - manybp
+    - japesgb
+    - aztecgb
+    - factorygb
+    - gloomygb
+    - fungigb
+    - cavegb
+    - castlegb
+    - islesgb
+- name: Activate All Warps in Fungi Forest
+  difficulty: 12
+  types:
+    - fungi
+    - fungiwarp
+- name: 5 GBs in Crystal Caves
+  difficulty: 12
+  types:
+    - cave
+    - cavegb
+- name: 3 Banana Medals
+  difficulty: 12
+  types:
+    - medal
+    - japesbananas
+    - aztecbananas
+    - factorybananas
+    - gloomybananas
+    - fungibananas
+    - cavebananas
+    - castlebananas
+- name: All 3 Beehive area GBs
+  difficulty: 12
+  types:
+    - japes
+    - japesgb
+- name: Hideout Helm Battle Crown
+  difficulty: 12
+  types:
+    - helm
+    - helmcrown
+- name: Owl GB
+  difficulty: 13
+  types:
+    - diddy
+    - bonus
+    - fungi
+- name: Both DK Isles Battle Crowns
+  difficulty: 13
+  types:
+    - islescrown
+    - isles
+- name: Both Banana Fairies in Creepy Castle
+  difficulty: 13
+  types:
+    - fairy
+    - castle
+- name: Donkey Minecart GB
+  difficulty: 13
+  types:
+    - donkey
+    - castle
+    - race
+- name: 250 Total Bananas With Donkey
+  difficulty: 13
+  types:
+    - japesbananas
+    - aztecbananas
+    - factorybananas
+    - gloomybananas
+    - fungibananas
+    - cavebananas
+    - castlebananas
+    - donkey
+- name: 200 Bananas in Gloomy Galleon
+  difficulty: 13
+  types:
+    - gloomy
+    - gloomybananas
+- name: 15 GBs
+  difficulty: 13
+  types:
+    - manybp
+    - bp
+    - japesgb
+    - aztecgb
+    - factorygb
+    - gloomygb
+    - fungigb
+    - cavegb
+    - castlegb
+    - islesgb
+- name: All 5 DK Isles Instrument Pad GBs
+  difficulty: 13
+  types:
+    - islesgb
+    - isles
+- name: 100 Bananas for any Kong in Frantic Factory
+  difficulty: 13
+  types:
+    - factory
+    - factorybananas
+- name: 100 Bananas for any Kong in Gloomy Galleon
+  difficulty: 13
+  types:
+    - gloomy
+    - gloomybananas
+- name: 5 GBs in Fungi Forest
+  difficulty: 14
+  types:
+    - fungi
+    - fungigb
+- name: All Banana Fairies in DK Isles
+  difficulty: 14
+  types:
+    - fairy
+    - isles
+- name: All Blueprints in DK Isles
+  difficulty: 14
+  types:
+    - isles
+    - bp
+    - manybp
+    - islesbp
+- name: 10 GBs in Jungle Japes
+  difficulty: 14
+  types:
+    - japes
+    - japesgb
+- name: 1 GB for each Kong in Angry Aztec
+  difficulty: 14
+  types:
+    - aztec
+    - aztecgb
+- name: 2 Blueprints on each Kong
+  difficulty: 14
+  types:
+    - manybp
+    - bp
+    - japesbp
+    - aztecbp
+    - factorybp
+    - gloomybp
+    - fungibp
+    - cavebp
+    - castlebp
+    - islesbp
+- name: All Blueprints in Angry Aztec
+  difficulty: 14
+  types:
+    - aztec
+    - bp
+    - manybp
+    - aztecbp
+- name: 200 Bananas in Angry Aztec
+  difficulty: 14
+  types:
+    - aztec
+    - aztecbananas
+- name: 1 GB for each Kong in Crystal Caves
+  difficulty: 14
+  types:
+    - cave
+    - cavegb
+- name: 2 Minecart Mayhem GBs
+  difficulty: 14
+  types:
+    - bonus
+- name: 5 GBs in Creepy Castle
+  difficulty: 14
+  types:
+    - castle
+    - castlegb
+- name: 3 Banana Medals in Frantic Factory
+  difficulty: 15
+  types:
+    - factory
+    - medal
+    - factorybananas
+- name: 100 bananas for any Kong in Fungi Forest
+  difficulty: 15
+  types:
+    - fungi
+    - fungibananas
+- name: All 5 GBs in 5 Door Igloo
+  difficulty: 15
+  types:
+    - cavegb
+    - cave
+- name: 100 bananas for any Kong in Crystal Caves
+  difficulty: 15
+  types:
+    - cave
+    - cavebananas
+- name: All 3 GBs in Castle Dungeon
+  difficulty: 15
+  types:
+    - castle
+    - castlegb
+- name: 3 Donkey Banana Medals
+  difficulty: 15
+  types:
+    - medal
+    - japesbananas
+    - aztecbananas
+    - factorybananas
+    - gloomybananas
+    - fungibananas
+    - cavebananas
+    - castlebananas
+- name: All 4 GB's in Llama Temple
+  difficulty: 15
+  types:
+    - aztec
+    - aztecgb
+- name: 350 Total Bananas
+  difficulty: 15
+  types:
+    - japesbananas
+    - aztecbananas
+    - factorybananas
+    - gloomybananas
+    - fungibananas
+    - cavebananas
+    - castlebananas
+- name: Both Car Races
+  difficulty: 15
+  types:
+    - tiny
+    - race
+- name: All 4 GBs in Tiny Temple
+  difficulty: 15
+  types:
+    - aztecgb
+    - aztec
+- name: 12 Rainbow Coins
+  difficulty: 16
+  types:
+    - 'coin '
+    - restrict_coin
+- name: 13 Blueprints
+  difficulty: 16
+  types:
+    - bp
+    - manybp
+    - japesbp
+    - aztecbp
+    - factorybp
+    - gloomybp
+    - fungibp
+    - cavebp
+    - castlebp
+    - islesbp
+- name: 250 Total Bananas With Diddy
+  difficulty: 16
+  types:
+    - japesbananas
+    - aztecbananas
+    - factorybananas
+    - gloomybananas
+    - fungibananas
+    - cavebananas
+    - castlebananas
+    - diddy
+- name: Both Beetle Slides
+  difficulty: 16
+  types:
+    - race
+- name: 1 GB for each Kong in Fungi Forest
+  difficulty: 16
+  types:
+    - fungi
+    - fungigb
+- name: 50 Coins with any 3 Kongs
+  difficulty: 16
+  types:
+    - coin
+    - restrict_coin
+- name: 100 bananas for any Kong in Creepy Castle
+  difficulty: 16
+  types:
+    - castle
+    - castlebananas
+- name: All 5 GBs from 5 Door Ship
+  difficulty: 16
+  types:
+    - gloomy
+    - gloomygb
+- name: 10 Banana Fairies
+  difficulty: 16
+  types:
+    - fairy
+- name: 200 Bananas in Crystal Caves
+  difficulty: 16
+  types:
+    - cave
+    - cavebananas
+- name: 1 GB per level
+  difficulty: 17
+  types:
+    - manylevel
+    - japesgb
+    - aztecgb
+    - factorygb
+    - gloomygb
+    - fungigb
+    - cavegb
+    - castlegb
+    - islesgb
+- name: All 3 Beaver Bother GBs
+  difficulty: 17
+  types:
+    - bonus
+    - castle
+- name: Donkey's Banana Medal in Hideout Helm
+  difficulty: 17
+  types:
+    - donkey
+    - helm
+    - medal
+- name: 50 Bananas in every level
+  difficulty: 17
+  types:
+    - manylevel
+    - japesbananas
+    - aztecbananas
+    - factorybananas
+    - gloomybananas
+    - fungibananas
+    - cavebananas
+    - castlebananas
+- name: All 5 Production Room GBs
+  difficulty: 17
+  types:
+    - factory
+    - factorygb
+- name: 3 Banana Medals in Gloomy Galleon
+  difficulty: 17
+  types:
+    - gloomy
+    - medal
+    - gloomybananas
+- name: All Blueprints in Fungi Forest
+  difficulty: 17
+  types:
+    - fungi
+    - bp
+    - manybp
+    - fungibp
+- name: 7 Tiny Blueprints
+  difficulty: 17
+  types:
+    - bp
+    - tiny
+    - japesbp
+    - aztecbp
+    - factorybp
+    - gloomybp
+    - fungibp
+    - cavebp
+    - castlebp
+    - islesbp
+- name: 1 GB for each Kong in Creepy Castle
+  difficulty: 17
+  types:
+    - castlegb
+    - castle
+- name: 250 Total Bananas With Lanky
+  difficulty: 17
+  types:
+    - lanky
+    - japesbananas
+    - aztecbananas
+    - factorybananas
+    - gloomybananas
+    - fungibananas
+    - cavebananas
+    - castlebananas
+- name: 10 Diddy GBs
+  difficulty: 18
+  types:
+    - diddy
+    - bp
+    - japesgb
+    - aztecgb
+    - factorygb
+    - gloomygb
+    - fungigb
+    - cavegb
+    - castlegb
+    - islesgb
+- name: 75 Coins with any Kong
+  difficulty: 18
+  types:
+    - coin
+    - restrict_coin
+- name: Nintendo Coin
+  difficulty: 18
+  types:
+    - factory
+    - donkey
+- name: 16 Blueprints
+  difficulty: 18
+  types:
+    - bp
+    - manybp
+    - japesbp
+    - aztecbp
+    - factorybp
+    - gloomybp
+    - fungibp
+    - cavebp
+    - castlebp
+    - islesbp
+- name: All 4 Bonus Barrel GBs in Giant Mushroom area
+  difficulty: 18
+  types:
+    - fungi, fungigb
+- name: 3 Banana Medals in Angry Aztec
+  difficulty: 18
+  types:
+    - aztec
+    - aztecbananas
+- name: 250 Total Bananas With Tiny
+  difficulty: 18
+  types:
+    - tiny
+    - japesbananas
+    - aztecbananas
+    - factorybananas
+    - gloomybananas
+    - fungibananas
+    - cavebananas
+    - castlebananas
+- name: All 5 GBs in 5 Door Cabin
+  difficulty: 18
+  types:
+    - cavegb
+    - diddy
+    - cave
+- name: 3 Lanky Banana Medals
+  difficulty: 18
+  types:
+    - medal
+    - lanky
+    - japesbananas
+    - aztecbananas
+    - factorybananas
+    - gloomybananas
+    - fungibananas
+    - cavebananas
+    - castlebananas
+- name: 2 GBs for each Kong in Jungle Japes
+  difficulty: 18
+  types:
+    - japesgb
+    - manybp
+    - japes
+- name: Open Crown Door in Helm
+  difficulty: 19
+  types:
+    - helm
+    - japescrown
+    - azteccrown
+    - factorycrown
+    - gloomycrown
+    - fungicrown
+    - cavecrown
+    - castlecrown
+    - islescrown
+    - helmcrown
+- name: 3 Diddy Banana Medals
+  difficulty: 19
+  types:
+    - diddy
+    - medal
+    - japesbananas
+    - aztecbananas
+    - factorybananas
+    - gloomybananas
+    - fungibananas
+    - cavebananas
+    - castlebananas
+- name: 5 Boss Keys
+  difficulty: 19
+  types:
+    - key
+    - manykey
+- name: 250 Total Bananas With Chunky
+  difficulty: 19
+  types:
+    - chunky
+    - japesbananas
+    - aztecbananas
+    - factorybananas
+    - gloomybananas
+    - fungibananas
+    - cavebananas
+    - castlebananas
+- name: 200 Bananas in Fungi Forest
+  difficulty: 19
+  types:
+    - fungibananas
+    - fungi
+- name: 3 Banana Medals in Crystal Caves
+  difficulty: 19
+  types:
+    - medal
+    - cavebananas
+    - cave
+- name: 7 Diddy Blueprints
+  difficulty: 19
+  types:
+    - bp
+    - diddy
+    - japesbp
+    - aztecbp
+    - factorybp
+    - gloomybp
+    - fungibp
+    - cavebp
+    - castlebp
+    - islesbp
+- name: 7 Lanky Blueprints
+  difficulty: 19
+  types:
+    - bp
+    - lanky
+    - japesbp
+    - aztecbp
+    - factorybp
+    - gloomybp
+    - fungibp
+    - cavebp
+    - castlebp
+    - islesbp
+- name: 2 GBs for each Kong in Frantic Factory
+  difficulty: 19
+  types:
+    - factory
+    - manybp
+    - factorygb
+- name: 3 Blueprints on each Kong
+  difficulty: 19
+  types:
+    - manybp
+    - japesbp
+    - aztecbp
+    - factorybp
+    - gloomybp
+    - fungibp
+    - cavebp
+    - castlebp
+    - islesbp
+- name: 7 Donkey Blueprints
+  difficulty: 20
+  types:
+    - bp
+    - donkey
+    - japesbp
+    - aztecbp
+    - factorybp
+    - gloomybp
+    - fungibp
+    - cavebp
+    - castlebp
+    - islesbp
+- name: 3 Tiny Banana Medals
+  difficulty: 20
+  types:
+    - medal
+    - tiny
+    - japesbananas
+    - aztecbananas
+    - factorybananas
+    - gloomybananas
+    - fungibananas
+    - cavebananas
+    - castlebananas
+- name: 10 GBs in Frantic Factory
+  difficulty: 20
+  types:
+    - factory
+    - factorygb
+- name: 10 GBs in DK Isles
+  difficulty: 20
+  types:
+    - isles
+    - islesgb
+- name: 7 Chunky Blueprints
+  difficulty: 20
+  types:
+    - bp
+    - chunky
+    - japesbp
+    - aztecbp
+    - factorybp
+    - gloomybp
+    - fungibp
+    - cavebp
+    - castlebp
+    - islesbp
+- name: Spawn K. Rool Battle
+  difficulty: 20
+  types:
+    - key3
+    - key8
+    - key
+    - manykey
+- name: 10 Lanky GBs
+  difficulty: 20
+  types:
+    - lanky
+    - japesgb
+    - aztecgb
+    - factorygb
+    - gloomygb
+    - fungigb
+    - cavegb
+    - castlegb
+    - islesgb
+- name: 200 Bananas in Creepy Castle
+  difficulty: 20
+  types:
+    - castlebananas
+    - castle
+- name: 3 Chunky Banana Medals
+  difficulty: 20
+  types:
+    - medal
+    - chunky
+    - japesbananas
+    - aztecbananas
+    - factorybananas
+    - gloomybananas
+    - fungibananas
+    - cavebananas
+    - castlebananas
+- name: 10 GBs in Gloomy Galleon
+  difficulty: 20
+  types:
+    - gloomy
+    - galleongb
+- name: 10 Tiny GBs
+  difficulty: 20
+  types:
+    - tiny
+    - japesgb
+    - aztecgb
+    - factorygb
+    - gloomygb
+    - fungigb
+    - cavegb
+    - castlegb
+    - islesgb
+- name: 300 Total Banana Coins
+  difficulty: 21
+  types:
+    - coin
+    - restrict_coin
+- name: 5 Banana Medals
+  difficulty: 21
+  types:
+    - medal
+    - japesbananas
+    - aztecbananas
+    - factorybananas
+    - gloomybananas
+    - fungibananas
+    - cavebananas
+    - castlebananas
+- name: Activate All Purple Warps
+  difficulty: 21
+  types:
+    - manylevel
+    - japeswarp
+    - aztecwarp
+    - factorywarp
+    - gloomywarp
+    - fungiwarp
+    - cavewarp
+    - castlewarp
+- name: Activate All Green Warps
+  difficulty: 21
+  types:
+    - manylevel
+    - japeswarp
+    - aztecwarp
+    - factorywarp
+    - gloomywarp
+    - fungiwarp
+    - cavewarp
+    - castlewarp
+- name: Open Helm Lobby
+  difficulty: 21
+  types:
+    - key7
+    - key6
+    - key
+    - manykey
+- name: 10 GBs in Angry Aztec
+  difficulty: 21
+  types:
+    - aztecgb
+    - aztec
+- name: 20 GBs
+  difficulty: 21
+  types:
+    - bp
+    - manybp
+    - japesgb
+    - aztecgb
+    - factorygb
+    - gloomygb
+    - fungigb
+    - cavegb
+    - castlegb
+    - islesgb
+- name: 10 Chunky GBs
+  difficulty: 21
+  types:
+    - chunky
+    - japesgb
+    - aztecgb
+    - factorygb
+    - gloomygb
+    - fungigb
+    - cavegb
+    - castlegb
+    - islesgb
+- name: 3 GBs on each kong
+  difficulty: 21
+  types:
+    - manybp
+    - japesgb
+    - aztecgb
+    - factorygb
+    - gloomygb
+    - fungigb
+    - cavegb
+    - castlegb
+    - islesgb
+- name: 2 GBs for each Kong in Gloomy Galleon
+  difficulty: 21
+  types:
+    - gloomy
+    - manybp
+    - galleongb
+- name: Chunky's Banana Medal in Hideout Helm
+  difficulty: 22
+  types:
+    - helm
+    - medal
+    - chunky
+- name: 10 GBs in Crystal Caves
+  difficulty: 22
+  types:
+    - cavegb
+    - cave
+- name: 3 Banana Medals in Fungi Forest
+  difficulty: 22
+  types:
+    - fungibananas
+    - medal
+    - fungi
+- name: 500 Total Bananas
+  difficulty: 22
+  types:
+    - japesbananas
+    - aztecbananas
+    - factorybananas
+    - gloomybananas
+    - fungibananas
+    - cavebananas
+    - castlebananas
+- name: 20 Blueprints
+  difficulty: 22
+  types:
+    - bp
+    - manybp
+    - japesbp
+    - aztecbp
+    - factorybp
+    - gloomybp
+    - fungibp
+    - cavebp
+    - castlebp
+    - islesbp
+- name: 3 Banana Medals in Creepy Castle
+  difficulty: 22
+  types:
+    - castlebananas
+    - castle
+    - medal
+- name: 15 Donkey GBs
+  difficulty: 22
+  types:
+    - donkey
+    - japesgb
+    - aztecgb
+    - factorygb
+    - gloomygb
+    - fungigb
+    - cavegb
+    - castlegb
+    - islesgb
+- name: 2 GBs for each Kong in DK Isles
+  difficulty: 22
+  types:
+    - isles
+    - manybp
+    - islesgb
+- name: Activate All Red Warps
+  difficulty: 22
+  types:
+    - manylevel
+    - japeswarp
+    - aztecwarp
+    - factorywarp
+    - gloomywarp
+    - fungiwarp
+    - cavewarp
+    - castlewarp
+- name: Activate All Yellow Warps
+  difficulty: 22
+  types:
+    - manylevel
+    - japeswarp
+    - aztecwarp
+    - factorywarp
+    - gloomywarp
+    - fungiwarp
+    - cavewarp
+    - castlewarp
+- name: 6 Battle Crowns
+  difficulty: 23
+  types:
+    - japescrown
+    - azteccrown
+    - factorycrown
+    - gloomycrown
+    - fungicrown
+    - cavecrown
+    - castlecrown
+    - islescrown
+    - helmcrown
+- name: All 5 GBs from 5 Door Temple
+  difficulty: 23
+  types:
+    - aztecgb
+    - aztec
+- name: All 4 R&D GBs
+  difficulty: 23
+  types:
+    - factorygb
+    - factory
+- name: Complete DK phase of K. Rool Fight
+  difficulty: 23
+  types:
+    - key3
+    - key8
+    - key
+    - manykey
+- name: 10 GBs in Creepy Castle
+  difficulty: 23
+  types:
+    - castlegb
+    - castle
+- name: 2 GBs per level
+  difficulty: 23
+  types:
+    - manylevel
+    - japesgb
+    - aztecgb
+    - factorygb
+    - gloomygb
+    - fungigb
+    - cavegb
+    - castlegb
+    - islesgb
+- name: Banana Medal with Every Kong
+  difficulty: 23
+  types:
+    - medal
+    - japesbananas
+    - aztecbananas
+    - factorybananas
+    - gloomybananas
+    - fungibananas
+    - cavebananas
+    - castlebananas
+- name: 90 coins with one Kong
+  difficulty: 23
+  types:
+    - coin
+    - restrict_coin
+- name: 2 GBs for each Kong in Crystal Caves
+  difficulty: 23
+  types:
+    - cavegb
+    - cave
+    - manybp
+- name: Activate All Blue Warps
+  difficulty: 23
+  types:
+    - manylevel
+    - japeswarp
+    - aztecwarp
+    - factorywarp
+    - gloomywarp
+    - fungiwarp
+    - cavewarp
+    - castlewarp
+- name: All 5 Crypt GBs in Castle
+  difficulty: 24
+  types:
+    - castle
+    - castlegb
+- name: 13 Banana Fairies
+  difficulty: 24
+  types:
+    - fairy
+    - key8
+- name: Complete All 7 Baboon Blasts
+  difficulty: 24
+  types:
+    - donkey
+    - manylevel
+    - japesgb
+    - aztecgb
+    - factorygb
+    - gloomygb
+    - fungigb
+    - cavegb
+    - castlegb
+    - islesgb
+- name: 2 GBs for each Kong in Fungi Forest
+  difficulty: 24
+  types:
+    - fungigb
+    - fungi
+- name: 4 Blueprints on each Kong
+  difficulty: 24
+  types:
+    - bp
+    - manybp
+    - japesbp
+    - aztecbp
+    - factorybp
+    - gloomybp
+    - fungibp
+    - cavebp
+    - castlebp
+    - islesbp
+- name: 6 Boss Keys
+  difficulty: 24
+  types:
+    - key
+    - manykey
+- name: All 3 Minecart rides
+  difficulty: 24
+  types:
+    - race
+- name: 10 GBs in Fungi Forest
+  difficulty: 24
+  types:
+    - fungigb
+    - fungi
+- name: 2 GBs for each Kong in Angry Aztec
+  difficulty: 24
+  types:
+    - aztec
+    - manybp
+    - aztecgb
+- name: 8 Bonus Barrel GBs
+  difficulty: 24
+  types:
+    - bonus
+    - japesgb
+    - aztecgb
+    - factorygb
+    - gloomygb
+    - fungigb
+    - cavegb
+    - castlegb
+    - islesgb
+- name: 4 GBs on each kong
+  difficulty: 25
+  types:
+    - manybp
+    - japesgb
+    - aztecgb
+    - factorygb
+    - gloomygb
+    - fungigb
+    - cavegb
+    - castlegb
+    - islesgb
+- name: Complete Diddy's phase of K. Rool Fight
+  difficulty: 25
+  types:
+    - key3
+    - key8
+    - key
+    - manykey
+- name: Complete 4 Coin-Collecting Courses
+  difficulty: 25
+  types:
+    - race
+- name: 600 Total Bananas
+  difficulty: 25
+  types:
+    - japesbananas
+    - aztecbananas
+    - factorybananas
+    - gloomybananas
+    - fungibananas
+    - cavebananas
+    - castlebananas
+- name: 25 Blueprints
+  difficulty: 25
+  types:
+    - bp
+    - manybp
+    - japesbp
+    - aztecbp
+    - factorybp
+    - gloomybp
+    - fungibp
+    - cavebp
+    - castlebp
+    - islesbp
+- name: 2 GBs for Each Kong in Creepy Castle
+  difficulty: 25
+  types:
+    - castle
+    - castlegb
+- name: 15 Diddy GBs
+  difficulty: 25
+  types:
+    - diddy
+    - japesgb
+    - aztecgb
+    - factorygb
+    - gloomygb
+    - fungigb
+    - cavegb
+    - castlegb
+    - islesgb
+- name: Lanky's Medal in Helm
+  difficulty: 25
+  types:
+    - helm
+    - medal
+    - lanky
+- name: 25 GBs
+  difficulty: 25
+  types:
+    - bp
+    - manybp
+    - japesgb
+    - aztecgb
+    - factorygb
+    - gloomygb
+    - fungigb
+    - cavegb
+    - castlegb
+    - islesgb
+- name: All banana medals for any level
+  difficulty: 25
+  types:
+    - medal
+    - japesbananas
+    - aztecbananas
+    - factorybananas
+    - gloomybananas
+    - fungibananas
+    - cavebananas
+    - castlebananas

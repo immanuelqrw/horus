@@ -1,0 +1,823 @@
+---
+- name: Gust-using Pidgey
+  difficulty: 1
+  types:
+    - BEACH
+- name: Sleeping Snorlax
+  difficulty: 1
+  types:
+    - BEACH
+- name: Vulpix (Uncentered)
+  difficulty: 1
+  types:
+    - VOLCANO
+- name: Look at Butterfree in report
+  difficulty: 1
+  types:
+    - REPORT
+- name: Drive out of Tunnel
+  difficulty: 1
+  types:
+    - TUNNEL
+    - DRIVE
+- name: Unlock Pester Balls
+  difficulty: 1
+  types:
+    - PESTER
+- name: Make Pikachu ride Electrode
+  difficulty: 2
+  types:
+    - TUNNEL
+- name: Make three Dugtrios appear
+  difficulty: 2
+  types:
+    - TUNNEL
+- name: Fainted Doduo
+  difficulty: 2
+  types:
+    - BEACH
+- name: Throw Meowth down the hill
+  difficulty: 2
+  types:
+    - BEACH
+    - PESTER
+- name: Slowbro
+  difficulty: 2
+  types:
+    - RIVER
+- name: Charmeleon
+  difficulty: 2
+  types:
+    - VOLCANO
+- name: Release three Porygons
+  difficulty: 3
+  types:
+    - RIVER
+    - PESTER
+- name: Speed Pikachu
+  difficulty: 3
+  types:
+    - RIVER
+- name: Shellder Sign
+  difficulty: 3
+  types:
+    - RIVER
+- name: Surfer Pikachu
+  difficulty: 3
+  types:
+    - BEACH
+- name: 'Album: Rapidash'
+  difficulty: 3
+  types:
+    - VOLCANO
+    - ALBUM
+- name: Wonderful Zubat (Cave)
+  difficulty: 3
+  types:
+    - CAVE
+- name: Beach Sign
+  difficulty: 3
+  types:
+    - BEACH
+- name: Hit a Kakuna with an apple
+  difficulty: 4
+  types:
+    - RIVER
+    - APPLE
+- name: Make Victreebel appear
+  difficulty: 4
+  types:
+    - CAVE
+- name: Full camera film in Tunnel
+  difficulty: 4
+  types:
+    - FILM
+- name: Throw a pester ball at electabuzz
+  difficulty: 4
+  types:
+    - PESTER
+    - TUNNEL
+- name: 3000+ Pic of Butterfree
+  difficulty: 4
+  types:
+    - BEACH
+- name: Digging Sandslash
+  difficulty: 4
+  types:
+    - VALLEY
+- name: 1000- Pic of Electrode
+  difficulty: 5
+  types:
+    - TUNNEL
+- name: Save Meowth from the Pidgeys
+  difficulty: 5
+  types:
+    - BEACH
+- name: Unlock the PokeFlute
+  difficulty: 5
+  types:
+    - FLUTE
+- name: Make a sparkling Dratini spawn
+  difficulty: 5
+  types:
+    - VALLEY
+- name: Climbing Graveler
+  difficulty: 5
+  types:
+    - VALLEY
+    - GRAVELER
+- name: 'Wonderful: Jynx'
+  difficulty: 5
+  types:
+    - CAVE
+- name: Make both electabuzz activate the TV screens
+  difficulty: 5
+  types:
+    - TUNNEL
+- name: Running Poliwag
+  difficulty: 6
+  types:
+    - RIVER
+- name: Get all Poliwags into the water
+  difficulty: 6
+  types:
+    - RIVER
+    - PESTER
+- name: Sparkling Magikarp (Cave)
+  difficulty: 6
+  types:
+    - CAVE
+    - PESTER
+- name: 4000+ Haunter
+  difficulty: 6
+  types:
+    - TUNNEL
+- name: Volcano Sign
+  difficulty: 6
+  types:
+    - SIGN
+    - VOLCANO
+- name: Pester ball a Vulpix
+  difficulty: 6
+  types:
+    - VOLCANO
+    - PESTER
+- name: Crash into the egg of Moltres
+  difficulty: 6
+  types:
+    - VOLCANO
+- name: Three Bulbasaurs
+  difficulty: 7
+  types:
+    - RIVER
+- name: 'Album: Palm tree'
+  difficulty: 7
+  types:
+    - ALBUM
+- name: Magikarp in Volcano
+  difficulty: 7
+  types:
+    - VOLCANO
+- name: Geodude w/ bonus points
+  difficulty: 7
+  types:
+    - VALLEY
+- name: 3000+ Shellder
+  difficulty: 7
+  types:
+    - RIVER
+- name: 300- Jynx
+  difficulty: 7
+  types:
+    - CAVE
+- name: Two Muks
+  difficulty: 8
+  types:
+    - CAVE
+- name: Make both Slowbros spawn
+  difficulty: 8
+  types:
+    - RIVER
+- name: Drive out of Cave
+  difficulty: 8
+  types:
+    - CAVE
+    - DRIVE
+- name: 'Wonderful: Arcanine'
+  difficulty: 8
+  types:
+    - VOLCANO
+- name: 'Wonderful: Magikarp in River'
+  difficulty: 8
+  types:
+    - RIVER
+- name: 3000+ Doduo
+  difficulty: 8
+  types:
+    - BEACH
+- name: 4000+ Slowbro
+  difficulty: 8
+  types:
+    - RIVER
+- name: Unlock Valley
+  difficulty: 8
+  types:
+    - VALLEY
+    - RAINBOW
+    - FLUTE
+- name: Jigglypuff Trio
+  difficulty: 9
+  types:
+    - CAVE
+- name: Fainted Weepinbell
+  difficulty: 9
+  types:
+    - CAVE
+- name: 'Wonderful: Staryu'
+  difficulty: 9
+  types:
+    - VALLEY
+- name: Magikarp lying on the floor
+  difficulty: 9
+  types:
+    - VALLEY
+- name: Hit the last Electrode in Tunnel without activating the cutscene
+  difficulty: 9
+  types:
+    - TUNNEL
+    - APPLE
+- name: 'Album: Dead tree'
+  difficulty: 9
+  types:
+    - VALLEY
+- name: Mid-air Sandshrew
+  difficulty: 10
+  types:
+    - VALLEY
+- name: Dancing Slowpoke
+  difficulty: 10
+  types:
+    - RIVER
+    - FLUTE
+- name: Fighting Magmars
+  difficulty: 10
+  types:
+    - VOLCANO
+- name: Balloon Pikachu
+  difficulty: 10
+  types:
+    - CAVE
+- name: 4000+ Porygon
+  difficulty: 10
+  types:
+    - RIVER
+- name: Leave Volcano w/ 4 pics left
+  difficulty: 10
+  types:
+    - VOLCANO
+- name: 3200+ Psyduck
+  difficulty: 10
+  types:
+    - RIVER
+- name: Two Cloysters
+  difficulty: 11
+  types:
+    - RIVER
+- name: Make Charizard spawn
+  difficulty: 11
+  types:
+    - VOLCANO
+- name: Three Vulpix
+  difficulty: 11
+  types:
+    - VOLCANO
+- name: Hit a Cloyster with an apple
+  difficulty: 11
+  types:
+    - RIVER
+    - APPLE
+- name: 3500+ Charizard
+  difficulty: 11
+  types:
+    - VOLCANO
+- name: Throw twelve apples into a trunk
+  difficulty: 11
+  types:
+    - RIVER
+    - APPLE
+- name: 2500+ Weepinbell
+  difficulty: 11
+  types:
+    - CAVE
+- name: 'Album: all three Pikachus in Tunnel'
+  difficulty: 11
+  types:
+    - TUNNEL
+    - ALBUM
+- name: Dancing Meowth
+  difficulty: 12
+  types:
+    - BEACH
+    - FLUTE
+- name: Make Magmar attack Charmander
+  difficulty: 12
+  types:
+    - VOLCANO
+- name: 500- Moltres
+  difficulty: 12
+  types:
+    - VOLCANO
+- name: Kangaskhan in the air
+  difficulty: 12
+  types:
+    - BEACH
+- name: Snorlax with both feet in the air
+  difficulty: 12
+  types:
+    - BEACH
+- name: 'Wonderful: Four Metapods'
+  difficulty: 13
+  types:
+    - RIVER
+- name: 3000+ Chansey
+  difficulty: 13
+  types:
+    - BEACH
+- name: 'Wonderful: Porygon activating the switch'
+  difficulty: 13
+  types:
+    - RIVER
+- name: Make all four Bulbadittos in Cave transform
+  difficulty: 13
+  types:
+    - PESTER
+    - DITTO
+- name: 3000+ Ditto
+  difficulty: 13
+  types:
+    - CAVE
+- name: Hit Moltres with an apple
+  difficulty: 13
+  types:
+    - VOLCANO
+    - APPLE
+- name: 'Wonderful: Magikarp in Beach'
+  difficulty: 13
+  types:
+    - BEACH
+- name: 3000+ Scyther
+  difficulty: 14
+  types:
+    - BEACH
+    - PESTER
+- name: 3500+ Kangaskhan
+  difficulty: 14
+  types:
+    - BEACH
+- name: 3000+ Cloyster
+  difficulty: 14
+  types:
+    - RIVER
+- name: 3000+ Koffing
+  difficulty: 14
+  types:
+    - CAVE
+- name: 3000+ Zubat
+  difficulty: 14
+  types:
+    - CAVE
+- name: 4000+ Rapidash
+  difficulty: 14
+  types:
+    - VOLCANO
+- name: 3000+ Charmeleon
+  difficulty: 14
+  types:
+    - VOLCANO
+- name: 2000+ Dratini
+  difficulty: 14
+  types:
+    - VALLEY
+- name: 4000+ Gyarados
+  difficulty: 14
+  types:
+    - VALLEY
+- name: 4500+ Dragonite
+  difficulty: 15
+  types:
+    - VALLEY
+    - PESTER
+- name: Rapidash standing on the front legs
+  difficulty: 15
+  types:
+    - VOLCANO
+- name: Make Sandslash faint with a pester ball
+  difficulty: 15
+  types:
+    - VALLEY
+    - PESTER
+- name: Get eight different Pokemon in Beach
+  difficulty: 15
+  types:
+    - BEACH
+- name: Crash into a Dratini with your cart
+  difficulty: 15
+  types:
+    - VALLEY
+- name: Four different Pokemon
+  difficulty: 15
+  types:
+    - RAINBOW
+- name: Jumping Graveler
+  difficulty: 16
+  types:
+    - VALLEY
+    - GRAVELER
+- name: 20 pics of the first Grimer in Cave
+  difficulty: 16
+  types:
+    - CAVE
+- name: 'Album: 15+ pics'
+  difficulty: 16
+  types:
+    - ALBUM
+- name: Sparkling Goldeen pic
+  difficulty: 16
+  types:
+    - VALLEY
+    - PESTER
+- name: Six Charmanders dancing
+  difficulty: 16
+  types:
+    - VOLCANO
+    - FLUTE
+- name: Dancing Gravelers
+  difficulty: 16
+  types:
+    - VALLEY
+    - FLUTE
+    - GRAVELER
+- name: Crash into a Vulpix
+  difficulty: 16
+  types:
+    - VOLCANO
+- name: 4000+ Kakuna
+  difficulty: 16
+  types:
+    - CAVE
+- name: Full camera film in Rainbow Cloud
+  difficulty: 17
+  types:
+    - FILM
+    - RAINBOW
+- name: Submit an uncentered Moltres pic
+  difficulty: 17
+  types:
+    - VOLCANO
+- name: Zapdos activating the generator
+  difficulty: 17
+  types:
+    - TUNNEL
+- name: Cave sign
+  difficulty: 17
+  types:
+    - CAVE
+    - SIGN
+- name: River sign
+  difficulty: 17
+  types:
+    - RIVER
+    - SIGN
+- name: Tunnel sign
+  difficulty: 17
+  types:
+    - TUNNEL
+    - SIGN
+- name: 'Album: All three different Snorlax dances'
+  difficulty: 18
+  types:
+    - FLUTE
+    - BEACH
+    - ALBUM
+- name: 'Album: Four different Mankeys'
+  difficulty: 18
+  types:
+    - VALLEY
+    - ALBUM
+- name: Knock out three different Mankeys
+  difficulty: 18
+  types:
+    - VALLEY
+    - PESTER
+- name: 4200+ Gyarados
+  difficulty: 18
+  types:
+    - PESTER
+    - VALLEY
+- name: 'Wonderful: Starmie'
+  difficulty: 18
+  types:
+    - VALLEY
+- name: Three Squirtles
+  difficulty: 18
+  types:
+    - VALLEY
+    - PESTER
+- name: Haunter and a flying apple
+  difficulty: 19
+  types:
+    - TUNNEL
+    - APPLE
+- name: Make the second Scyther spawn
+  difficulty: 19
+  types:
+    - BEACH
+- name: 'Album: All three Vileplume dances'
+  difficulty: 19
+  types:
+    - RIVER
+    - FLUTE
+    - ALBUM
+- name: Three Growlithes
+  difficulty: 19
+  types:
+    - VOLCANO
+- name: 3500+ Magnemite
+  difficulty: 19
+  types:
+    - TUNNEL
+- name: 3500+ Magneton
+  difficulty: 19
+  types:
+    - TUNNEL
+- name: 3750+ Snorlax
+  difficulty: 19
+  types:
+    - BEACH
+- name: 3000+ Zapdos
+  difficulty: 19
+  types:
+    - TUNNEL
+- name: 3000+ Lapras
+  difficulty: 19
+  types:
+    - BEACH
+- name: Six pics of Charizard spitting fire
+  difficulty: 20
+  types:
+    - VOLCANO
+- name: 'Album: Five different exploded Electrodes'
+  difficulty: 20
+  types:
+    - APPLE
+    - TUNNEL
+    - ALBUM
+- name: 'Album: All three legendary bird eggs'
+  difficulty: 20
+  types:
+    - ALBUM
+- name: 'Album: Two combined Magnemites'
+  difficulty: 20
+  types:
+    - TUNNEL
+- name: Unlock Rainbow Cloud
+  difficulty: 20
+  types:
+    - RAINBOW
+- name: 3500+ Electrode
+  difficulty: 20
+  types:
+    - TUNNEL
+- name: 5000+ Pidgey
+  difficulty: 20
+  types:
+    - BEACH
+- name: 4800+ Magmar
+  difficulty: 20
+  types:
+    - VOLCANO
+- name: 'Album: Jumping Vileplume'
+  difficulty: 21
+  types:
+    - RIVER
+    - FLUTE
+    - ALBUM
+- name: 4400+ Jigglypuff
+  difficulty: 21
+  types:
+    - CAVE
+- name: 4000+ Grimer
+  difficulty: 21
+  types:
+    - CAVE
+- name: 4000+ Victreebel
+  difficulty: 21
+  types:
+    - CAVE
+- name: 3500+ Poliwag
+  difficulty: 21
+  types:
+    - RIVER
+- name: 4500+ Moltres
+  difficulty: 22
+  types:
+    - VOLCANO
+- name: Two Psyducks
+  difficulty: 22
+  types:
+    - RIVER
+- name: Snipe first Psyduck w/o using boost (River)
+  difficulty: 22
+  types:
+    - RIVER
+- name: 'Wonderful: Metapod climbing back up'
+  difficulty: 22
+  types:
+    - RIVER
+- name: Crash into a jumping Psyduck
+  difficulty: 22
+  types:
+    - RIVER
+- name: 4000+ Muk
+  difficulty: 22
+  types:
+    - CAVE
+- name: 500- Koffing
+  difficulty: 22
+  types:
+    - CAVE
+- name: 4800 Sandslash
+  difficulty: 23
+  types:
+    - VALLEY
+- name: 'Album: two different Charmeleons lying on the floor'
+  difficulty: 23
+  types:
+    - VOLCANO
+    - PESTER
+- name: Exactly three Charmanders dancing
+  difficulty: 23
+  types:
+    - VOLCANO
+- name: Three Rapidashes
+  difficulty: 23
+  types:
+    - VOLCANO
+- name: One wing of Zubat only
+  difficulty: 23
+  types:
+    - TUNNEL
+    - CAVE
+- name: Four Kakunas
+  difficulty: 23
+  types:
+    - TUNNEL
+- name: Submit 11 uncentered pics in Tunnel
+  difficulty: 23
+  types:
+    - TUNNEL
+- name: Look at Mew in the Pokemon Report
+  difficulty: 23
+  types:
+    - RAINBOW
+- name: Three Arcanines
+  difficulty: 24
+  types:
+    - VOLCANO
+    - PESTER
+- name: Two Electabuzz eating the same apple
+  difficulty: 24
+  types:
+    - TUNNEL
+    - APPLE
+- name: Watch the end credits
+  difficulty: 24
+  types:
+    - RAINBOW
+- name: 3000- Mew
+  difficulty: 24
+  types:
+    - RAINBOW
+- name: 3400+ Diglett
+  difficulty: 24
+  types:
+    - TUNNEL
+- name: Pester Ball a Zubat in Cave
+  difficulty: 24
+  types:
+    - CAVE
+    - PESTER
+- name: Mew facing you
+  difficulty: 25
+  types:
+    - RAINBOW
+- name: 'Wonderful: 11 pics of different Pokemon in Valley'
+  difficulty: 25
+  types:
+    - VALLEY
+- name: Pikachu riding Articuno
+  difficulty: 25
+  types:
+    - CAVE
+- name: Throw 200 apples into the river in Valley
+  difficulty: 25
+  types:
+    - VALLEY
+    - APPLE
+- name: Challenge score in Beach
+  difficulty: 25
+  types:
+    - CHALLENGE
+    - BEACH
+- name: Challenge score in Volcano
+  difficulty: 25
+  types:
+    - CHALLENGE
+    - VOLCANO
+- name: 'Album: Submit pics of 5 butts'
+  difficulty: 5
+  types:
+    - MEME
+    - ALBUM
+- name: Slowbro and Shellder
+  difficulty: 20
+  types:
+    - RIVER
+- name: Explode all the Electrodes in Tunnel
+  difficulty: 3
+  types:
+    - TUNNEL
+    - APPLE
+- name: Knock Weepinbell over 4+ times without sending into pond
+  difficulty:
+  types:
+    - CAVE
+    - APPLE
+- name: 'Album: All (5) Zubats in Tunnel and Cave'
+  difficulty: 16
+  types:
+    - TUNNEL
+    - CAVE
+    - ALBUM
+- name: Throw 40 apples into lava in Volcano
+  difficulty: 10
+  types:
+    - APPLE
+    - VOLCANO
+- name: Bounce apple off of Vileplume 10 times in a row
+  difficulty: 22
+  types:
+    - APPLE
+    - RIVER
+- name: Knock out 3 Pikachus in Tunnel
+  difficulty: 4
+  types:
+    - TUNNEL
+    - PESTER
+- name: Mankey Snipe
+  difficulty: 1
+  types:
+    - PESTER
+    - VALLEY
+- name: 'Album: All 8 Pikachus in Beach, Tunnel, River, and Cave'
+  difficulty: 18
+  types:
+    - ALBUM
+    - BEACH
+    - TUNNEL
+    - RIVER
+    - CAVE
+- name: Knock down all Geodudes and Gravelers
+  difficulty: 4
+  types:
+    - VALLEY
+    - PESTER
+- name: Knock all the Squirtles out of the water in the beginning of Valley
+  difficulty: 15
+  types:
+    - VALLEY
+    - PESTER
+- name: Beach Sign using Dash Engine
+  difficulty: 3
+  types:
+    - BEACH
+    - SIGN
+    - DASH
+- name: Tunnel Sign using Dash Engine
+  difficulty: 5
+  types:
+    - TUNNEL
+    - SIGN
+    - DASH
+- name: Volcano Sign using Dash Engine
+  difficulty: 10
+  types:
+    - VOLCANO
+    - SIGN
+    - DASH
+- name: Cave Sign using Dash Engine
+  difficulty: 12
+  types:
+    - CAVE
+    - SIGN
+    - DASH

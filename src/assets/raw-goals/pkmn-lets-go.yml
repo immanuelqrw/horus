@@ -1,0 +1,378 @@
+---
+- name: Win a Battle with only your starter
+  difficulty: 1
+  types:
+    - BATTLE
+    - STARTER
+- name: Catch a Pokemon with 2 Pokeballs
+  difficulty: 1
+  types:
+    - CATCH
+- name: Win a Badge with only your starter
+  difficulty: 2
+  types:
+    - BATTLE
+    - BADGE
+    - STARTER
+- name: Catch a Pokemon with your first throw
+  difficulty: 2
+  types:
+    - CATCH
+- name: Catch a Pokemon with an Excellent Throw
+  difficulty: 3
+  types:
+    - CATCH
+- name: Find 3 hidden items
+  difficulty: 3
+  types:
+    - EXPLORE
+- name: Evolve a Pokemon after catching another Pokemon in it's Evolution line
+  difficulty: 4
+  types:
+    - EVOLVE
+- name: Run around a wild Pokemon 10 times without entering a battle
+  difficulty: 4
+  types:
+    - DODGE
+- name: Win a Battle with only status moves
+  difficulty: 5
+  types:
+    - BATTLE
+- name: Win a Badge with only status moes
+  difficulty: 5
+  types:
+    - BATTLE
+    - BADGE
+- name: Catch Bulbasaur, Charmander, Squirtle, Caterpie, Pidgey, and Pikachu
+  difficulty: 6
+  types:
+    - CATCH
+    - BULBASAUR
+    - CHARMANDER
+    - SQUIRTLE
+    - CATERPIE
+    - PIDGEY
+    - PIKACHU
+- name: Catch Squirtle and Mankey
+  difficulty: 6
+  types:
+    - CATCH
+    - SQUIRTLE
+    - MANKEY
+- name: Catch Charizard, Growlithe, and Arcanine
+  difficulty: 7
+  types:
+    - CATCH
+    - CHARMANDER
+    - GROWLITHE
+- name: Catch or Evolve a rideable Pokemon
+  difficulty: 7
+  types:
+    - CATCH
+    - EVOLVE
+    - AERODACTYL
+    - GROWLITHE
+    - CHARMANDER
+    - DODUO
+    - DRATINI
+    - MAGIKARP
+    - GASTLY
+    - KANGASKHAN
+    - LAPRAS
+    - MACHOP
+    - ONIX
+    - MEOWTH
+    - PONYTA
+    - RHYHORN
+    - SNORLAX
+    - STARYU
+    - TAUROS
+- name: Go through Diglett's Cave without encountering a Pokemon
+  difficulty: 8
+  types:
+    - TRAVEL
+    - DODGE
+    - VERMILLION
+- name: Travel from Fuschia to Cinnabar by water without encountering a Pokemon
+  difficulty: 8
+  types:
+    - TRAVEL
+    - DODGE
+    - FUSCHIA
+    - CINNABAR
+- name: Beat Lt. Surge's Raichu with a Pikachu
+  difficulty: 9
+  types:
+    - BATTLE
+    - BADGE
+    - PIKACHU
+- name: Beat 5 Coach Trainers
+  difficulty: 9
+  types:
+    - BATTLE
+- name: Catch 4 of [Pikachu, Clefairy, Hitmonchan or Hitmonlee, Jynx, Electabuzz, Magmar, Snorlax, Chansey]
+  difficulty: 10
+  types:
+    - CATCH
+    - PIKACHU
+    - CLEFAIRY
+    - HITMONCHAN
+    - HITMONLEE
+    - JYNX
+    - ELECTABUZZ
+    - MAGMAR
+    - SNORLAX
+    - CHANSEY
+- name: Go through Mount Moon without encountering a Pokemon
+  difficulty: 10
+  types:
+    - TRAVEL
+    - DODGE
+- name: Go though Rock Tunnel without encountering a Pokemon
+  difficulty: 11
+  types:
+    - TRAVEL
+    - DODGE
+- name: Beat Brock's Onix without using a super-effective move
+  difficulty: 11
+  types:
+    - BATTLE
+- name: Catch Vileplume
+  difficulty: 12
+  types:
+    - CATCH
+    - EVOLVE
+    - ODDISH
+- name: Beat every trainer in Pokemon Tower without healing or having a Pokemon faint
+  difficulty: 12
+  types:
+    - BATTLE
+- name: Catch a Pokemon that requires battling before capture
+  difficulty: 13
+  types:
+    - BATTLE
+    - CATCH
+- name: See 100 Pokemon
+  difficulty: 13
+  types:
+    - EXPLORE
+- name: Catch 3 Eevee and get a Fire, a Water, and a Thunder Stone
+  difficulty: 14
+  types:
+    - CATCH
+    - CELADON
+- name: Catch 2 of [Vileplume, Poliwrath, Slowbro, Hitmonchan or Hitmonlee, an Eeveelution]
+  difficulty: 14
+  types:
+    - CATCH
+    - ODDISH
+    - POLIWAG
+    - SLOWPOKE
+    - HITMONCHAN
+    - HITMONLEE
+    - EEVEE
+- name: Catch 3 of [Electabuzz, Magmar, Scyther, Golbat, Magneton, Onix, Rhydon, Seadra, Chansey]
+  difficulty: 15
+  types:
+    - CATCH
+    - ELECTABUZZ
+    - MAGMAR
+    - SCYTHER
+    - ZUBAT
+    - MAGNEMITE
+    - ONIX
+    - RHYHORN
+    - HORSEA
+    - CHANSEY
+- name: Catch a Kingler, Pinsir, Koffing, Cubone, and Dugtrio
+  difficulty: 15
+  types:
+    - CATCH
+    - KRABBY
+    - PINSIR
+    - KOFFING
+    - CUBONE
+    - DIGLETT
+- name: Catch Poliwag, Bulbasaur, Shellder, Slowbro, Slowpoke, Metapod, Psyduck, Porygon, and Cloyster
+  difficulty: 16
+  types:
+    - CATCH
+    - POLIWAG
+    - BULBASAUR
+    - SHELLDER
+    - SLOWPOKE
+    - CATERPIE
+    - PSYDUCK
+    - PORYGON
+- name: Catch Lapras, Primeape, Krabby, Muk, Tauros, and Snorlax
+  difficulty: 16
+  types:
+    - CATCH
+    - LAPRAS
+    - MANKEY
+    - KRABBY
+    - GRIMER
+    - TAUROS
+    - SNORLAX
+- name: Catch Electrode, Electabuzz, Kakuna, Zubat, Magikarp, Haunter, Diglett, Dugtrio, Magnemite, and Magneton
+  difficulty: 17
+  types:
+    - CATCH
+    - VOLTORB
+    - ELECTABUZZ
+    - WEEDLE
+    - ZUBAT
+    - MAGIKARP
+    - GASTLY
+    - DIGLETT
+    - MAGNEMITE
+- name: Beat Sabrina using only a Haunter
+  difficulty: 17
+  types:
+    - BATTLE
+    - BADGE
+    - GASTLY
+- name: Catch 3 Non-Starter Pokemon which can Mega-Evolve
+  difficulty: 18
+  types:
+    - CATCH
+    - ABRA
+    - GASTLY
+    - KANGASKHAN
+    - PINSIR
+    - MAGIKARP
+    - AERODACTYL
+    - MEWTWO
+    - SCYTHER
+    - WEEDLE
+    - PIDGEY
+    - SLOWPOKE
+    - ONIX
+- name: Catch Ditto, Grimer, Muk, Jigglypuff, Koffing, Weepinbell, and Victreebel
+  difficulty: 18
+  types:
+    - CATCH
+    - DITTO
+    - GRIMER
+    - JIGGLYPUFF
+    - KOFFING
+    - BELLSPROUT
+- name: Catch 3 Rare Spawn Pokemon
+  difficulty: 19
+  types:
+    - CATCH
+    - BULBASAUR
+    - CHARMANDER
+    - SQUIRTLE
+    - HITMONLEE
+    - HITMONCHAN
+    - CHANSEY
+    - LAPRAS
+    - PORYGON
+    - SNORLAX
+    - ARTICUNO
+    - ZAPDOS
+    - MOLTRES
+    - DRATINI
+- name: Trade for all Alolan variants
+  difficulty: 19
+  types:
+    - TRADE
+    - CATCH
+    - RATTATA
+    - PIKACHU
+    - SANDSHREW
+    - VULPIX
+    - DIGLETT
+    - MEOWTH
+    - GEODUDE
+    - GRIMER
+    - EXEGGCUTE
+    - CUBONE
+- name: Catch Pidgey, Doduo, Pikachu, Butterfree, Lapras, Meowth, Eevee, and Kangaskhan
+  difficulty: 20
+  types:
+    - CATCH
+    - PIDGEY
+    - DODUO
+    - PIKACHU
+    - BUTTERFREE
+    - LAPRAS
+    - MEOWTH
+    - EEVEE
+    - KANGASKHAN
+- name: Catch Nidoking, Arcanine, Blastoise, Nidoqueen, Magmar, Scyther, Golem, Eevee, and Electabuzz
+  difficulty: 20
+  types:
+    - CATCH
+    - NIDORAN♂
+    - GROWLITHE
+    - SQUIRTLE
+    - NIDORAN♀
+    - MAGMAR
+    - SCYTHER
+    - GEODUDE
+    - EEVEE
+    - ELECTABUZZ
+- name: Catch Zapdos
+  difficulty: 21
+  types:
+    - CATCH
+    - BATTLE
+    - ZAPDOS
+- name: Catch Rapidash, Vulpix, Charmander, Magmar, Charmeleon, and Moltres
+  difficulty: 21
+  types:
+    - CATCH
+    - BATTLE
+    - PONYTA
+    - VULPIX
+    - CHARMANDER
+    - MAGMAR
+    - MOLTRES
+- name: Catch Jynx and Articuno
+  difficulty: 22
+  types:
+    - CATCH
+    - BATTLE
+    - JYNX
+    - ARCTICUNO
+- name: Catch Geodude, Sandshrew, Graveler, Sandslash, Gyarados, Staryu, Starmie, Dragonite, Dratini, and Goldeen
+  difficulty: 22
+  types:
+    - CATCH
+    - GEODUDE
+    - SANDSHREW
+    - MAGIKARP
+    - STARYU
+    - DRATINI
+    - GOLDEEN
+- name: Catch Snorlax, Scyther, and Chansey
+  difficulty: 23
+  types:
+    - CATCH
+    - BATTLE
+    - SNORLAX
+    - SCYTHER
+    - CHANSEY
+- name: Beat Erika without using a damaging move
+  difficulty: 23
+  types:
+    - BATTLE
+    - BADGE
+    - CELADON
+- name: Beat the Elite Four while not switching until a Pokemon has fainted
+  difficulty: 24
+  types:
+    - BATTLE
+    - ELITE_FOUR
+- name: Find a Shiny Pokemon
+  difficulty: 24
+  types:
+    - CATCH
+    - SHINY
+- name: Catch Mewtwo
+  difficulty: 25
+  types:
+    - CATCH
+    - BATTLE

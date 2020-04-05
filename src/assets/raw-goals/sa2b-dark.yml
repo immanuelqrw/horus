@@ -1,0 +1,652 @@
+---
+- name: Rename a Chao after a person you're racing
+  difficulty: 1
+  types:
+    - chaogarden
+    - multistory
+- name: Iron Gate M2
+  difficulty: 1
+  types:
+    - irongate
+- name: Complete Iron Gate M1 with 100+ Rings
+  difficulty: 1
+  types:
+    - irongate
+- name: 2 Chao Boxes in Iron Gate and finish
+  difficulty: 1
+  types:
+    - irongate
+- name: 5 hidden Chao animals in Iron Gate and finish
+  difficulty: 1
+  types:
+    - irongate
+- name: Dry Lagoon M1 Hintless
+  difficulty: 1
+  types:
+    - drylagoon
+- name: Dry Lagoon M2
+  difficulty: 2
+  types:
+    - drylagoon
+- name: Complete Dry Lagoon M1 with 100+ Rings
+  difficulty: 2
+  types:
+    - drylagoon
+- name: 2 Chao Boxes in Dry Lagoon and finish
+  difficulty: 2
+  types:
+    - drylagoon
+- name: 5 hidden Chao animals in Dry Lagoon and finish
+  difficulty: 2
+  types:
+    - drylagoon
+- name: Dry Lagoon M3
+  difficulty: 2
+  types:
+    - drylagoon
+- name: Dry Lagoon M3 B-Rank
+  difficulty: 2
+  types:
+    - drylagoon
+    - brank
+- name: Complete Sand Ocean M1 with 100+ Rings
+  difficulty: 3
+  types:
+    - sandocean
+- name: 2 Chao Boxes in Sand Ocean and finish
+  difficulty: 3
+  types:
+    - sandocean
+- name: Beginner Chao Karate Emblem (with a new Chao)
+  difficulty: 3
+  types:
+    - multistory
+- name: Dry Lagoon M4
+  difficulty: 3
+  types:
+    - drylagoon
+- name: Dry Lagoon M5
+  difficulty: 3
+  types:
+    - drylagoon
+- name: 5 hidden Chao animals in Sand Ocean and finish
+  difficulty: 3
+  types:
+    - sandocean
+- name: Sand Ocean M2
+  difficulty: 4
+  types:
+    - sandocean
+- name: Dry Lagoon M5 A-Rank
+  difficulty: 4
+  types:
+    - drylagoon
+    - arank
+- name: Shadow's Flame Ring
+  difficulty: 4
+  types:
+    - radicalhighway
+- name: Dry Lagoon M4 A-Rank
+  difficulty: 4
+  types:
+    - drylagoon
+    - arank
+- name: Destroy the Gold Beetle in 3 different stages
+  difficulty: 4
+  types:
+    - goldbeetle
+- name: Pacifist Radical Highway M1
+  difficulty: 4
+  types:
+    - radicalhighway
+- name: Dry Lagoon All Missions A-Rank
+  difficulty: 5
+  types:
+    - drylagoon
+    - arank
+    - allmissions
+- name: Unlock Chao Garden for all characters
+  difficulty: 5
+  types:
+    - chaogarden
+- name: Complete Radical Highway M1 with 100+ Rings
+  difficulty: 5
+  types:
+    - radicalhighway
+- name: 2 Chao Boxes in Radical Highway and finish
+  difficulty: 5
+  types:
+    - radicalhighway
+- name: 5 hidden Chao animals in Radical Highway and finish
+  difficulty: 5
+  types:
+    - radicalhighway
+- name: Egg Quarters M1 Hintless
+  difficulty: 6
+  types:
+    - eggquarters
+- name: Radical Highway M2
+  difficulty: 6
+  types:
+    - radicalhighway
+- name: 2 Chao Boxes in Egg Quarters and finish
+  difficulty: 6
+  types:
+    - eggquarters
+- name: Rouge's Mystic Melody
+  difficulty: 6
+  types:
+    - drylagoon
+- name: 500 Total Rings
+  difficulty: 6
+  types:
+    - multistory
+- name: Egg Quarters M2
+  difficulty: 7
+  types:
+    - eggquarters
+- name: Complete Egg Quarters M1 with 100+ Rings
+  difficulty: 7
+  types:
+    - eggquarters
+- name: Radical Highway M3
+  difficulty: 7
+  types:
+    - radicalhighway
+- name: 5 hidden Chao animals in Egg Quarters and finish
+  difficulty: 7
+  types:
+    - eggquarters
+- name: Complete Egg Quarters M1 with a Magnetic Shield
+  difficulty: 7
+  types:
+    - eggquarters
+- name: Egg Quarters M3
+  difficulty: 8
+  types:
+    - eggquarters
+- name: Radical Highway M4
+  difficulty: 8
+  types:
+    - radicalhighway
+- name: Dr Eggman's Mystic Melody
+  difficulty: 8
+  types:
+    - lostcolony
+- name: Radical Highway M4 A-Rank
+  difficulty: 8
+  types:
+    - radicalhighway
+    - arank
+- name: Egg Quarters M4
+  difficulty: 8
+  types:
+    - eggquarters
+- name: Destroy the Gold Beetle in 5 different stages
+  difficulty: 8
+  types:
+    - goldbeetle
+    - multistory
+- name: Egg Quarters M4 A-Rank
+  difficulty: 9
+  types:
+    - eggquarters
+    - arank
+- name: Lost Colony M2
+  difficulty: 9
+  types:
+    - lostcolony
+- name: Sand Ocean M3
+  difficulty: 9
+  types:
+    - sandocean
+- name: Complete Lost Colony M1 with 100+ Rings
+  difficulty: 9
+  types:
+    - lostcolony
+- name: 2 Chao Boxes in Lost Colony and finish
+  difficulty: 9
+  types:
+    - lostcolony
+- name: 5 hidden Chao animals in Lost Colony and finish
+  difficulty: 9
+  types:
+    - lostcolony
+- name: Radical Highway M5
+  difficulty: 9
+  types:
+    - radicalhighway
+- name: 10 Emblems
+  difficulty: 9
+  types:
+    - emblems
+    - multistory
+- name: Radical Highway M5 A-Rank
+  difficulty: 10
+  types:
+    - radicalhighway
+    - arank
+- name: Iron Gate M3
+  difficulty: 10
+  types:
+    - irongate
+- name: Egg Quarters M5
+  difficulty: 10
+  types:
+    - eggquarters
+- name: Game Over during Tails 1
+  difficulty: 10
+  types:
+    - gameover
+- name: Weapons Bed M2
+  difficulty: 10
+  types:
+    - weaponsbed
+- name: Complete Weapons Bed M1 with 100+ Rings
+  difficulty: 10
+  types:
+    - weaponsbed
+- name: 2 Chao Boxes in Weapons Bed and finish
+  difficulty: 10
+  types:
+    - weaponsbed
+- name: 5 hidden Chao animals in Weapons Bed and finish
+  difficulty: 10
+  types:
+    - weaponsbed
+- name: Pacifist Weapons Bed M1
+  difficulty: 10
+  types:
+    - weaponsbed
+- name: Sand Ocean M4
+  difficulty: 10
+  types:
+    - sandocean
+- name: Radical Highway All Missions A-Rank
+  difficulty: 11
+  types:
+    - radicalhighway
+    - arank
+    - allmissions
+- name: Egg Quarters M5 A-Rank
+  difficulty: 11
+  types:
+    - eggquarters
+    - arank
+- name: Sand Ocean M4 A-Rank
+  difficulty: 11
+  types:
+    - sandocean
+    - arank
+- name: Rouge's Treasure Scope
+  difficulty: 11
+  types:
+    - securityhall
+- name: Security Hall M1 Hintless
+  difficulty: 11
+  types:
+    - securityhall
+- name: Iron Gate M4
+  difficulty: 11
+  types:
+    - irongate
+- name: Lost Colony M3
+  difficulty: 11
+  types:
+    - lostcolony
+- name: Weapons Bed M3
+  difficulty: 11
+  types:
+    - weaponsbed
+- name: Dr Eggman's Laser Blaster
+  difficulty: 11
+  types:
+    - irongate
+- name: Game Over during Flying Dog
+  difficulty: 12
+  types:
+    - gameover
+- name: Security Hall M2
+  difficulty: 12
+  types:
+    - securityhall
+- name: Complete Security Hall M1 with 100+ Rings
+  difficulty: 12
+  types:
+    - securityhall
+- name: 2 Chao Boxes in Security Hall and finish
+  difficulty: 12
+  types:
+    - securityhall
+- name: 5 hidden Chao animals in Security Hall and finish
+  difficulty: 12
+  types:
+    - securityhall
+- name: Complete Security Hall M1 with a Magnetic Shield
+  difficulty: 12
+  types:
+    - securityhall
+- name: Egg Quarters All Missions A-Rank
+  difficulty: 13
+  types:
+    - eggquarters
+    - arank
+    - allmissions
+- name: Iron Gate M4 A-Rank
+  difficulty: 13
+  types:
+    - irongate
+    - arank
+- name: Iron Gate M5
+  difficulty: 13
+  types:
+    - irongate
+- name: Sand Ocean M5
+  difficulty: 13
+  types:
+    - sandocean
+- name: Security Hall M3
+  difficulty: 13
+  types:
+    - securityhall
+- name: Security Hall M3 B-Rank
+  difficulty: 13
+  types:
+    - securityhall
+    - brank
+- name: Weapons Bed M4
+  difficulty: 13
+  types:
+    - weaponsbed
+- name: Security Hall M4
+  difficulty: 13
+  types:
+    - securityhall
+- name: Lost Colony M4
+  difficulty: 13
+  types:
+    - lostcolony
+- name: Iron Gate M5 A-Rank
+  difficulty: 14
+  types:
+    - irongate
+    - arank
+- name: Sand Ocean M5 A-Rank
+  difficulty: 14
+  types:
+    - sandocean
+    - arank
+- name: Weapons Bed M4 A-Rank
+  difficulty: 14
+  types:
+    - weaponsbed
+    - arank
+- name: Security Hall M4 A-Rank
+  difficulty: 14
+  types:
+    - securityhall
+    - arank
+- name: Lost Colony M4 A-Rank
+  difficulty: 14
+  types:
+    - lostcolony
+    - arank
+- name: White Jungle M2
+  difficulty: 14
+  types:
+    - whitejungle
+- name: Weapons Bed M5
+  difficulty: 14
+  types:
+    - weaponsbed
+- name: Complete White Jungle M1 with 100+ Rings
+  difficulty: 14
+  types:
+    - whitejungle
+- name: 2 Chao Boxes in White Jungle and finish
+  difficulty: 15
+  types:
+    - whitejungle
+- name: 5 hidden Chao animals in White Jungle and finish
+  difficulty: 15
+  types:
+    - whitejungle
+- name: Game Over during Sonic 1
+  difficulty: 15
+  types:
+    - gameover
+- name: Pacifist White Jungle M1
+  difficulty: 15
+  types:
+    - whitejungle
+- name: Beginner Kart Racing Emblem
+  difficulty: 15
+  types:
+    - multistory
+- name: Security Hall M5
+  difficulty: 15
+  types:
+    - securityhall
+- name: Weapons Bed M5 A-Rank
+  difficulty: 16
+  types:
+    - weaponsbed
+    - arank
+- name: Security Hall M5 A-Rank
+  difficulty: 16
+  types:
+    - securityhall
+    - arank
+- name: White Jungle M3
+  difficulty: 16
+  types:
+    - whitejungle
+- name: Lost Colony M5
+  difficulty: 16
+  types:
+    - lostcolony
+- name: Game Over during Route 280 M1
+  difficulty: 16
+  types:
+    - route280
+    - gameover
+- name: Lost Colony M5 A-Rank
+  difficulty: 17
+  types:
+    - lostcolony
+    - arank
+- name: Route 280 M2
+  difficulty: 17
+  types:
+    - route280
+- name: White Jungle M4
+  difficulty: 17
+  types:
+    - whitejungle
+- name: Complete Sky Rail M1 with 100+ Rings
+  difficulty: 17
+  types:
+    - skyrail
+- name: Shadow's Ancient Light
+  difficulty: 17
+  types:
+    - skyrail
+- name: Lost Colony All Missions A-Rank
+  difficulty: 18
+  types:
+    - lostcolony
+    - arank
+    - allmissions
+- name: Sky Rail M2
+  difficulty: 18
+  types:
+    - skyrail
+- name: 2 Chao Boxes in Sky Rail and finish
+  difficulty: 18
+  types:
+    - skyrail
+- name: Route 280 M3
+  difficulty: 18
+  types:
+    - route280
+- name: White Jungle M5
+  difficulty: 18
+  types:
+    - whitejungle
+- name: All Kart Racing Emblems
+  difficulty: 19
+  types:
+    - multistory
+- name: 5 hidden Chao animals in Sky Rail and finish
+  difficulty: 19
+  types:
+    - skyrail
+- name: Sky Rail M3
+  difficulty: 19
+  types:
+    - skyrail
+- name: Mad Space M1 Hintless
+  difficulty: 19
+  types:
+    - madspace
+- name: Finish any mission with 25+ Lives (No Underflow)
+  difficulty: 19
+  types:
+    - multistory
+- name: White Jungle M5 A-Rank
+  difficulty: 20
+  types:
+    - whitejungle
+    - arank
+- name: Mad Space M2
+  difficulty: 20
+  types:
+    - madspace
+- name: Complete Mad Space M1 with 100+ Rings
+  difficulty: 20
+  types:
+    - madspace
+- name: 2 Chao Boxes in Mad Space and finish
+  difficulty: 20
+  types:
+    - madspace
+- name: 5 hidden Chao animals in Mad Space and finish
+  difficulty: 20
+  types:
+    - madspace
+- name: Sky Rail M4
+  difficulty: 20
+  types:
+    - skyrail
+- name: Sky Rail M4 A-Rank
+  difficulty: 21
+  types:
+    - skyrail
+    - arank
+- name: Sky Rail M5
+  difficulty: 21
+  types:
+    - skyrail
+- name: Mad Space M3
+  difficulty: 21
+  types:
+    - madspace
+- name: Route 280 M4
+  difficulty: 21
+  types:
+    - route280
+- name: Mad Space M4
+  difficulty: 21
+  types:
+    - madspace
+- name: Dr Eggman's Protective Armor
+  difficulty: 21
+  types:
+    - cosmicwall
+- name: Sky Rail M5 A-Rank
+  difficulty: 22
+  types:
+    - skyrail
+    - arank
+- name: Route 280 M4 A-Rank
+  difficulty: 22
+  types:
+    - route280
+    - arank
+- name: Mad Space M4 A-Rank
+  difficulty: 22
+  types:
+    - madspace
+    - arank
+- name: 20 Emblems
+  difficulty: 22
+  types:
+    - emblems
+    - multistory
+- name: Destroy the Gold Beetle in 9 different stages
+  difficulty: 22
+  types:
+    - goldbeetle
+    - multistory
+- name: Mad Space M5
+  difficulty: 22
+  types:
+    - madspace
+- name: Route 280 M5
+  difficulty: 22
+  types:
+    - route280
+- name: Mad Space M5 A-Rank
+  difficulty: 23
+  types:
+    - madspace
+    - arank
+- name: Route 280 M5 A-Rank
+  difficulty: 23
+  types:
+    - route280
+    - arank
+- name: Cosmic Wall M2
+  difficulty: 23
+  types:
+    - cosmicwall
+- name: Complete Cosmic Wall M1 with 100+ Rings
+  difficulty: 23
+  types:
+    - cosmicwall
+- name: 5 hidden Chao animals in Cosmic Wall and finish
+  difficulty: 23
+  types:
+    - cosmicwall
+- name: Cosmic Wall M3
+  difficulty: 24
+  types:
+    - cosmicwall
+- name: 1500 Total Rings
+  difficulty: 24
+  types:
+    - multistory
+- name: Complete Final Chase M1 with 100+ Rings
+  difficulty: 24
+  types:
+    - finalchase
+- name: Shadow's Mystic Melody
+  difficulty: 24
+  types:
+    - finalchase
+- name: Final Chase M2
+  difficulty: 25
+  types:
+    - finalchase
+- name: 2 Chao Boxes in Final Chase and finish
+  difficulty: 25
+  types:
+    - finalchase
+- name: 5 hidden Chao animals in Final Chase and finish
+  difficulty: 25
+  types:
+    - finalchase
+- name: All Dark Story Character's Upgrades
+  difficulty: 25
+  types:
+    - finalchase

@@ -1,0 +1,691 @@
+---
+- name: Fishing Rod
+  difficulty: 1
+  types:
+    - Ordon
+- name: Lantern
+  difficulty: 1
+  types:
+    - SFaron
+- name: Gale Boomerang
+  difficulty: 1
+  types:
+    - Forest
+- name: B&C
+  difficulty: 1
+  types:
+    - SPR
+- name: 1 Portal
+  difficulty: 1
+  types:
+    - Portals
+- name: Free Talo
+  difficulty: 1
+  types:
+    - NFaron
+    - SFaron
+- name: 1 Golden Bug
+  difficulty: 2
+  types:
+    - Bugs
+- name: 1 Stamp
+  difficulty: 2
+  types:
+    - Stamps
+    - CoO
+- name: Slingshot
+  difficulty: 2
+  types:
+    - Ordon
+- name: Clawshot
+  difficulty: 2
+  types:
+    - Lakebed
+- name: Spinner
+  difficulty: 2
+  types:
+    - AG
+- name: Iron Boots
+  difficulty: 2
+  types:
+    - Bo
+- name: Forest Temple Map
+  difficulty: 3
+  types:
+    - Maps
+    - Forest
+- name: Goron Mines Map
+  difficulty: 3
+  types:
+    - Maps
+    - GM
+- name: Lakebed Map
+  difficulty: 3
+  types:
+    - Maps
+    - Lakebed
+- name: Arbiters Map
+  difficulty: 3
+  types:
+    - Maps
+    - AG
+- name: Snowpeak Ruins Map
+  difficulty: 3
+  types:
+    - Maps
+    - SPR
+- name: Temple of Time Map
+  difficulty: 3
+  types:
+    - Maps
+    - ToT
+- name: CitS Map
+  difficulty: 4
+  types:
+    - Maps
+    - City
+- name: Palace Map
+  difficulty: 4
+  types:
+    - Maps
+    - PoT
+- name: Hyrule Castle Map
+  difficulty: 4
+  types:
+    - Maps
+    - Castle
+- name: Forest Compass
+  difficulty: 4
+  types:
+    - Compasses
+    - Forest
+- name: Goron Mines Compass
+  difficulty: 4
+  types:
+    - Compasses
+    - GM
+- name: Lakebed Compass
+  difficulty: 4
+  types:
+    - Compasses
+    - Lakebed
+- name: Arbiters Compass
+  difficulty: 5
+  types:
+    - Compasses
+    - AG
+- name: Snowpeak Ruins Compass
+  difficulty: 5
+  types:
+    - Compasses
+    - SPR
+- name: Temple of Time Compass
+  difficulty: 5
+  types:
+    - Compasses
+    - ToT
+- name: CitS Compass
+  difficulty: 5
+  types:
+    - Compasses
+    - City
+- name: Palace Compass
+  difficulty: 5
+  types:
+    - Compasses
+    - PoT
+- name: Hyrule Castle Compass
+  difficulty: 5
+  types:
+    - Compasses
+    - Castle
+- name: Forest Boss Key
+  difficulty: 6
+  types:
+    - BK
+    - Forest
+- name: Goron Mines 3rd Key Shard
+  difficulty: 6
+  types:
+    - BK
+    - GM
+- name: Lakebed Boss Key
+  difficulty: 6
+  types:
+    - BK
+    - Lakebed
+- name: Arbiters Boss Key
+  difficulty: 6
+  types:
+    - BK
+    - AG
+- name: Snowpeak Ruins Bedroom Key
+  difficulty: 6
+  types:
+    - BK
+    - SPR
+- name: Temple of Time Boss Key
+  difficulty: 6
+  types:
+    - BK
+    - ToT
+- name: CitS Boss Key
+  difficulty: 7
+  types:
+    - BK
+    - City
+- name: Palace Boss Key
+  difficulty: 7
+  types:
+    - BK
+    - PoT
+- name: Hyrule Castle Boss Key
+  difficulty: 7
+  types:
+    - BK
+    - Castle
+- name: Pumpkin in Snowpeak Ruins
+  difficulty: 7
+  types:
+    - SPR
+    - Soup
+- name: Goat Cheese in Snowpeak Ruins
+  difficulty: 7
+  types:
+    - SPR
+    - Soup
+- name: Defeat King Bulblin Once
+  difficulty: 7
+  types:
+    - KB
+- name: 2 Stamps
+  difficulty: 8
+  types:
+    - Stamps
+    - CoO
+- name: 2 Portals
+  difficulty: 8
+  types:
+    - Portals
+- name: 2 Golden Bugs
+  difficulty: 8
+  types:
+    - Bugs
+- name: Ending Blow
+  difficulty: 8
+  types:
+    - Skills
+- name: Ordon/Wooden Shield
+  difficulty: 8
+  types:
+    - MalosShop
+    - Shields
+- name: 1 Bottle
+  difficulty: 8
+  types:
+    - Bottles
+- name: Get Midna Charge
+  difficulty: 9
+  types:
+    - SFaron
+- name: 1 Poe Soul
+  difficulty: 9
+  types:
+    - Poes
+- name: 4 Stamps
+  difficulty: 9
+  types:
+    - Stamps
+    - CoO
+- name: Master Sword
+  difficulty: 9
+  types:
+    - Grove
+    - Swords
+- name: Clear Faron Twilight
+  difficulty: 9
+  types:
+    - NFaron
+    - SFaron
+- name: Clear Eldin Twilight
+  difficulty: 9
+  types:
+    - Eldin
+- name: Acquire Nasty Soup/Purple Chu Jelly
+  difficulty: 10
+  types:
+    - Bottles
+- name: 1 Bomb Bag
+  difficulty: 10
+  types:
+    - Bombs
+- name: Big Quiver
+  difficulty: 10
+  types:
+    - Quiver
+- name: Bow
+  difficulty: 10
+  types:
+    - GM
+- name: Dominion Rod
+  difficulty: 10
+  types:
+    - ToT
+- name: Double Clawshots
+  difficulty: 10
+  types:
+    - City
+- name: Acquire Red Potion/Chu Jelly
+  difficulty: 11
+  types:
+    - Bottles
+- name: Acquire Blue Potion/Chu Jelly
+  difficulty: 11
+  types:
+    - Bottles
+- name: 8 Stamps
+  difficulty: 11
+  types:
+    - Stamps
+    - CoO
+- name: 4 Portals
+  difficulty: 11
+  types:
+    - Portals
+- name: 2 Poe Souls
+  difficulty: 11
+  types:
+    - Poes
+- name: 4 Golden Bugs
+  difficulty: 11
+  types:
+    - Bugs
+- name: All 2 South Hyrule Field Bugs
+  difficulty: 12
+  types:
+    - Bugs
+- name: All 2 Gerudo Desert Bugs
+  difficulty: 12
+  types:
+    - Bugs
+- name: All 2 Sacred Grove and Temple of Time Bugs
+  difficulty: 12
+  types:
+    - Bugs
+- name: All 2 Gorge Bugs
+  difficulty: 12
+  types:
+    - Bugs
+    - Eldin
+- name: All 4 Eldin Field Bugs
+  difficulty: 12
+  types:
+    - Bugs
+    - Eldin
+- name: All 2 Kakariko and Graveyard Bugs
+  difficulty: 12
+  types:
+    - Bugs
+    - Eldin
+- name: All 5 Snowpeak Poes
+  difficulty: 13
+  types:
+    - Poes
+- name: All 3 Snowpeak Ruins Poes
+  difficulty: 13
+  types:
+    - Poes
+    - SPR
+- name: All 2 Temple of Time Poes
+  difficulty: 13
+  types:
+    - Poes
+    - ToT
+- name: All 2 City in the Sky Poes
+  difficulty: 13
+  types:
+    - Poes
+    - City
+- name: All 6 Desert Overworld and Bulblin Camp Poes
+  difficulty: 13
+  types:
+    - Poes
+    - KB
+- name: Jovani's Poe
+  difficulty: 13
+  types:
+    - Poes
+- name: Light Sword
+  difficulty: 14
+  types:
+    - PoT
+- name: Ordon Sword
+  difficulty: 14
+  types:
+    - Swords
+- name: Hylian Shield
+  difficulty: 14
+  types:
+    - MalosShop
+    - Shields
+- name: Hawkeye
+  difficulty: 14
+  types:
+    - MalosShop
+- name: 2 Bottles
+  difficulty: 14
+  types:
+    - Bottles
+- name: 4 Poe Souls
+  difficulty: 14
+  types:
+    - Poes
+- name: Defeat Diababa
+  difficulty: 15
+  types:
+    - Forest
+- name: Defeat Blizzeta
+  difficulty: 15
+  types:
+    - SPR
+- name: Acquire Superb Soup
+  difficulty: 15
+  types:
+    - Bottles
+    - SPR
+    - Soup
+- name: 8 Poe Souls
+  difficulty: 15
+  types:
+    - Poes
+- name: 5 Hearts
+  difficulty: 15
+  types:
+    - Hearts
+- name: Shield Bash
+  difficulty: 15
+  types:
+    - Skills
+- name: Big Wallet
+  difficulty: 16
+  types:
+    - Wallet
+    - CoS
+    - Bugs
+- name: Poe Lantern
+  difficulty: 16
+  types:
+    - Poes
+- name: Bomb Bag Upgrade
+  difficulty: 16
+  types:
+    - Bombs
+- name: Acquire Rare Chu Jelly
+  difficulty: 16
+  types:
+    - Bottles
+- name: Acquire Green Chu Jelly
+  difficulty: 16
+  types:
+    - Bottles
+    - CoO
+    - Poes
+- name: Defeat King Bulblin Twice
+  difficulty: 16
+  types:
+    - KB
+- name: Defeat Fyrus
+  difficulty: 17
+  types:
+    - GM
+- name: Defeat Morpheel
+  difficulty: 17
+  types:
+    - Lakebed
+- name: Defeat Stallord
+  difficulty: 17
+  types:
+    - AG
+- name: Defeat Argorok
+  difficulty: 17
+  types:
+    - City
+- name: 6 Hearts
+  difficulty: 17
+  types:
+    - Hearts
+- name: 8 Golden Bugs
+  difficulty: 17
+  types:
+    - Bugs
+- name: Backslice
+  difficulty: 18
+  types:
+    - Skills
+- name: 2 Bomb Bags
+  difficulty: 18
+  types:
+    - Bombs
+- name: Defeat King Bulblin 3 Times
+  difficulty: 18
+  types:
+    - KB
+- name: Get 5 Dungeon Maps
+  difficulty: 18
+  types:
+    - Maps
+- name: Get 5 Dungeon Compasses
+  difficulty: 18
+  types:
+    - Compasses
+- name: Giant Quiver
+  difficulty: 18
+  types:
+    - Quiver
+- name: Defeat Armogohma
+  difficulty: 19
+  types:
+    - ToT
+- name: Defeat Zant
+  difficulty: 19
+  types:
+    - PoT
+- name: Helmsplitter
+  difficulty: 19
+  types:
+    - Skills
+- name: 7 Hearts
+  difficulty: 19
+  types:
+    - Hearts
+- name: 3 Bottles
+  difficulty: 19
+  types:
+    - Bottles
+- name: Own 2 Shields
+  difficulty: 19
+  types:
+    - Shields
+    - MalosShop
+- name: Clear Lanayru Twilight
+  difficulty: 20
+  types:
+    - Lanayru
+- name: Own 2 Swords
+  difficulty: 20
+  types:
+    - Swords
+- name: Zora Armour
+  difficulty: 20
+  types:
+    - Eldin
+    - Escort
+    - Clothing
+- name: Giant Wallet
+  difficulty: 20
+  types:
+    - Wallet
+    - CoS
+    - Bugs
+- name: Repair Castle Town Bridge
+  difficulty: 20
+  types:
+    - Eldin
+    - MalosShop
+    - KB1
+- name: 4 Bottles
+  difficulty: 20
+  types:
+    - Bottles
+- name: All 2 West of Castle Town Bugs
+  difficulty: 21
+  types:
+    - Bugs
+    - Lanayru
+- name: All 2 South of Castle Town Bugs
+  difficulty: 21
+  types:
+    - Bugs
+    - Lanayru
+- name: All 2 Lanayru Field Bugs
+  difficulty: 21
+  types:
+    - Bugs
+    - Lanayru
+- name: All 2 Lake Hylia Bridge Bugs
+  difficulty: 21
+  types:
+    - Bugs
+    - Lanayru
+- name: All 2 Zoras Domain and Upper Zoras River Bugs
+  difficulty: 21
+  types:
+    - Bugs
+    - Lanayru
+- name: All 4 Kakariko and Graveyard Poes
+  difficulty: 21
+  types:
+    - Poes
+    - Eldin
+- name: All 3 Sacred Grove Poes
+  difficulty: 22
+  types:
+    - Poes
+    - SPR
+- name: All 5 Lake Hylia Poes
+  difficulty: 22
+  types:
+    - Poes
+    - Lanayru
+- name: All 4 Big Poes in Arbiter's Grounds
+  difficulty: 22
+  types:
+    - Poes
+    - AG
+- name: All 3 Cave of Ordeals Poes
+  difficulty: 22
+  types:
+    - Poes
+    - CoO
+    - Stamps
+- name: All 3 Zoras Domain and Upper Zoras River Poes
+  difficulty: 22
+  types:
+    - Poes
+    - Lanayru
+- name: Hidden Village Poe
+  difficulty: 22
+  types:
+    - Poes
+- name: Fishing Rod Earring Upgrade
+  difficulty: 23
+  types:
+    - Eldin
+    - Swords
+    - AG
+- name: Finish Cave of Ordeals
+  difficulty: 23
+  types:
+    - CoO
+    - Poes
+    - Stamps
+- name: 3 Bomb Bags
+  difficulty: 23
+  types:
+    - Bombs
+- name: 9 Hearts
+  difficulty: 23
+  types:
+    - Hearts
+- name: Mortal Draw
+  difficulty: 23
+  types:
+    - Skills
+- name: Deliver Hotspring water to the Goron south of Castle Town
+  difficulty: 23
+  types:
+    - Bottles
+    - Lanayru
+- name: Horse Call
+  difficulty: 24
+  types:
+    - Escort
+    - HiddenVillage
+    - ToT
+- name: Defeat All King Bulblins
+  difficulty: 24
+  types:
+    - KB
+- name: Fix Dominion Rod
+  difficulty: 24
+  types:
+    - HiddenVillage
+    - ToT
+- name: Acquire all Fused Shadows
+  difficulty: 24
+  types:
+    - Forest
+    - GM
+    - Lakebed
+- name: Catch the Hylian Loach
+  difficulty: 24
+  types:
+    - Fish
+- name: All Hyrule Castle Stamps
+  difficulty: 24
+  types:
+    - Stamps
+    - HiddenVillage
+    - ToT
+- name: Complete Skybook Quest
+  difficulty: 25
+  types:
+    - HiddenVillage
+    - ToT
+- name: Acquire all Mirror Shards
+  difficulty: 25
+  types:
+    - AG
+    - SPR
+    - ToT
+    - City
+- name: Magic Armour
+  difficulty: 25
+  types:
+    - Clothing
+    - Eldin
+    - KB1
+- name: Deluxe Wallet
+  difficulty: 25
+  types:
+    - Wallet
+    - CoS
+    - Bugs
+- name: Every Dungeon Map
+  difficulty: 25
+  types:
+    - Maps
+- name: Every Compass
+  difficulty: 25
+  types:
+    - Compasses

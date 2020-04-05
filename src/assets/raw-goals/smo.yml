@@ -1,0 +1,1087 @@
+---
+- name: Captain Toad (Cascade)
+  difficulty: 1
+  types:
+    - Cascade
+    - Captain_Toad
+- name: Purchase 4 Hats
+  difficulty: 1
+  types:
+    - Hats
+- name: Atop the Highest Tower (Sand)
+  difficulty: 1
+  types:
+    - Sand_Story
+    - Story
+- name: Call Jaxi from 2 Stands
+  difficulty: 1
+  types:
+    - Jaxi
+- name: 3 Checkpoints (Lake)
+  difficulty: 1
+  types:
+    - Lake
+- name: 20 Regional Coins (Cascade)
+  difficulty: 1
+  types:
+    - Cascade_Regional
+- name: 2 Moons from sub-areas (Lake)
+  difficulty: 1
+  types:
+    - Lake
+    - Sub_Areas
+- name: 1 Moon from Keys
+  difficulty: 1
+  types:
+    - Keys
+- name: Ice Cave Treasure-Moon (Sand)
+  difficulty: 1
+  types:
+    - Sand
+- name: 7 Moons from Nuts
+  difficulty: 2
+  types:
+    - Nuts
+- name: 3 Checkpoints (Lost)
+  difficulty: 2
+  types:
+    - Lost
+- name: Captain Toad (Metro)
+  difficulty: 2
+  types:
+    - Metro
+    - Captain_Toad
+- name: 4 Checkpoints (Metro)
+  difficulty: 2
+  types:
+    - Metro
+- name: Captain Toad (Lost)
+  difficulty: 2
+  types:
+    - Lost
+    - Captain_Toad
+- name: 6 Checkpoints (Sand)
+  difficulty: 2
+  types:
+    - Sand
+- name: 25 Regional Coins (Cascade)
+  difficulty: 2
+  types:
+    - Cascade_Regional
+- name: 10 Moons from sub-areas (Total)
+  difficulty: 2
+  types:
+    - Sub_Areas
+- name: Captain Toad (Cap)
+  difficulty: 2
+  types:
+    - Cap
+    - Captain_Toad
+- name: Plant 1 Seed (Lake)
+  difficulty: 2
+  types:
+    - Lake
+    - Seeds
+- name: 2 Moons from Slots
+  difficulty: 3
+  types:
+    - Slots
+- name: Look at 2 Hint Arts
+  difficulty: 3
+  types:
+    - Hint_View
+- name: 2 Moons from sub-areas (Sand)
+  difficulty: 3
+  types:
+    - Sand
+    - Sub_Areas
+- name: 7 Checkpoints (Sand)
+  difficulty: 3
+  types:
+    - Sand
+- name: 1 Moon from Lakitu-Fishing
+  difficulty: 3
+  types:
+    - Fishing
+- name: 2 Stickers
+  difficulty: 3
+  types:
+    - Stickers
+- name: 1 Warp-Painting Moon
+  difficulty: 3
+  types:
+    - Warp_Painting
+- name: Answer 6 Sphynx Questions Correctly
+  difficulty: 3
+  types:
+    - Sphynx
+- name: Purchase 4 Souvenirs
+  difficulty: 3
+  types:
+    - Souvenirs
+- name: 30 Regional Coins (Cascade)
+  difficulty: 3
+  types:
+    - Cascade_Regional
+- name: Puzzle Room Solved! (Lake)
+  difficulty: 3
+  types:
+    - Lake
+- name: 20 Moons (Sand)
+  difficulty: 4
+  types:
+    - Sand_Moons
+- name: 4 Checkpoints (Wooded)
+  difficulty: 4
+  types:
+    - Wooded
+- name: 3 Timer Challenges
+  difficulty: 4
+  types:
+    - Timer
+- name: Purchase 5 Hats
+  difficulty: 4
+  types:
+    - Hats
+- name: 2 Checkpoints (Cap)
+  difficulty: 4
+  types:
+    - Cap
+- name: Call Jaxi from 3 Stands
+  difficulty: 4
+  types:
+    - Jaxi
+- name: 24 Moons (Metro)
+  difficulty: 4
+  types:
+    - Metro_Moons
+- name: 12 Moons (Lost)
+  difficulty: 4
+  types:
+    - Lost_Moons
+- name: 10 Moons (Cascade)
+  difficulty: 4
+  types:
+    - Cascade_Moons
+- name: Purchase 3 Full Costume Sets
+  difficulty: 4
+  types:
+    - Outfits
+- name: 30 Regional Coins (Sand)
+  difficulty: 4
+  types:
+    - Sand_Regional
+- name: 3 Captain Toad Moons
+  difficulty: 5
+  types:
+    - Captain_Toad
+- name: 3 Moons from 8-bit Sections
+  difficulty: 5
+  types:
+    - 8bit
+- name: 20 Moons (Wooded)
+  difficulty: 5
+  types:
+    - Wooded_Moons
+- name: Captain Toad (Lake)
+  difficulty: 5
+  types:
+    - Lake
+    - Captain_Toad
+- name: 3 Moons from Moon Shards
+  difficulty: 5
+  types:
+    - Moon_Shards
+- name: Moon Shards in the Sand (Sand)
+  difficulty: 5
+  types:
+    - Sand_Story
+    - Story
+- name: 12 Moons (Lake)
+  difficulty: 5
+  types:
+    - Lake_Moons
+- name: 4 Moons (Cap)
+  difficulty: 5
+  types:
+    - Cap_Moons
+- name: 4 Moons from Music Notes
+  difficulty: 5
+  types:
+    - Music_Notes
+- name: 2 Moons from Shiny Rocks
+  difficulty: 5
+  types:
+    - Shiny_Rocks
+- name: 35 Regional Coins (Cascade)
+  difficulty: 5
+  types:
+    - Cascade_Regional
+- name: 10 Regional Coins (Lake)
+  difficulty: 6
+  types:
+    - Lake_Regional
+- name: 20 Regional Coins (Metro)
+  difficulty: 6
+  types:
+    - Metro_Regional
+- name: 25 Regional Coins (Wooded)
+  difficulty: 6
+  types:
+    - Wooded_Regional
+- name: 10 Regional Coins (Lost)
+  difficulty: 6
+  types:
+    - Lost_Regional
+- name: 10 Regional Coins (Cap)
+  difficulty: 6
+  types:
+    - Cap_Regional
+- name: Koopa Trace-Walking (Sand)
+  difficulty: 6
+  types:
+    - Sand
+- name: 2 Moons (Deep Woods)
+  difficulty: 6
+  types:
+    - Deep_Woods
+- name: 35 Regional Coins (Sand)
+  difficulty: 6
+  types:
+    - Sand_Regional
+- name: Jump-Rope Hero! (Metro)
+  difficulty: 6
+  types:
+    - Metro
+- name: 4 Unique Life-Up Hearts (excl. Shops)
+  difficulty: 6
+  types:
+    - LifeUp
+- name: Purchase 4 Moons
+  difficulty: 7
+  types:
+    - Shop_Moons
+- name: 5 Treasure Chest Moons
+  difficulty: 7
+  types:
+    - Treasure_Chest
+- name: 22 Moons (Sand)
+  difficulty: 7
+  types:
+    - Sand_Moons
+- name: 14 Moons (Lost)
+  difficulty: 7
+  types:
+    - Lost_Moons
+- name: 4 Moons from sub-areas (Metro)
+  difficulty: 7
+  types:
+    - Metro
+    - Sub_Areas
+- name: 2 Moons from sub-areas (Cascade)
+  difficulty: 7
+  types:
+    - Cascade
+    - Sub_Areas
+- name: 2 Moons from Wooden Crates
+  difficulty: 7
+  types:
+    - Crates
+- name: 12 Moons from sub-areas (Total)
+  difficulty: 7
+  types:
+    - Sub_Areas
+- name: Purchase 4 Full Costume Sets
+  difficulty: 7
+  types:
+    - Outfits
+- name: 15 Regional Coins (Lake)
+  difficulty: 7
+  types:
+    - Lake_Regional
+- name: Outfit-Door (Metro)
+  difficulty: 8
+  types:
+    - Locked_Door
+- name: 15 Regional Coins (Cap)
+  difficulty: 8
+  types:
+    - Cap_Regional
+- name: 2 Moons from sub-areas (Cap)
+  difficulty: 8
+  types:
+    - Cap
+    - Sub_Areas
+- name: 12 Moons (Cascade)
+  difficulty: 8
+  types:
+    - Cascade_Moons
+- name: 4 Moons from Moon Shards
+  difficulty: 8
+  types:
+    - Moon_Shards
+- name: 4 Timer Challenges
+  difficulty: 8
+  types:
+    - Timer
+- name: 3 Stickers
+  difficulty: 8
+  types:
+    - Stickers
+- name: 1 Moon from Hint Art
+  difficulty: 8
+  types:
+    - Hint_Moons
+- name: 26 Moons (Metro)
+  difficulty: 8
+  types:
+    - Metro_Moons
+- name: 4 Moons from sub-areas (Sand)
+  difficulty: 8
+  types:
+    - Sand
+    - Sub_Areas
+- name: 20 Regional Coins (Lake)
+  difficulty: 8
+  types:
+    - Lake_Regional
+- name: 25 Regional Coins (Metro)
+  difficulty: 8
+  types:
+    - Metro_Regional
+- name: 5 Story Moons (excl. Multi Moons)
+  difficulty: 8
+  types:
+    - Story
+- name: 8 Moons from Nuts
+  difficulty: 9
+  types:
+    - Nuts
+- name: 14 Moons (Lake)
+  difficulty: 9
+  types:
+    - Lake_Moons
+- name: 15 Regional Coins (Lost)
+  difficulty: 9
+  types:
+    - Lost_Regional
+- name: 22 Moons (Wooded)
+  difficulty: 9
+  types:
+    - Wooded_Moons
+- name: 25 Regional Coins (Lake)
+  difficulty: 9
+  types:
+    - Lake_Regional
+- name: 20 Regional Coins (Cap)
+  difficulty: 9
+  types:
+    - Cap_Regional
+- name: Capture both the Cactus and the Tree
+  difficulty: 9
+  types:
+    - Capture_Both
+- name: 3 Moons (Deep Woods)
+  difficulty: 9
+  types:
+    - Deep_Woods
+- name: 20 Unique Captures
+  difficulty: 9
+  types:
+    - Unique_Captures
+- name: 40 Regional Coins (Sand)
+  difficulty: 9
+  types:
+    - Sand_Regional
+- name: Plant 4 Seeds (Total)
+  difficulty: 10
+  types:
+    - Seeds
+- name: 5 Moons from 8-bit Sections
+  difficulty: 10
+  types:
+    - 8bit
+- name: 4 Stickers
+  difficulty: 10
+  types:
+    - Stickers
+- name: 5 Timer Challenges
+  difficulty: 10
+  types:
+    - Timer
+- name: 30 Regional Coins (Metro)
+  difficulty: 10
+  types:
+    - Metro_Regional
+- name: Showdown on the Inverted Pyramid (Sand)
+  difficulty: 10
+  types:
+    - Sand_Story
+    - Story
+- name: Purchase 5 Full Costume Sets
+  difficulty: 10
+  types:
+    - Outfits
+- name: 30 Regional Coins (Lake)
+  difficulty: 10
+  types:
+    - Lake_Regional
+- name: 30 Regional Coins (Wooded)
+  difficulty: 10
+  types:
+    - Wooded_Regional
+- name: 'RC Car: Race Complete! (Metro)'
+  difficulty: 10
+  types:
+    - Metro
+- name: 6 Unique Life-Up Hearts (excl. Shops)
+  difficulty: 10
+  types:
+    - LifeUp
+- name: Outfit-Door (Wooded)
+  difficulty: 11
+  types:
+    - Locked_Door
+- name: 4 Moons from sub-areas (Wooded)
+  difficulty: 11
+  types:
+    - Wooded
+    - Sub_Areas
+- name: 6 Moons (Cap)
+  difficulty: 11
+  types:
+    - Cap_Moons
+- name: 4 Captain Toad Moons
+  difficulty: 11
+  types:
+    - Captain_Toad
+- name: Call Jaxi from 4 Stands
+  difficulty: 11
+  types:
+    - Jaxi
+- name: Outfit-Door (Sand)
+  difficulty: 11
+  types:
+    - Locked_Door
+- name: 20 Regional Coins (Lost)
+  difficulty: 11
+  types:
+    - Lost_Regional
+- name: Wear the Boxer Shorts
+  difficulty: 11
+  types:
+    - Boxers
+- name: 9 Moons from Nuts
+  difficulty: 11
+  types:
+    - Nuts
+- name: 22 Unique Captures
+  difficulty: 11
+  types:
+    - Unique_Captures
+- name: 45 Regional Coins (Sand)
+  difficulty: 11
+  types:
+    - Sand_Regional
+- name: Herding Sheep in the Dunes (Sand)
+  difficulty: 11
+  types:
+    - Sand
+    - Sheep
+- name: 24 Moons (Sand)
+  difficulty: 12
+  types:
+    - Sand_Moons
+- name: 6 Moons from sub-areas (Sand)
+  difficulty: 12
+  types:
+    - Sand
+    - Sub_Areas
+- name: Purchase 6 Souvenirs
+  difficulty: 12
+  types:
+    - Souvenirs
+- name: 25 Regional Coins (Cap)
+  difficulty: 12
+  types:
+    - Cap_Regional
+- name: 90 Moons (Total)
+  difficulty: 12
+  types:
+    - Total_Moons
+- name: Look at 3 Hint Arts
+  difficulty: 12
+  types:
+    - Hint_View
+- name: 3 Moons from Wooden Crates
+  difficulty: 12
+  types:
+    - Crates
+- name: 14 Moons from sub-areas (Total)
+  difficulty: 12
+  types:
+    - Sub_Areas
+- name: 4 Moons (Deep Woods)
+  difficulty: 12
+  types:
+    - Deep_Woods
+- name: 2 Moons from Hint Art
+  difficulty: 12
+  types:
+    - Hint_Moons
+- name: 35 Regional Coins (Lake)
+  difficulty: 12
+  types:
+    - Lake_Regional
+- name: 35 Regional Coins (Wooded)
+  difficulty: 12
+  types:
+    - Wooded_Regional
+- name: 35 Regional Coins (Metro)
+  difficulty: 12
+  types:
+    - Metro_Regional
+- name: 4 Moons from sub-areas (Cascade)
+  difficulty: 13
+  types:
+    - Cascade
+    - Sub_Areas
+- name: 24 Moons (Wooded)
+  difficulty: 13
+  types:
+    - Wooded_Moons
+- name: Plant 5 Seeds (Total)
+  difficulty: 13
+  types:
+    - Seeds
+- name: 100 Total Regional Coins
+  difficulty: 13
+  types:
+    - Regional_Coins
+- name: 1 Moon from Goombas
+  difficulty: 13
+  types:
+    - Goomba
+- name: 5 Multi Moons
+  difficulty: 13
+  types:
+    - Multi_Moons
+- name: 5 Checkpoints (Wooded)
+  difficulty: 13
+  types:
+    - Wooded
+- name: 24 Unique Captures
+  difficulty: 13
+  types:
+    - Unique_Captures
+- name: Purchase 6 Full Costume Sets
+  difficulty: 13
+  types:
+    - Outfits
+- name: 14 Moons (Cascade)
+  difficulty: 13
+  types:
+    - Cascade_Moons
+- name: 25 Regional Coins (Lost)
+  difficulty: 13
+  types:
+    - Lost_Regional
+- name: 7 Story Moons (excl. Multi Moons)
+  difficulty: 13
+  types:
+    - Story
+- name: 6 Moons from sub-areas (Metro)
+  difficulty: 14
+  types:
+    - Metro
+    - Sub_Areas
+- name: Purchase 5 Moons
+  difficulty: 14
+  types:
+    - Shop_Moons
+- name: 2 Warp-Painting Moons
+  difficulty: 14
+  types:
+    - Warp_Painting
+- name: 125 Total Regional Coins
+  difficulty: 14
+  types:
+    - Regional_Coins
+- name: 6 Moons from sub-areas (Wooded)
+  difficulty: 14
+  types:
+    - Wooded
+    - Sub_Areas
+- name: 3 Moons from Shiny Rocks
+  difficulty: 14
+  types:
+    - Shiny_Rocks
+- name: 4 Moons from sub-areas (Cap)
+  difficulty: 14
+  types:
+    - Cap
+    - Sub_Areas
+- name: 40 Regional Coins (Wooded)
+  difficulty: 14
+  types:
+    - Wooded_Regional
+- name: 50 Regional Coins (Sand)
+  difficulty: 14
+  types:
+    - Sand_Regional
+- name: 40 Regional Coins (Metro)
+  difficulty: 14
+  types:
+    - Metro_Regional
+- name: 16 Moons (Lost)
+  difficulty: 15
+  types:
+    - Lost_Moons
+- name: 6 Checkpoints (Metro)
+  difficulty: 15
+  types:
+    - Metro
+- name: 5 Moons from Music Notes
+  difficulty: 15
+  types:
+    - Music_Notes
+- name: 5 Moons from Moon Shards
+  difficulty: 15
+  types:
+    - Moon_Shards
+- name: 26 Moons (Sand)
+  difficulty: 15
+  types:
+    - Sand_Moons
+- name: 10 Moons from Nuts
+  difficulty: 15
+  types:
+    - Nuts
+- name: 16 Moons from sub-areas (Total)
+  difficulty: 15
+  types:
+    - Sub_Areas
+- name: 2 Ground-Pound Moons (Wooded)
+  difficulty: 15
+  types:
+    - Wooded
+    - Deep_Woods
+- name: 3 Ground-Pound Moons (Wooded)
+  difficulty: 15
+  types:
+    - Wooded
+    - Deep_Woods
+- name: 26 Unique Captures
+  difficulty: 15
+  types:
+    - Unique_Captures
+- name: 8 Unique Life-Up Hearts (excl. Shops)
+  difficulty: 15
+  types:
+    - LifeUp
+- name: 150 Total Regional Coins
+  difficulty: 16
+  types:
+    - Regional_Coins
+- name: 6 Timer Challenges
+  difficulty: 16
+  types:
+    - Timer
+- name: 7 Treasure Chest Moons
+  difficulty: 16
+  types:
+    - Treasure_Chest
+- name: 3 Checkpoints (Seaside)
+  difficulty: 16
+  types:
+    - Late_Game
+    - Seaside
+- name: 95 Moons (Total)
+  difficulty: 16
+  types:
+    - Total_Moons
+- name: Purchase 7 Full Costume Sets
+  difficulty: 16
+  types:
+    - Outfits
+- name: 45 Regional Coins (Cascade)
+  difficulty: 16
+  types:
+    - Cascade_Regional
+- name: World Peace in 3 Kingdoms (excl. Cap, Cloud, Lost)
+  difficulty: 16
+  types:
+    - World_Peace
+- name: 30 Regional Coins (Lost)
+  difficulty: 16
+  types:
+    - Lost_Regional
+- name: 10 Regional Coins (Snow)
+  difficulty: 16
+  types:
+    - Late_Game
+    - Snow_Regional
+- name: Captain Toad (Snow)
+  difficulty: 16
+  types:
+    - Late_Game
+    - Snow
+    - Captain_Toad
+- name: All Regional Coins in 1 Kingdom
+  difficulty: 16
+  types:
+    - Regional_Kingdoms
+- name: 8 Moons (Cap)
+  difficulty: 17
+  types:
+    - Cap_Moons
+- name: Purchase 6 Moons
+  difficulty: 17
+  types:
+    - Shop_Moons
+- name: 16 Moons (Cascade)
+  difficulty: 17
+  types:
+    - Cascade_Moons
+- name: 8 Checkpoints (Sand)
+  difficulty: 17
+  types:
+    - Sand
+- name: Uncork 1 Fountain (Seaside)
+  difficulty: 17
+  types:
+    - Late_Game
+    - Uncork
+    - Story
+- name: Captain Toad (Seaside)
+  difficulty: 17
+  types:
+    - Late_Game
+    - Seaside
+    - Captain_Toad
+- name: 50 Regional Coins (Wooded)
+  difficulty: 17
+  types:
+    - Wooded_Regional
+- name: 28 Unique Captures
+  difficulty: 17
+  types:
+    - Unique_Captures
+- name: 2 Moons from Keys
+  difficulty: 17
+  types:
+    - Keys
+- name: 1 Moon from Seeds
+  difficulty: 17
+  types:
+    - Seeds
+- name: 16 Moons (Lake)
+  difficulty: 18
+  types:
+    - Lake_Moons
+- name: 8 Moons from sub-areas (Metro)
+  difficulty: 18
+  types:
+    - Metro
+    - Sub_Areas
+- name: 175 Total Regional Coins
+  difficulty: 18
+  types:
+    - Regional_Coins
+- name: 4 Checkpoints (Seaside)
+  difficulty: 18
+  types:
+    - Late_Game
+    - Seaside
+- name: Uncork 2 Fountains (Seaside)
+  difficulty: 18
+  types:
+    - Late_Game
+    - Uncork
+    - Story
+- name: 4 Moons (Snow)
+  difficulty: 18
+  types:
+    - Late_Game
+    - Snow_Moons
+- name: 15 Regional Coins (Snow)
+  difficulty: 18
+  types:
+    - Late_Game
+    - Snow_Regional
+- name: World Peace Restored! (Wooded)
+  difficulty: 18
+  types:
+    - World_Peace
+- name: Outfit-Door (Snow)
+  difficulty: 18
+  types:
+    - Late_Game
+    - Locked_Door
+- name: 3 Warp-Painting Moons
+  difficulty: 19
+  types:
+    - Warp_Painting
+- name: 28 Moons (Sand)
+  difficulty: 19
+  types:
+    - Sand_Moons
+- name: 5 Captain Toad Moons
+  difficulty: 19
+  types:
+    - Captain_Toad
+- name: 7 Timer Challenges
+  difficulty: 19
+  types:
+    - Timer
+- name: Uncork 3 Fountains (Seaside)
+  difficulty: 19
+  types:
+    - Late_Game
+    - Uncork
+    - Story
+- name: 25 Regional Coins (Seaside)
+  difficulty: 19
+  types:
+    - Late_Game
+    - Seaside_Regional
+- name: Purchase 8 Full Costume Sets
+  difficulty: 19
+  types:
+    - Outfits
+- name: 6 Moons (Seaside)
+  difficulty: 19
+  types:
+    - Late_Game
+    - Seaside_Moons
+- name: All Regional Coins in 2 Kingdoms
+  difficulty: 19
+  types:
+    - Regional_Kingdoms
+- name: 200 Total Regional Coins
+  difficulty: 20
+  types:
+    - Regional_Coins
+- name: 2 Moons from Goombas
+  difficulty: 20
+  types:
+    - Late_Game
+    - Goomba
+- name: 6 Multi Moons
+  difficulty: 20
+  types:
+    - Multi_Moons
+- name: 30 Regional Coins (Seaside)
+  difficulty: 20
+  types:
+    - Late_Game
+    - Seaside_Regional
+- name: 20 Regional Coins (Snow)
+  difficulty: 20
+  types:
+    - Late_Game
+    - Snow_Regional
+- name: 18 Moons from sub-areas (Total)
+  difficulty: 20
+  types:
+    - Sub_Areas
+- name: 8 Moons (Seaside)
+  difficulty: 20
+  types:
+    - Late_Game
+    - Seaside_Moons
+- name: 6 Moons (Snow)
+  difficulty: 20
+  types:
+    - Late_Game
+    - Snow_Moons
+- name: World Peace Restored! (Sand)
+  difficulty: 20
+  types:
+    - World_Peace
+- name: 5 Stickers
+  difficulty: 21
+  types:
+    - Stickers
+- name: 9 Treasure Chest Moons
+  difficulty: 21
+  types:
+    - Treasure_Chest
+- name: 35 Regional Coins (Seaside)
+  difficulty: 21
+  types:
+    - Late_Game
+    - Seaside_Regional
+- name: 10 Moons (Seaside)
+  difficulty: 21
+  types:
+    - Late_Game
+    - Seaside_Moons
+- name: 8 Moons (Snow)
+  difficulty: 21
+  types:
+    - Late_Game
+    - Snow_Moons
+- name: 1 Barrier-Moon (Snow)
+  difficulty: 21
+  types:
+    - Late_Game
+    - Snow
+    - Story
+- name: Look at 4 Hint Arts
+  difficulty: 21
+  types:
+    - Late_Game
+    - Hint_View
+- name: 60 Regional Coins (Wooded)
+  difficulty: 21
+  types:
+    - Wooded_Regional
+- name: Outfit-Door (Seaside)
+  difficulty: 21
+  types:
+    - Late_Game
+    - Locked_Door
+- name: 1 Checkpoint (Snow)
+  difficulty: 21
+  types:
+    - Late_Game
+    - Snow
+- name: 6 Moons from Moon Shards
+  difficulty: 22
+  types:
+    - Moon_Shards
+- name: 26 Moons (Wooded)
+  difficulty: 22
+  types:
+    - Wooded_Moons
+- name: 2 Moons from sub-areas (Seaside)
+  difficulty: 22
+  types:
+    - Late_Game
+    - Seaside
+    - Sub_Areas
+- name: 40 Regional Coins (Seaside)
+  difficulty: 22
+  types:
+    - Late_Game
+    - Seaside_Regional
+- name: 100 Moons (Total)
+  difficulty: 22
+  types:
+    - Total_Moons
+- name: 3 Ground-Pound Moons (Seaside)
+  difficulty: 22
+  types:
+    - Late_Game
+    - Seaside
+    - Seaside_Moons
+- name: 18 Moons (Lake)
+  difficulty: 22
+  types:
+    - Lake_Moons
+- name: Answer 8 Sphynx Questions Correctly
+  difficulty: 22
+  types:
+    - Late_Game
+    - Sphynx
+- name: 9 Story Moons (excl. Multi Moons)
+  difficulty: 22
+  types:
+    - Story
+- name: 25 Regional Coins (Snow)
+  difficulty: 23
+  types:
+    - Late_Game
+    - Snow_Regional
+- name: Goomba Picture-Match (Cloud)
+  difficulty: 23
+  types:
+    - Cloud
+- name: 4 Ground-Pound Moons (Seaside)
+  difficulty: 23
+  types:
+    - Late_Game
+    - Seaside
+    - Seaside_Moons
+- name: 18 Moons (Lost)
+  difficulty: 23
+  types:
+    - Lost_Moons
+- name: 2 Barrier-Moons (Snow)
+  difficulty: 23
+  types:
+    - Late_Game
+    - Snow
+    - Story
+- name: Catch the Rabbit! (Lost)
+  difficulty: 23
+  types:
+    - Lost
+    - Rabbit
+- name: 30 Moons (Sand)
+  difficulty: 23
+  types:
+    - Sand_Moons
+- name: 6 Moons from Music Notes
+  difficulty: 24
+  types:
+    - Late_Game
+    - Music_Notes
+- name: 7 Moons from 8-bit Sections
+  difficulty: 24
+  types:
+    - 8bit
+- name: 225 Total Regional Coins
+  difficulty: 24
+  types:
+    - Regional_Coins
+- name: 20 Moons from sub-areas (Total)
+  difficulty: 24
+  types:
+    - Sub_Areas
+- name: 5 Ground-Pound Moons (Seaside)
+  difficulty: 24
+  types:
+    - Late_Game
+    - Seaside
+    - Seaside_Moons
+- name: 4 Moons from sub-areas (Seaside)
+  difficulty: 24
+  types:
+    - Late_Game
+    - Seaside
+    - Sub_Areas
+- name: World Peace Restored! (Metro)
+  difficulty: 25
+  types:
+    - World_Peace
+- name: 20 Moons (Lake)
+  difficulty: 25
+  types:
+    - Lake_Moons
+- name: 3 Barrier-Moons (Snow)
+  difficulty: 25
+  types:
+    - Late_Game
+    - Snow
+    - Story
+- name: 10 Moons from sub-areas (Metro)
+  difficulty: 25
+  types:
+    - Metro
+    - Sub_Areas
+- name: 28 Moons (Wooded)
+  difficulty: 25
+  types:
+    - Wooded_Moons
+- name: 32 Moons (Sand)
+  difficulty: 25
+  types:
+    - Sand_Moons
+- name: 6 Ground-Pound Moons (Seaside)
+  difficulty: 25
+  types:
+    - Late_Game
+    - Seaside
+    - Seaside_Moons

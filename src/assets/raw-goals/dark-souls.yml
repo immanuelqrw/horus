@@ -1,0 +1,905 @@
+---
+- name: Bandit Class
+  difficulty: 1
+  types:
+    - startingclass
+    - restrict_axe
+- name: Knight Class
+  difficulty: 1
+  types:
+    - startingclass
+    - restrict_sword
+- name: Hunter Class
+  difficulty: 1
+  types:
+    - startingclass
+    - restrict_sword
+- name: Pyromancer Class
+  difficulty: 1
+  types:
+    - startingclass
+    - restrict_axe
+- name: Depraved Class
+  difficulty: 1
+  types:
+    - startingclass
+- name: Wanderer Class
+  difficulty: 1
+  types:
+    - startingclass
+- name: Thief Class
+  difficulty: 1
+  types:
+    - startingclass
+    - restrict_key
+- name: Warrior Class
+  difficulty: 1
+  types:
+    - startingclass
+    - restrict_sword
+- name: Cleric Class
+  difficulty: 1
+  types:
+    - startingclass
+- name: No Master Key
+  difficulty: 2
+  types:
+    - startingitem
+    - restrict_key
+- name: Take Pendant as gift
+  difficulty: 2
+  types:
+    - startingitem
+    - restrict_key
+- name: Take Binoculars as gift
+  difficulty: 2
+  types:
+    - startingitem
+    - restrict_key
+- name: Take Old witches ring as gift
+  difficulty: 2
+  types:
+    - startingitem
+    - restrict_key
+- name: Right hand wielding only
+  difficulty: 2
+  types:
+    - restriction
+    - wielding
+- name: Left hand wielding only
+  difficulty: 2
+  types:
+    - restriction
+    - wielding
+- name: No Swords
+  difficulty: 2
+  types:
+    - restriction
+    - restrict_weapons
+- name: No Shields
+  difficulty: 3
+  types:
+    - restriction
+    - restrict_weapons
+- name: No Swords
+  difficulty: 3
+  types:
+    - restriction
+    - restrict_weapons
+- name: No Polearms
+  difficulty: 3
+  types:
+    - restriction
+    - restrict_weapons
+- name: Daggers Only
+  difficulty: 3
+  types:
+    - restriction
+    - restrict_weapons
+- name: Axes only
+  difficulty: 3
+  types:
+    - restriction
+    - restrict_weapons
+- name: No Rings
+  difficulty: 3
+  types:
+    - restriction
+    - restrict_armour
+- name: Starting Armour only
+  difficulty: 3
+  types:
+    - restriction
+    - restrict_armour
+- name: Starting Weapons only
+  difficulty: 3
+  types:
+    - restriction
+    - restrict_armour
+- name: Summon Lautrec for Gargoyles
+  difficulty: 4
+  types:
+    - npcs
+    - parish
+- name: Obtain Fire Keeper Soul (Parish)
+  difficulty: 4
+  types:
+    - humanity
+    - parish
+- name: Kill Armoured Boar (Parish)
+  difficulty: 4
+  types:
+    - enemies
+    - parish
+- name: Join Warriors of Sunlight
+  difficulty: 4
+  types:
+    - covenant
+    - parish
+- name: Cut Off a Gargoyle's Tail
+  difficulty: 4
+  types:
+    - bosses
+    - parish
+    - items
+- name: Obtain Crest of Artorias
+  difficulty: 4
+  types:
+    - items
+    - parish
+- name: Bloodbite Ring
+  difficulty: 4
+  types:
+    - rings
+    - parish
+- name: Poisonbite Ring
+  difficulty: 4
+  types:
+    - rings
+    - parish
+- name: 3 Purging Stones
+  difficulty: 4
+  types:
+    - items
+    - parish
+- name: Open Lower Burg / Depths to Firelink Gate
+  difficulty: 5
+  types:
+    - shortcut
+    - lowerburg
+- name: Rescue Griggs
+  difficulty: 5
+  types:
+    - npcs
+    - lowerburg
+- name: Join Forest Hunters
+  difficulty: 5
+  types:
+    - covenant
+    - darkroot
+    - npcs
+- name: Obtain Divine Ember
+  difficulty: 5
+  types:
+    - darkroot
+    - ember
+- name: Obtain Enchanted Ember
+  difficulty: 5
+  types:
+    - darkroot
+    - ember
+- name: Kill Black Knight (Darkroot)
+  difficulty: 5
+  types:
+    - darkroot
+    - ember
+- name: Kill Capra Demon
+  difficulty: 5
+  types:
+    - lowerburg
+    - bosses
+- name: Obtain Grass Crest Shield
+  difficulty: 5
+  types:
+    - items
+    - armour
+    - darkroot
+- name: Obtain Soul of the Moonlight Butterfly
+  difficulty: 5
+  types:
+    - bosses
+    - darkroot
+- name: Obtain heavy Crossbow
+  difficulty: 6
+  types:
+    - weapons
+    - depths
+    - items
+- name: Obtain Ring of Evil Eye
+  difficulty: 6
+  types:
+    - rings
+    - depths
+    - items
+- name: Defeat Kirk (Depths)
+  difficulty: 6
+  types:
+    - npcs
+    - depths
+    - enemies
+- name: Kill Gaping Dragon
+  difficulty: 6
+  types:
+    - bosses
+    - depths
+- name: Kill 2 Butchers
+  difficulty: 6
+  types:
+    - enemies
+    - depths
+- name: Obtain Large Ember
+  difficulty: 6
+  types:
+    - items
+    - ember
+    - depths
+- name: Rescue Laurentius
+  difficulty: 6
+  types:
+    - npcs
+    - depths
+    - pyromancy
+- name: Kill Sif
+  difficulty: 6
+  types:
+    - darkroot
+    - bosses
+    - sif
+- name: Obtain Hornet Ring
+  difficulty: 6
+  types:
+    - darkroot
+    - bosses
+    - sif
+- name: Obtain Whip
+  difficulty: 7
+  types:
+    - weapons
+    - blighttown
+- name: Obtain Server
+  difficulty: 7
+  types:
+    - weapons
+    - blighttown
+- name: Obtain Iaito
+  difficulty: 7
+  types:
+    - weapons
+    - blighttown
+- name: Obtain Force Within
+  difficulty: 7
+  types:
+    - items
+    - spells
+    - blighttown
+- name: Obtain Tin Banishment Catalyst
+  difficulty: 7
+  types:
+    - items
+    - weapons
+- name: Obtain Remedy
+  difficulty: 7
+  types:
+    - items
+    - spells
+- name: Obtain Fire Keeper Soul (Blighttown)
+  difficulty: 7
+  types:
+    - blighttown
+    - items
+    - humanity
+- name: Obtain Queelag's Soul
+  difficulty: 7
+  types:
+    - bosses
+    - depths
+    - items
+- name: Obtain Remedy
+  difficulty: 7
+  types:
+    - sorcery
+    - blighttown
+- name: Defeat Maneater Mildred
+  difficulty: 7
+  types:
+    - bosses
+    - depths
+- name: Obtain Fire Keeper Soul (New Londo)
+  difficulty: 8
+  types:
+    - drakeslondo
+    - items
+    - humanity
+- name: Obtain Astora's Straight Sword
+  difficulty: 8
+  types:
+    - weapons
+    - drakeslondo
+    - items
+- name: Obtain Very Large Ember
+  difficulty: 8
+  types:
+    - items
+    - drakeslondo
+- name: Obtain Cursebite Ring
+  difficulty: 8
+  types:
+    - rings
+    - drakeslondo
+- name: Obtain Composite Bow
+  difficulty: 8
+  types:
+    - weapons
+    - drakeslondo
+    - items
+- name: Obtain 10 Cracked Red Eye Orbs
+  difficulty: 8
+  types:
+    - items
+    - drakeslondo
+- name: Defeat Four Kings
+  difficulty: 8
+  types:
+    - bosses
+    - drakeslondo
+- name: Kill Undead Dragon (Valley of the Drakes)
+  difficulty: 8
+  types:
+    - bosses
+    - drakeslondo
+- name: Obtain Lucerne
+  difficulty: 9
+  types:
+    - weapons
+    - catacombs
+- name: Obtain 6 Eyes of Death
+  difficulty: 9
+  types:
+    - items
+    - catacombs
+    - totg
+- name: Obtain Darkmoon Seance Ring
+  difficulty: 9
+  types:
+    - enemies
+    - catacombs
+- name: Obtain Gravelord Greastword
+  difficulty: 9
+  types:
+    - covenant
+    - catacombs
+- name: Obtain Great Scythe
+  difficulty: 9
+  types:
+    - catacombs
+- name: Obtain Tranquil Walk of Peace
+  difficulty: 9
+  types:
+    - items
+    - spells
+    - catacombs
+- name: Kill Black Knight (Catacombs)
+  difficulty: 9
+  types:
+    - items
+    - spells
+    - catacombs
+- name: Kill Titanite Demon (The Catacombs)
+  difficulty: 9
+  types:
+    - enemies
+    - catacombs
+- name: Kill Patches
+  difficulty: 9
+  types:
+    - npcs
+    - catacombs
+- name: Summon Paladin Leeroy
+  difficulty: 9
+  types:
+    - covenant
+    - catacombs
+- name: Craft a Fire Weapon
+  difficulty: 9
+  types:
+    - vamos
+    - catacombs
+- name: Kill 2 Black Knights in the Asylum
+  difficulty: 10
+  types:
+    - asylum
+    - enemies
+- name: Obtain Peculiar Doll
+  difficulty: 10
+  types:
+    - asylum
+    - items
+- name: Obtain Rusted Iron Ring
+  difficulty: 10
+  types:
+    - asylum
+    - items
+- name: Kill Stray Demon
+  difficulty: 10
+  types:
+    - asylum
+    - bosses
+- name: Trade an item with Snuggly
+  difficulty: 10
+  types:
+    - asylum
+    - items
+- name: Obtain Chaos Ember
+  difficulty: 11
+  types:
+    - demonruins
+    - items
+    - ember
+- name: Obtain Large Flame Ember
+  difficulty: 11
+  types:
+    - demonruins
+    - items
+    - ember
+- name: Obtain Gold-Hemmed Black Set
+  difficulty: 11
+  types:
+    - demonruins
+    - bosses
+- name: Kill Ceaseless Discharge
+  difficulty: 11
+  types:
+    - demonruins
+    - bosses
+- name: Murder Chaos Covenant Leader
+  difficulty: 11
+  types:
+    - demonruins
+    - npcs
+    - covenant
+- name: Join Chaos Covenant
+  difficulty: 11
+  types:
+    - demonruins
+    - npcs
+    - covenant
+- name: Get the Egg Head Infection
+  difficulty: 11
+  types:
+    - demonruins
+    - enemies
+    - armour
+- name: Obtain Lightning Spear
+  difficulty: 12
+  types:
+    - items
+    - weapons
+- name: Obtain Covetous Gold Serpent Ring
+  difficulty: 12
+  types:
+    - items
+    - rings
+    - sens
+- name: Obtain Ring of Steel Protection
+  difficulty: 12
+  types:
+    - items
+    - rings
+    - sens
+- name: Obtain Flame Stoneplate Ring
+  difficulty: 12
+  types:
+    - items
+    - rings
+    - sens
+- name: Obtain Sniper Crossbow
+  difficulty: 12
+  types:
+    - items
+    - weapons
+    - sens
+- name: Obtain Ricard's Rapier
+  difficulty: 12
+  types:
+    - items
+    - weapons
+    - sens
+    - npcs
+- name: Obtain Hush
+  difficulty: 12
+  types:
+    - items
+    - sens
+    - spells
+- name: Obtain Core of Iron Golem
+  difficulty: 12
+  types:
+    - sens
+    - items
+    - bosses
+- name: Kill All 3 Giants in Sens
+  difficulty: 12
+  types:
+    - enemies
+    - sens
+- name: Summon Iron Tarkus
+  difficulty: 13
+  types:
+    - npcs
+    - lautrec
+- name: Summon Witch Beatrice
+  difficulty: 13
+  types:
+    - npcs
+    - Beatrice
+- name: Murder Siegmeyer
+  difficulty: 13
+  types:
+    - npcs
+    - lautrec
+- name: Murder Andre
+  difficulty: 13
+  types:
+    - parish
+    - items
+- name: Murder Solaire
+  difficulty: 13
+  types:
+    - covenant
+    - solaire
+- name: Kill Lady of the Darkling
+  difficulty: 14
+  types:
+    - npc
+    - anorlondo
+- name: Murder Giant Blacksmith
+  difficulty: 14
+  types:
+    - anorlondo
+    - npc
+    - smithy
+- name: Join Darkmoon Covenant
+  difficulty: 14
+  types:
+    - npcs
+    - bosses
+    - anorlondo
+- name: Kill Dark Sun Gwyndolin
+  difficulty: 14
+  types:
+    - npcs
+    - bosses
+    - anorlondo
+- name: Obtain Silver Knight Set
+  difficulty: 14
+  types:
+    - anorlondo
+    - armour
+- name: Summon Solaire in Anor Londo
+  difficulty: 15
+  types:
+    - covenant
+    - solaire
+- name: Kill Crestfallen Merchant
+  difficulty: 15
+  types:
+    - sens
+    - npc
+- name: Rescue Griggs in Lower Burg
+  difficulty: 15
+  types:
+    - lowerburg
+    - npc
+- name: Rescue Logan in Sen's
+  difficulty: 15
+  types:
+    - sens
+    - npc
+    - spells
+- name: Cause Crestfallen Warrior to go Hollow
+  difficulty: 15
+  types:
+    - firelink
+    - npc
+- name: Never use Sorcery
+  difficulty: 16
+  types:
+    - restriction
+    - restrict_spell
+- name: Never use Miracles
+  difficulty: 16
+  types:
+    - restriction
+    - restrict_spell
+- name: Never use Consumables
+  difficulty: 16
+  types:
+    - restriction
+    - restrict_consumable
+- name: Only heal with Humanities
+  difficulty: 16
+  types:
+    - restriction
+    - restrict_consumable
+- name: Never use Pyromancy
+  difficulty: 16
+  types:
+    - restriction
+    - restrict_spell
+- name: Never wear Armour
+  difficulty: 16
+  types:
+    - restriction
+- name: Obtain Tiny Being's Ring (Siegmeyer)
+  difficulty: 17
+  types:
+    - npcs
+    - anorlondo2
+- name: Obtain Ring of the Sun's Firstborn
+  difficulty: 17
+  types:
+    - anorlondo
+- name: Obtain Hawk Ring
+  difficulty: 17
+  types:
+    - anorlondo
+- name: Kill Three Mimics
+  difficulty: 17
+  types:
+    - anorlondo
+- name: Kill Titanite Demon (Anor Londo)
+  difficulty: 17
+  types:
+    - anorlondo
+    - ornsmo
+- name: Kill Titanite Demon (Anor Londo)
+  difficulty: 17
+  types:
+    - anorlondo
+    - ornsmo
+- name: Obtain Havel's Set
+  difficulty: 17
+  types:
+    - anorlondo
+    - armour
+- name: Obtain Soul of Ornstein
+  difficulty: 18
+  types:
+    - anorlondo
+    - ornsmo
+- name: Obtain Leo Ring
+  difficulty: 18
+  types:
+    - anorlondo
+    - ornsmo
+- name: Invade Lautrec at Anor Londo
+  difficulty: 18
+  types:
+    - anorlondo
+    - lautrec
+- name: Join Princess Guard
+  difficulty: 18
+  types:
+    - anorlondo
+    - tits
+    - ornsmo
+- name: Obtain Soul of Smough
+  difficulty: 18
+  types:
+    - anorlondo
+    - ornsmo
+- name: Kill Gwynevere
+  difficulty: 18
+  types:
+    - anorlondo
+    - ornsmo
+- name: Obtain Black Iron Set
+  difficulty: 19
+  types:
+    - paintedworld
+    - guardians
+- name: Obtain Dark Ember
+  difficulty: 19
+  types:
+    - paintedworld
+    - ember
+- name: Obtain Red Sign Soapstone
+  difficulty: 19
+  types:
+    - paintedworld
+    - guardians
+- name: Obtain Bloodshield
+  difficulty: 19
+  types:
+    - paintedworld
+    - guardians
+- name: Defeat Undead Dragon (Painted World)
+  difficulty: 19
+  types:
+    - paintedworld
+    - items
+- name: Defeat Jeremiah
+  difficulty: 20
+  types:
+    - paintedworld
+    - enemies
+- name: Obtain Painting Guardian Set
+  difficulty: 20
+  types:
+    - paintedworld
+    - armour
+- name: Obtain Velka's Rapier
+  difficulty: 20
+  types:
+    - paintedworld
+    - weapons
+- name: Murder Priscilla
+  difficulty: 20
+  types:
+    - paintedworld
+    - youmonster
+- name: Obtain Dried Finger
+  difficulty: 20
+  types:
+    - paintedworld
+    - items
+- name: Kill Black Knight (Tomb of the Giants)
+  difficulty: 21
+  types:
+    - enemies
+    - totg
+- name: Rescue Rhea
+  difficulty: 21
+  types:
+    - npcs
+    - totg
+    - rhea
+- name: Get pushed by Patches
+  difficulty: 21
+  types:
+    - npcs
+    - totg
+- name: Obtain Skull Lantern
+  difficulty: 21
+  types:
+    - weapons
+    - totg
+- name: Obtain Effigy Shield
+  difficulty: 21
+  types:
+    - weapons
+    - totg
+- name: Obtain Large Divine Ember
+  difficulty: 21
+  types:
+    - ember
+    - totg
+- name: Obtain Covetous Silver Serpent Ring
+  difficulty: 21
+  types:
+    - rings
+    - totg
+- name: Obtain Dusk Crown Ring
+  difficulty: 22
+  types:
+    - darkroothard
+    - dusk
+- name: Obtain Chameleon
+  difficulty: 22
+  types:
+    - darkroothard
+    - dusk
+    - spells
+- name: Obtain Antiquated Set
+  difficulty: 22
+  types:
+    - darkroothard
+    - dusk
+    - spells
+- name: Never Light a bonfire
+  difficulty: 22
+  types:
+    - restriction
+- name: Fully kindle a bonfire
+  difficulty: 22
+  types:
+    - restriction
+- name: Nver upgrade weapons
+  difficulty: 22
+  types:
+    - restriction
+- name: Join Path of the Dragon
+  difficulty: 23
+  types:
+    - covenant
+    - ashlake
+- name: Obtain Great Magic Barrier
+  difficulty: 23
+  types:
+    - miracles
+    - ashlake
+- name: Light Ash Lake Bonfire
+  difficulty: 23
+  types:
+    - ashlake
+- name: Obtain Cloranthy Ring
+  difficulty: 23
+  types:
+    - ashlake
+- name: Obtain 2 Soul of a Hero
+  difficulty: 24
+  types:
+    - stats
+    - humanity
+- name: 20 soft humanity
+  difficulty: 24
+  types:
+    - stats
+    - humanity
+- name: 150000 souls
+  difficulty: 24
+  types:
+    - stats
+    - souls
+- name: 26 Resistance
+  difficulty: 24
+  types:
+    - stats
+    - condition
+- name: 36 Vitality
+  difficulty: 24
+  types:
+    - stats
+    - condition
+- name: 36 Endurance
+  difficulty: 24
+  types:
+    - stats
+    - condition
+- name: No Endurance levelling
+  difficulty: 24
+  types:
+    - stats
+    - restriction
+    - condition
+- name: No Vitality levelling
+  difficulty: 24
+  types:
+    - stats
+    - restriction
+    - condition
+- name: 36 Dexterity
+  difficulty: 25
+  types:
+    - stats
+    - attack
+- name: 36 Strength
+  difficulty: 25
+  types:
+    - stats
+    - attack
+- name: 28 Attunement
+  difficulty: 25
+  types:
+    - stats
+    - casting
+- name: 36 Intelligence
+  difficulty: 25
+  types:
+    - stats
+    - casting
+- name: 36 Faith
+  difficulty: 25
+  types:
+    - stats
+    - casting

@@ -1,0 +1,2837 @@
+---
+- name: Hylian Hood
+  difficulty: 1
+  types:
+    - Clothes
+    - Hylian Gear
+    - Rupee
+- name: Hylian Tunic
+  difficulty: 1
+  types:
+    - Clothes
+    - Hylian Gear
+    - Rupee
+    - Rupee
+- name: Warm Doublet
+  difficulty: 1
+  types:
+    - Clothes
+    - Cold Resistance
+    - Hateno
+- name: 3 Great Plateau Koroks
+  difficulty: 1
+  types:
+    - Korok
+    - Plateau
+- name: Hylian Trousers
+  difficulty: 1
+  types:
+    - Clothes
+    - Hylian Gear
+    - Rupee
+- name: Any 'Boko' Equipment item
+  difficulty: 1
+  types:
+    - Equipment
+- name: 3 Dueling Peaks Koroks
+  difficulty: 1
+  types:
+    - Korok
+    - Dueling Peaks
+- name: 3 Central Tower Koroks
+  difficulty: 1
+  types:
+    - Korok
+    - Central Hyrule
+- name: 5 Koroks
+  difficulty: 2
+  types:
+    - Korok
+- name: 3 Hateno Koroks
+  difficulty: 2
+  types:
+    - Korok
+    - Hateno
+- name: 3 Faron Koroks
+  difficulty: 2
+  types:
+    - Korok
+    - Faron
+- name: 3 Ridgeland Koroks
+  difficulty: 2
+  types:
+    - Korok
+    - Ridgeland
+- name: Any 'Rusty' Equipment item
+  difficulty: 2
+  types:
+    - Equipment
+- name: Any Energizing meal
+  difficulty: 2
+  types:
+    - Cooking
+    - Stamina
+- name: Give Beedle a Beetle
+  difficulty: 2
+  types:
+    - Horse
+- name: Register a Horse
+  difficulty: 2
+  types:
+    - Horse
+- name: Anger a Cucco
+  difficulty: 2
+  types:
+    - Cucco
+- name: Activate Dueling Peaks Tower
+  difficulty: 2
+  types:
+    - Tower
+    - Dueling Peaks
+- name: Soup Ladle
+  difficulty: 2
+  types:
+    - Equipment
+- name: 1 Koko Cooking Side Quest
+  difficulty: 2
+  types:
+    - Side Quest
+    - Dueling Peaks
+- name: Any Hasty meal
+  difficulty: 2
+  types:
+    - Cooking
+- name: Any Spicy meal
+  difficulty: 2
+  types:
+    - Cooking
+    - Cold Resistance
+- name: 5 Great Plateau Koroks
+  difficulty: 3
+  types:
+    - Korok
+    - Plateau
+- name: 6 Dueling Peaks Koroks
+  difficulty: 3
+  types:
+    - Korok
+    - Dueling Peaks
+- name: 3 Lake Tower Koroks
+  difficulty: 3
+  types:
+    - Korok
+    - Lake
+- name: 3 Wasteland Koroks
+  difficulty: 3
+  types:
+    - Korok
+    - Wasteland
+- name: 3 Woodland Koroks
+  difficulty: 3
+  types:
+    - Korok
+    - Woodland
+- name: 3 Lanayru Koroks
+  difficulty: 3
+  types:
+    - Korok
+    - Lanayru
+- name: "'The Priceless Maracas' Side Quest"
+  difficulty: 3
+  types:
+    - Side Quest
+    - Dueling Peaks
+- name: "'Playtime with Cottla' Side Quest"
+  difficulty: 3
+  types:
+    - Side Quest
+    - Dueling Peaks
+- name: "'Wild Horses' Side Quest"
+  difficulty: 3
+  types:
+    - Side Quest
+    - Dueling Peaks
+    - Horse
+- name: "'The Statue's Bargain' Side Quest"
+  difficulty: 3
+  types:
+    - Side Quest
+    - Hateno
+- name: "'Watch Out for the Flowers' Shrine Quest"
+  difficulty: 3
+  types:
+    - Shrine
+    - Shrine Quest
+    - Dueling Peaks
+- name: Any Enduring meal
+  difficulty: 3
+  types:
+    - Cooking
+    - Stamina
+- name: Any Mighty meal
+  difficulty: 3
+  types:
+    - Cooking
+- name: Any Sneaky meal
+  difficulty: 3
+  types:
+    - Cooking
+- name: Dubious Food
+  difficulty: 3
+  types:
+    - Cooking
+- name: Open 2 Bokoblin Camp Chests
+  difficulty: 3
+  types:
+    - Plateau
+- name: Save a Traveler in Peril
+  difficulty: 3
+  types:
+    - Monster
+- name: Activate Lake Tower
+  difficulty: 3
+  types:
+    - Tower
+    - Lake
+- name: 3 Tabantha Koroks
+  difficulty: 3
+  types:
+    - Korok
+    - Tabantha
+- name: Any Stalfos 'Arm' Equipment item
+  difficulty: 3
+  types:
+    - Equipment
+- name: 3 Side Quests
+  difficulty: 3
+  types:
+    - Side Quest
+- name: 10 Koroks
+  difficulty: 4
+  types:
+    - Korok
+- name: 3 Eldin Koroks
+  difficulty: 4
+  types:
+    - Korok
+    - Eldin
+- name: 3 Akkala Koroks
+  difficulty: 4
+  types:
+    - Korok
+    - Akkala
+- name: Pay 1 Great Fairy
+  difficulty: 4
+  types:
+    - Rupee
+    - Great Fairy
+- name: Full Hylian Set
+  difficulty: 4
+  types:
+    - Clothes
+    - Hylian Gear
+    - Rupee
+- name: Soldier's Helm
+  difficulty: 4
+  types:
+    - Clothes
+    - Soldier Gear
+    - Rupee
+    - Hateno
+- name: Soldier's Armor
+  difficulty: 4
+  types:
+    - Clothes
+    - Soldier Gear
+    - Rupee
+    - Hateno
+- name: Soldier's Greaves
+  difficulty: 4
+  types:
+    - Clothes
+    - Soldier Gear
+    - Rupee
+    - Hateno
+- name: Stealth Mask
+  difficulty: 4
+  types:
+    - Clothes
+    - Stealth Gear
+    - Rupee
+    - Dueling Peaks
+- name: Stealth Tights
+  difficulty: 4
+  types:
+    - Clothes
+    - Stealth Gear
+    - Rupee
+    - Dueling Peaks
+- name: Climber's Bandanna
+  difficulty: 4
+  types:
+    - Clothes
+    - Climbing Gear
+    - Dueling Peaks
+- name: "'Flown the Coop' Side Quest"
+  difficulty: 4
+  types:
+    - Side Quest
+    - Dueling Peaks
+    - Heirloom
+- name: 2 Koko Cooking Side Quests
+  difficulty: 4
+  types:
+    - Side Quest
+    - Dueling Peaks
+- name: "'Arrows of Burning Heat' Side Quest"
+  difficulty: 4
+  types:
+    - Side Quest
+    - Dueling Peaks
+- name: "'The Apple of My Eye' Side Quest"
+  difficulty: 4
+  types:
+    - Side Quest
+    - Tabantha
+- name: A Minor Test of Strength Shrine
+  difficulty: 4
+  types:
+    - Shrine
+    - Guardian
+- name: Farming Hoe
+  difficulty: 4
+  types:
+    - Equipment
+- name: Any Hearty meal
+  difficulty: 4
+  types:
+    - Cooking
+- name: Any Tough meal
+  difficulty: 4
+  types:
+    - Cooking
+- name: Hearty Elixir
+  difficulty: 4
+  types:
+    - Cooking
+- name: Energizing Elixir
+  difficulty: 4
+  types:
+    - Cooking
+- name: Chilly Elixir
+  difficulty: 4
+  types:
+    - Cooking
+- name: Hasty Elixir
+  difficulty: 4
+  types:
+    - Cooking
+- name: Enduring Elixir
+  difficulty: 4
+  types:
+    - Cooking
+- name: Mighty Elixir
+  difficulty: 4
+  types:
+    - Cooking
+- name: Tough Elixir
+  difficulty: 4
+  types:
+    - Cooking
+- name: Sneaky Elixir
+  difficulty: 4
+  types:
+    - Cooking
+- name: Rock-Hard Food
+  difficulty: 4
+  types:
+    - Cooking
+- name: Kill a Wizzrobe of any kind
+  difficulty: 4
+  types:
+    - Wizzrobe
+- name: Kill a Stone Talus of any kind
+  difficulty: 4
+  types:
+    - Rupee
+    - Gems
+    - Miniboss
+    - Talus
+- name: Kill a (normal) Stone Talus
+  difficulty: 4
+  types:
+    - Rupee
+    - Gems
+    - Miniboss
+    - Talus
+- name: Kill a Decayed Guardian
+  difficulty: 4
+  types:
+    - Miniboss
+    - Guardian
+- name: Mount a Deer
+  difficulty: 4
+  types:
+    - Horse
+- name: Obtain a Purple Rupee
+  difficulty: 4
+  types:
+    - Rupee
+- name: Read Paya's Diary
+  difficulty: 4
+  types:
+    - Dueling Peaks
+- name: Read Purah's Diary
+  difficulty: 4
+  types:
+    - Hateno
+- name: Activate Hateno Tower
+  difficulty: 4
+  types:
+    - Tower
+    - Hateno
+- name: Activate Faron Tower
+  difficulty: 4
+  types:
+    - Tower
+    - Faron
+- name: Activate Wasteland Tower
+  difficulty: 4
+  types:
+    - Tower
+    - Wasteland
+- name: Activate Ridgeland Tower
+  difficulty: 4
+  types:
+    - Tower
+    - Ridgeland
+- name: 4 Side Quests
+  difficulty: 4
+  types:
+    - Side Quest
+- name: Any Rod weapon
+  difficulty: 4
+  types:
+    - Equipment
+    - Wizzrobe
+- name: 6 Hateno Koroks
+  difficulty: 5
+  types:
+    - Korok
+    - Hateno
+- name: 6 Faron Koroks
+  difficulty: 5
+  types:
+    - Korok
+    - Faron
+- name: 6 Lake Tower Koroks
+  difficulty: 5
+  types:
+    - Korok
+    - Lake
+- name: 6 Wasteland Koroks
+  difficulty: 5
+  types:
+    - Korok
+    - Wasteland
+- name: 3 Gerudo Koroks
+  difficulty: 5
+  types:
+    - Korok
+    - Gerudo
+- name: 6 Ridgeland Koroks
+  difficulty: 5
+  types:
+    - Korok
+    - Ridgeland
+- name: 3 Hebra Koroks
+  difficulty: 5
+  types:
+    - Korok
+    - Hebra
+    - Cold Resistance
+- name: 6 Woodland Koroks
+  difficulty: 5
+  types:
+    - Korok
+    - Woodland
+- name: 6 Lanayru Koroks
+  difficulty: 5
+  types:
+    - Korok. Lanayru
+- name: 6 Central Tower Koroks
+  difficulty: 5
+  types:
+    - Korok
+    - Central Hyrule
+- name: Rubber Helm
+  difficulty: 5
+  types:
+    - Clothes
+    - Rubber Gear
+    - Faron
+- name: Rubber Armor
+  difficulty: 5
+  types:
+    - Clothes
+    - Rubber Gear
+    - Ridgeland
+- name: Rubber Tights
+  difficulty: 5
+  types:
+    - Clothes
+    - Rubber Gear
+    - Faron
+- name: Stealth Chest Guard
+  difficulty: 5
+  types:
+    - Clothes
+    - Stealth Gear
+    - Rupee
+    - Dueling Peaks
+- name: "'Misko, the Great Bandit' Side Quest"
+  difficulty: 5
+  types:
+    - Side Quest
+    - Dueling Peaks
+- name: "'Sunken Treasure' Side Quest"
+  difficulty: 5
+  types:
+    - Side Quest
+    - Hateno
+- name: "'The Hero's Cache' Side Quest"
+  difficulty: 5
+  types:
+    - Side Quest
+    - Hateno
+- name: "'Thunder Magnet' Side Quest"
+  difficulty: 5
+  types:
+    - Side Quest
+    - Faron
+    - Rubber Gear
+- name: "'A Good-Sized Horse' Side Quest"
+  difficulty: 5
+  types:
+    - Side Quest
+    - Wasteland
+    - Horse
+- name: "'The Spark of Romance' Side Quest"
+  difficulty: 5
+  types:
+    - Side Quest
+    - Tabantha
+- name: "'A Gift for the Great Fairy' Side Quest"
+  difficulty: 5
+  types:
+    - Side Quest
+    - Tabantha
+    - Rupee
+    - Great Fairy
+- name: "'Balloon Flight' Side Quest"
+  difficulty: 5
+  types:
+    - Side Quest
+    - Woodland
+- name: "'Riverbed Reward' Side Quest"
+  difficulty: 5
+  types:
+    - Side Quest
+    - Central Hyrule
+- name: "'The Two Rings' Shrine Quest"
+  difficulty: 5
+  types:
+    - Shrine
+    - Shrine Quest
+    - Ridgeland
+- name: Any Boomerang
+  difficulty: 5
+  types:
+    - Equipment
+- name: Any 'Lizal' Equipment item
+  difficulty: 5
+  types:
+    - Equipment
+- name: Boat Oar
+  difficulty: 5
+  types:
+    - Equipment
+- name: Any 'Moblin' Equipment item
+  difficulty: 5
+  types:
+    - Equipment
+- name: Wooden Mop
+  difficulty: 5
+  types:
+    - Equipment
+- name: Any Chilly meal
+  difficulty: 5
+  types:
+    - Cooking
+    - Wasteland
+- name: Any Electro meal
+  difficulty: 5
+  types:
+    - Cooking
+- name: Spicy Elixir
+  difficulty: 5
+  types:
+    - Cooking
+- name: Electro Elixir
+  difficulty: 5
+  types:
+    - Cooking
+- name: Kill a fire-typed Wizzrobe
+  difficulty: 5
+  types:
+    - Wizzrobe
+- name: Kill an electric-typed Wizzrobe
+  difficulty: 5
+  types:
+    - Wizzrobe
+- name: Kill a Hinox of any kind
+  difficulty: 5
+  types:
+    - Miniboss
+    - Hinox
+- name: Kill a (red) Hinox
+  difficulty: 5
+  types:
+    - Miniboss
+    - Hinox
+- name: 500m in the Gliding Minigame
+  difficulty: 5
+  types:
+    - Minigame
+    - Ridgeland
+- name: Activate Lanayru Tower
+  difficulty: 5
+  types:
+    - Tower
+    - Lanayru
+- name: Activate Central Tower
+  difficulty: 5
+  types:
+    - Tower
+    - Central Hyrule
+- name: 6 Tabantha Koroks
+  difficulty: 6
+  types:
+    - Korok
+    - Tabantha
+- name: 6 Akkala Koroks
+  difficulty: 6
+  types:
+    - Korok
+    - Akkala
+- name: Gerudo Set
+  difficulty: 6
+  types:
+    - Clothes
+    - Wasteland
+    - Rupee
+- name: Red Dyed Hylian Hood
+  difficulty: 6
+  types:
+    - Clothes
+    - Hylian Gear
+    - Hateno
+- name: Yellow Dyed Hylian Hood
+  difficulty: 6
+  types:
+    - Clothes
+    - Hylian Gear
+    - Hateno
+- name: Purple Dyed Hylian Hood
+  difficulty: 6
+  types:
+    - Clothes
+    - Hylian Gear
+    - Hateno
+- name: Green Dyed Hylian Hood
+  difficulty: 6
+  types:
+    - Clothes
+    - Hylian Gear
+    - Hateno
+- name: Light Yellow Dyed Hylian Hood
+  difficulty: 6
+  types:
+    - Clothes
+    - Hylian Gear
+    - Hateno
+- name: Gray Dyed Hylian Hood
+  difficulty: 6
+  types:
+    - Clothes
+    - Hylian Gear
+    - Hateno
+- name: 3 Koko Cooking Side Quests
+  difficulty: 6
+  types:
+    - Side Quest
+    - Dueling Peaks
+- name: "'A Gift of Nightshade' Side Quest"
+  difficulty: 6
+  types:
+    - Side Quest
+    - Faron
+- name: "'The Horseback Hoodlums' Side Quest"
+  difficulty: 6
+  types:
+    - Side Quest
+    - Lake
+- name: "'The Royal White Stallion' Side Quest"
+  difficulty: 6
+  types:
+    - Side Quest
+    - Central Hyrule
+    - Horse
+    - Stamina
+- name: "'The Cursed Statue' Shrine Quest"
+  difficulty: 6
+  types:
+    - Shrine
+    - Shrine Quest
+    - Hateno
+- name: Fishing Harpoon
+  difficulty: 6
+  types:
+    - Equipment
+- name: 3 Identical Weapons
+  difficulty: 6
+  types:
+    - Equipment
+- name: Fireproof Elixir
+  difficulty: 6
+  types:
+    - Cooking
+- name: Hard-Boiled Egg
+  difficulty: 6
+  types:
+    - Cooking
+- name: Kill an ice-typed Wizzrobe
+  difficulty: 6
+  types:
+    - Wizzrobe
+- name: Obtain a Silver Rupee
+  difficulty: 6
+  types:
+    - Rupee
+- name: Activate Tabantha Tower
+  difficulty: 6
+  types:
+    - Tower
+    - Tabantha
+- name: Activate Woodland Tower
+  difficulty: 6
+  types:
+    - Tower
+    - Woodland
+- name: 15 Koroks
+  difficulty: 7
+  types:
+    - Korok
+- name: Snowquill Tunic
+  difficulty: 7
+  types:
+    - Clothes
+    - Snow Gear
+    - Cold Resistance
+    - Rupee
+    - Tabantha
+- name: Snowquill Trousers
+  difficulty: 7
+  types:
+    - Clothes
+    - Snow Gear
+    - Cold Resistance
+    - Rupee
+    - Tabantha
+- name: Zora Helm
+  difficulty: 7
+  types:
+    - Clothes
+    - Zora Gear
+    - Lanayru
+- name: Zora Armor
+  difficulty: 7
+  types:
+    - Clothes
+    - Zora Gear
+    - Lanayru
+- name: Blue Dyed Hylian Hood
+  difficulty: 7
+  types:
+    - Clothes
+    - Hylian Gear
+    - Hateno
+- name: White Dyed Hylian Hood
+  difficulty: 7
+  types:
+    - Clothes
+    - Hylian Gear
+    - Hateno
+- name: Light Blue Dyed Hylian Hood
+  difficulty: 7
+  types:
+    - Clothes
+    - Hylian Gear
+    - Hateno
+- name: Orange Dyed Hylian Hood
+  difficulty: 7
+  types:
+    - Clothes
+    - Hylian Gear
+    - Hateno
+- name: Crimson Dyed Hylian Hood
+  difficulty: 7
+  types:
+    - Clothes
+    - Hylian Gear
+    - Hateno
+- name: Brown Dyed Hylian Hood
+  difficulty: 7
+  types:
+    - Clothes
+    - Hylian Gear
+    - Hateno
+- name: 4 Koko Cooking Side Quests
+  difficulty: 7
+  types:
+    - Side Quest
+    - Dueling Peaks
+- name: "'The Sheep Rustlers' Side Quest"
+  difficulty: 7
+  types:
+    - Side Quest
+    - Hateno
+- name: "'An Ice Guy' Side Quest"
+  difficulty: 7
+  types:
+    - Side Quest
+    - Wasteland
+- name: "'Diving is Beauty!' Side Quest"
+  difficulty: 7
+  types:
+    - Side Quest
+    - Lanayru
+- name: 3 Dueling Peaks Shrines
+  difficulty: 7
+  types:
+    - Shrine
+    - Dueling Peaks
+- name: "'Crowned Beast' Shrine Quest"
+  difficulty: 7
+  types:
+    - Shrine
+    - Shrine Quest
+    - Hateno
+    - Horse
+- name: "'A Landscape of a Stable' Shrine Quest"
+  difficulty: 7
+  types:
+    - Shrine
+    - Shrine Quest
+    - Eldin
+- name: Any 'Zora' Equipment item
+  difficulty: 7
+  types:
+    - Equipment
+- name: Any Ice-typed Equipment item
+  difficulty: 7
+  types:
+    - Equipment
+- name: Any Fairy Tonic
+  difficulty: 7
+  types:
+    - Cooking
+- name: Glazed Meat
+  difficulty: 7
+  types:
+    - Cooking
+- name: Salt-Grilled Crab
+  difficulty: 7
+  types:
+    - Cooking
+- name: 2 Stamina Vessels
+  difficulty: 7
+  types:
+    - Shrine
+    - Stamina
+- name: Read Robbie's Diary
+  difficulty: 7
+  types:
+    - Akkala
+- name: Activate Gerudo Tower
+  difficulty: 7
+  types:
+    - Tower
+    - Gerudo
+- name: Activate Eldin Tower
+  difficulty: 7
+  types:
+    - Tower
+    - Eldin
+- name: 7 Great Plateau Koroks
+  difficulty: 8
+  types:
+    - Korok
+    - Plateau
+- name: 9 Dueling Peaks Koroks
+  difficulty: 8
+  types:
+    - Korok
+    - Dueling Peaks
+- name: 9 Hateno Koroks
+  difficulty: 8
+  types:
+    - Korok
+    - Hateno
+- name: 9 Lake Tower Koroks
+  difficulty: 8
+  types:
+    - Korok
+    - Lake
+- name: 6 Gerudo Koroks
+  difficulty: 8
+  types:
+    - Korok
+    - Gerudo
+- name: 6 Hebra Koroks
+  difficulty: 8
+  types:
+    - Korok
+    - Hebra
+    - Cold Resistance
+- name: 6 Eldin Koroks
+  difficulty: 8
+  types:
+    - Korok
+    - Eldin
+- name: 9 Central Tower Koroks
+  difficulty: 8
+  types:
+    - Korok
+    - Central Hyrule
+- name: Hylian Hood ★
+  difficulty: 8
+  types:
+    - Clothes
+    - Hylian Gear
+    - Rupee
+    - Great Fairy
+    - Bokoblin
+- name: Hylian Tunic ★
+  difficulty: 8
+  types:
+    - Clothes
+    - Hylian Gear
+    - Rupee
+    - Great Fairy
+    - Bokoblin
+- name: Hylian Trousers ★
+  difficulty: 8
+  types:
+    - Clothes
+    - Hylian Gear
+    - Rupee
+    - Great Fairy
+    - Bokoblin
+- name: Full Soldier's Set
+  difficulty: 8
+  types:
+    - Clothes
+    - Soldier Gear
+    - Rupee
+    - Hateno
+- name: Snowquill Headdress
+  difficulty: 8
+  types:
+    - Clothes
+    - Snow Gear
+    - Cold Resistance
+    - Rupee
+    - Tabantha
+- name: Flamebreaker Armor
+  difficulty: 8
+  types:
+    - Clothes
+    - Flame Gear
+    - Eldin
+    - Rupee
+- name: Flamebreaker Boots
+  difficulty: 8
+  types:
+    - Clothes
+    - Flame Gear
+    - Eldin
+    - Rupee
+- name: Black Dyed Hylian Hood
+  difficulty: 8
+  types:
+    - Clothes
+    - Hylian Gear
+    - Hateno
+- name: Navy Dyed Hylian Hood
+  difficulty: 8
+  types:
+    - Clothes
+    - Hylian Gear
+    - Hateno
+- name: Peach Dyed Hylian Hood
+  difficulty: 8
+  types:
+    - Clothes
+    - Hylian Gear
+    - Hateno
+- name: "'A Freezing Rod' Side Quest"
+  difficulty: 8
+  types:
+    - Side Quest
+    - Woodland
+    - Wizzrobe
+- name: 3 Lake Shrines
+  difficulty: 8
+  types:
+    - Shrine
+    - Lake
+- name: 3 Central Tower Shrines
+  difficulty: 8
+  types:
+    - Shrine
+    - Central Hyrule
+- name: "'Master of the Wind' Shrine Quest"
+  difficulty: 8
+  types:
+    - Shrine
+    - Shrine Quest
+    - Lanayru
+- name: Any 'Forest Dweller's' Equipment item
+  difficulty: 8
+  types:
+    - Equipment
+- name: Any Fire-typed Equipment item
+  difficulty: 8
+  types:
+    - Equipment
+- name: Any Electric-typed Equipment item
+  difficulty: 8
+  types:
+    - Equipment
+- name: Any Guardian Spear
+  difficulty: 8
+  types:
+    - Equipment
+    - Guardian
+- name: Fruitcake
+  difficulty: 8
+  types:
+    - Cooking
+- name: Copious Fish Skewers
+  difficulty: 8
+  types:
+    - Cooking
+- name: Kill a Guardian Stalker
+  difficulty: 8
+  types:
+    - Miniboss
+    - Guardian
+- name: Register the Royal Horse
+  difficulty: 8
+  types:
+    - Horse
+    - Central Hyrule
+    - Stamina
+- name: Talk to Kilton
+  difficulty: 8
+  types:
+    - Kilton
+    - Akkala
+- name: Obtain a Gold Rupee
+  difficulty: 8
+  types:
+    - Rupee
+- name: 5 Heart Containers
+  difficulty: 8
+  types:
+    - Shrine
+    - Heart
+- name: 5 Deer in Hunting Minigame
+  difficulty: 8
+  types:
+    - Minigame
+    - Hateno
+- name: Activate Hebra Tower
+  difficulty: 8
+  types:
+    - Tower
+    - Hebra
+    - Cold Resistance
+- name: 9 Faron Koroks
+  difficulty: 9
+  types:
+    - Korok
+    - Faron
+- name: 9 Ridgeland Koroks
+  difficulty: 9
+  types:
+    - Korok
+    - Ridgeland
+- name: 9 Lanayru Koroks
+  difficulty: 9
+  types:
+    - Korok. Lanayru
+- name: Climbing Boots
+  difficulty: 9
+  types:
+    - Clothes
+    - Climbing Gear
+    - Hateno
+- name: "'What's for Dinner?' Side Quest"
+  difficulty: 9
+  types:
+    - Side Quest
+    - Faron
+- name: "'The Secret Club's Secret' Side Quest"
+  difficulty: 9
+  types:
+    - Side Quest
+    - Wasteland
+    - Radiant Gear
+    - Desert Gear
+- name: "'Missing in Action' Side Quest"
+  difficulty: 9
+  types:
+    - Side Quest
+    - Wasteland
+- name: "'Fireproof Lizard Roundup' Side Quest"
+  difficulty: 9
+  types:
+    - Side Quest
+    - Eldin
+    - Flame Gear
+- name: 3 Ridgeland Shrines
+  difficulty: 9
+  types:
+    - Shrine
+    - Ridgeland
+- name: "'Twin Memories' Shrines"
+  difficulty: 9
+  types:
+    - Shrine
+    - Shrine Quest
+    - Dueling Peaks
+- name: "'Song of Storms' Shrine Quest"
+  difficulty: 9
+  types:
+    - Shrine
+    - Shrine Quest
+    - Faron
+- name: 1 Korok Trial
+  difficulty: 9
+  types:
+    - Shrine
+    - Shrine Quest
+    - Woodland
+- name: Any Guardian Sword
+  difficulty: 9
+  types:
+    - Equipment
+    - Guardian
+- name: 3 Identical Shields
+  difficulty: 9
+  types:
+    - Equipment
+- name: 3 Identical Bows
+  difficulty: 9
+  types:
+    - Equipment
+- name: Apple Pie
+  difficulty: 9
+  types:
+    - Cooking
+    - Tabantha
+- name: Curry Pilaf
+  difficulty: 9
+  types:
+    - Cooking
+- name: Kill a Blue Hinox
+  difficulty: 9
+  types:
+    - Miniboss
+    - Hinox
+- name: Finish Golf Minigame
+  difficulty: 9
+  types:
+    - Minigame
+    - Woodland
+- name: Activate Akkala Tower
+  difficulty: 9
+  types:
+    - Tower
+    - Akkala
+- name: Obtain a Material from Farosh
+  difficulty: 9
+  types:
+    - Dragon
+- name: 9 Wasteland Koroks
+  difficulty: 10
+  types:
+    - Korok
+    - Wasteland
+- name: 9 Tabantha Koroks
+  difficulty: 10
+  types:
+    - Korok
+    - Tabantha
+- name: 9 Woodland Koroks
+  difficulty: 10
+  types:
+    - Korok
+    - Woodland
+- name: 9 Akkala Koroks
+  difficulty: 10
+  types:
+    - Korok
+    - Akkala
+- name: Climber's Bandanna ★
+  difficulty: 10
+  types:
+    - Clothes
+    - Climbing Gear
+    - Great Fairy
+- name: Barbarian Armor
+  difficulty: 10
+  types:
+    - Clothes
+    - Barbarian Gear
+    - Wasteland
+- name: "'Take Back the Sea' Side Quest"
+  difficulty: 10
+  types:
+    - Side Quest
+    - Faron
+- name: "'Hunt for the Giant Horse' Side Quest"
+  difficulty: 10
+  types:
+    - Side Quest
+    - Lake
+    - Horse
+    - Stamina
+- name: 3 Faron Shrines
+  difficulty: 10
+  types:
+    - Shrine
+    - Faron
+- name: 3 Wasteland Shrines
+  difficulty: 10
+  types:
+    - Shrine
+    - Wasteland
+- name: A Modest Test of Strength Shrine
+  difficulty: 10
+  types:
+    - Shrine
+    - Guardian
+- name: "'Secret of the Cedars' Shrine Quest"
+  difficulty: 10
+  types:
+    - Shrine
+    - Shrine Quest
+    - Hateno
+- name: "'The Desert Labyrinth' Shrine Quest"
+  difficulty: 10
+  types:
+    - Shrine
+    - Shrine Quest
+    - Wastelands
+    - Barbarian Gear
+- name: "'The Eye of the Sandstorm' Shrine Quest"
+  difficulty: 10
+  types:
+    - Shrine
+    - Shrine Quest
+    - Wastelands
+- name: "'Into the Vortex' Shrine Quest"
+  difficulty: 10
+  types:
+    - Shrine
+    - Shrine Quest
+    - Akkala
+- name: "'The Skull's Eye' Shrine Quest"
+  difficulty: 10
+  types:
+    - Shrine
+    - Shrine Quest
+    - Akkala
+- name: Any Guardian Shield
+  difficulty: 10
+  types:
+    - Equipment
+    - Guardian
+- name: Cream of Mushroom Soup
+  difficulty: 10
+  types:
+    - Cooking
+- name: Play the Bowling Minigame
+  difficulty: 10
+  types:
+    - Minigame
+    - Hebra
+    - Cold Resistance
+- name: 20 Koroks
+  difficulty: 11
+  types:
+    - Korok
+- name: Pay 2 Great Fairies
+  difficulty: 11
+  types:
+    - Rupee
+    - Great Fairy
+- name: Soldier's Armor ★
+  difficulty: 11
+  types:
+    - Clothes
+    - Soldier Gear
+    - Rupee
+    - Great Fairy
+- name: Desert Voe Headband
+  difficulty: 11
+  types:
+    - Clothes
+    - Desert Gear
+    - Wasteland
+    - Rupee
+- name: Desert Voe Trousers
+  difficulty: 11
+  types:
+    - Clothes
+    - Desert Gear
+    - Wasteland
+    - Rupee
+- name: Rubber Helm ★
+  difficulty: 11
+  types:
+    - Clothes
+    - Rubber Gear
+    - Faron
+    - Great Fairy
+- name: Stealth Mask ★
+  difficulty: 11
+  types:
+    - Clothes
+    - Stealth Gear
+    - Rupee
+    - Great Fairy
+- name: Stealth Chest Guard ★
+  difficulty: 11
+  types:
+    - Clothes
+    - Stealth Gear
+    - Rupee
+    - Great Fairy
+- name: Stealth Tights ★
+  difficulty: 11
+  types:
+    - Clothes
+    - Stealth Gear
+    - Rupee
+    - Great Fairy
+- name: Full Stealth Set
+  difficulty: 11
+  types:
+    - Clothes
+    - Stealth Gear
+    - Rupee
+    - Dueling Peaks
+- name: Barbarian Helm
+  difficulty: 11
+  types:
+    - Clothes
+    - Barbarian Gear
+    - Akkala
+- name: "'A Gift for My Beloved' Side Quest"
+  difficulty: 11
+  types:
+    - Side Quest
+    - Hateno
+- name: 3 Hateno Shrines
+  difficulty: 11
+  types:
+    - Shrine
+    - Hateno
+- name: 3 Tabantha Shrines
+  difficulty: 11
+  types:
+    - Shrine
+    - Tabantha
+- name: 3 Woodland Shrines
+  difficulty: 11
+  types:
+    - Shrine
+    - Woodland
+- name: 3 Akkala Shrines
+  difficulty: 11
+  types:
+    - Shrine
+    - Akkala
+- name: "'The Silent Swordswomen' Shrine Quest"
+  difficulty: 11
+  types:
+    - Shrine
+    - Shrine Quest
+    - Wastelands
+- name: "'Secret of the Snowy Peaks' Shrine Quest"
+  difficulty: 11
+  types:
+    - Shrine
+    - Shrine Quest
+    - Wastelands
+    - Cold Resistance
+- name: Forgotten Temple Shrine
+  difficulty: 11
+  types:
+    - Shrine
+    - Shrine Quest
+    - Woodland
+- name: "'Shrouded Shrine' Shrine Quest"
+  difficulty: 11
+  types:
+    - Shrine
+    - Shrine Quest
+    - Woodland
+- name: "'The Gut Check Challenge' Shrine Quest"
+  difficulty: 11
+  types:
+    - Shrine
+    - Shrine Quest
+    - Eldin
+- name: Akkala 'Trial of the Labyrinth' Shrine Quest
+  difficulty: 11
+  types:
+    - Shrine
+    - Shrine Quest
+    - Akkala
+    - Barbarian Gear
+- name: Any 'Royal Guard's' Equipment item
+  difficulty: 11
+  types:
+    - Equipment
+- name: Any second tier Rod weapon
+  difficulty: 11
+  types:
+    - Equipment
+    - Wizzrobe
+- name: Any Ancient Battle Axe
+  difficulty: 11
+  types:
+    - Equipment
+    - Guardian
+- name: Monster cake
+  difficulty: 11
+  types:
+    - Cooking
+    - Kilton
+- name: Wildberry Crepe
+  difficulty: 11
+  types:
+    - Cooking
+    - Tabantha
+- name: Kill a Stone Talus (Rare)
+  difficulty: 11
+  types:
+    - Rupee
+    - Miniboss
+    - Talus
+- name: Register the Giant Horse
+  difficulty: 11
+  types:
+    - Horse
+    - Lake
+    - Stamina
+- name: Mount a Bear
+  difficulty: 11
+  types:
+    - Horse
+    - Stamina
+- name: Mount a Stalhorse
+  difficulty: 11
+  types:
+    - Horse
+- name: 2000 Rupees
+  difficulty: 11
+  types:
+    - Rupee
+- name: Read King's Diary
+  difficulty: 11
+  types:
+    - Hyrule Castle
+- name: Take a Selfie with Hestu
+  difficulty: 11
+  types:
+    - Dueling Peaks
+    - Camera
+- name: Sheikah Sensor +
+  difficulty: 11
+  types:
+    - Camera
+    - Rune Upgrade
+    - Hateno
+- name: 12 Dueling Peaks Koroks
+  difficulty: 12
+  types:
+    - Korok
+    - Dueling Peaks
+- name: 9 Eldin Koroks
+  difficulty: 12
+  types:
+    - Korok
+    - Eldin
+- name: 12 Central Tower Koroks
+  difficulty: 12
+  types:
+    - Korok
+    - Central Hyrule
+- name: Champion's Tunic
+  difficulty: 12
+  types:
+    - Clothes
+    - Champion
+    - Camera
+- name: Soldier's Helm ★
+  difficulty: 12
+  types:
+    - Clothes
+    - Soldier Gear
+    - Rupee
+    - Great Fairy
+- name: Soldier's Greaves ★
+  difficulty: 12
+  types:
+    - Clothes
+    - Soldier Gear
+    - Rupee
+    - Great Fairy
+- name: Desert Voe Spaulder
+  difficulty: 12
+  types:
+    - Clothes
+    - Desert Gear
+    - Wasteland
+    - Rupee
+- name: Rubber Armor ★
+  difficulty: 12
+  types:
+    - Clothes
+    - Rubber Gear
+    - Ridgeland
+    - Great Fairy
+- name: Rubber Tights ★
+  difficulty: 12
+  types:
+    - Clothes
+    - Rubber Gear
+    - Faron
+    - Great Fairy
+- name: Zora Greaves
+  difficulty: 12
+  types:
+    - Clothes
+    - Zora Gear
+    - Lanayru
+    - Camera
+- name: Amber Earrings
+  difficulty: 12
+  types:
+    - Clothes
+    - Gems
+    - Rupee
+    - Wasteland
+- name: "'A Royal Recipe' Side Quest"
+  difficulty: 12
+  types:
+    - Side Quest
+    - Central Hyrule
+    - Cooking
+- name: 2 Shrine Quests
+  difficulty: 12
+  types:
+    - Shrine
+    - Shrine Quest
+- name: "'The Seven Heroines' Shrine Quest"
+  difficulty: 12
+  types:
+    - Shrine
+    - Shrine Quest
+    - Wastelands
+- name: "'Cliffside Etchings' Shrine Quest"
+  difficulty: 12
+  types:
+    - Shrine
+    - Shrine Quest
+    - Gerudo
+    - Cold Resistance
+- name: "'Sign of the Shadow' Shrine Quest"
+  difficulty: 12
+  types:
+    - Shrine
+    - Shrine Quest
+    - Gerudo
+- name: Collect 1 Picture Memory
+  difficulty: 12
+  types:
+    - Camera
+- name: Read Zelda's Diary
+  difficulty: 12
+  types:
+    - Hyrule Castle
+- name: Take a Selfie with Kass
+  difficulty: 12
+  types:
+    - Camera
+- name: 3 Lanayru Shrines
+  difficulty: 12
+  types:
+    - Shrine
+    - Lanayru
+- name: "'Sunshroom Sensing' Side Quest"
+  difficulty: 12
+  types:
+    - Side Quest
+    - Hateno
+    - Camera
+- name: "'By Firefly's Light' Side Quest"
+  difficulty: 12
+  types:
+    - Side Quest
+    - Dueling Peaks
+    - Heirloom
+    - Camera
+- name: 12 Hateno Koroks
+  difficulty: 13
+  types:
+    - Korok
+    - Hateno
+- name: 12 Lake Tower Koroks
+  difficulty: 13
+  types:
+    - Korok
+    - Lake
+- name: 12 Ridgeland Koroks
+  difficulty: 13
+  types:
+    - Korok
+    - Ridgeland
+- name: 9 Hebra Koroks
+  difficulty: 13
+  types:
+    - Korok
+    - Hebra
+    - Cold Resistance
+- name: Flamebreaker Helm
+  difficulty: 13
+  types:
+    - Clothes
+    - Flame Gear
+    - Eldin
+    - Rupee
+- name: Zora Armor ★
+  difficulty: 13
+  types:
+    - Clothes
+    - Zora Gear
+    - Great Fairy
+    - Lizalfos
+- name: Barbarian Leg Wraps
+  difficulty: 13
+  types:
+    - Clothes
+    - Barbarian Gear
+    - Hebra
+- name: 3 Hebra Shrines
+  difficulty: 13
+  types:
+    - Shrine
+    - Hebra
+    - Cold Resistance
+- name: 3 Eldin Shrines
+  difficulty: 13
+  types:
+    - Shrine
+    - Eldin
+- name: "'The Serpent's Jaws' Shrine Quest"
+  difficulty: 13
+  types:
+    - Shrine
+    - Shrine Quest
+    - Lake
+    - Dragon
+- name: "'Test of Will' Shrine Quest"
+  difficulty: 13
+  types:
+    - Shrine
+    - Shrine Quest
+    - Gerudo
+- name: Kill a Frost Talus
+  difficulty: 13
+  types:
+    - Rupee
+    - Gems
+    - Miniboss
+    - Talus
+    - Cold Resistance
+- name: Kill a Guardian Turret
+  difficulty: 13
+  types:
+    - Miniboss
+    - Guardian
+    - Hyrule Castle
+- name: 5 Creatures in Compendium
+  difficulty: 13
+  types:
+    - Camera
+    - Compendium
+- name: 5 Monsters in Compendium
+  difficulty: 13
+  types:
+    - Camera
+    - Compendium
+- name: 5 Equipment in Compendium
+  difficulty: 13
+  types:
+    - Camera
+    - Compendium
+- name: Take a Selfie with Sidon
+  difficulty: 13
+  types:
+    - Lanayru
+    - Camera
+- name: Obtain a Material from Dinraal
+  difficulty: 13
+  types:
+    - Dragon
+- name: Finish Basic Shield Surfing Minigame
+  difficulty: 13
+  types:
+    - Minigame
+    - Hebra
+    - Cold Resistance
+- name: Snow Boots
+  difficulty: 13
+  types:
+    - Clothes
+    - Boots
+    - Side Quest
+    - Gerudo
+    - Camera
+- name: Kill a Igneo Talus
+  difficulty: 13
+  types:
+    - Rupee
+    - Gems
+    - Miniboss
+    - Talus
+    - Eldin
+- name: 25 Koroks
+  difficulty: 14
+  types:
+    - Korok
+- name: 12 Faron Koroks
+  difficulty: 14
+  types:
+    - Korok
+    - Faron
+- name: 9 Gerudo Koroks
+  difficulty: 14
+  types:
+    - Korok
+    - Gerudo
+- name: 12 Tabantha Koroks
+  difficulty: 14
+  types:
+    - Korok
+    - Tabantha
+- name: 12 Woodland Koroks
+  difficulty: 14
+  types:
+    - Korok
+    - Woodland
+- name: 12 Akkala Koroks
+  difficulty: 14
+  types:
+    - Korok
+    - Akkala
+- name: 12 Lanayru Koroks
+  difficulty: 14
+  types:
+    - Korok. Lanayru
+- name: Pay Horse God Malanya
+  difficulty: 14
+  types:
+    - Lake
+    - Rupee
+- name: "'Tools of the Trade' Side Quest"
+  difficulty: 14
+  types:
+    - Side Quest
+    - Wasteland
+    - Gems
+- name: Zora Helm ★
+  difficulty: 14
+  types:
+    - Clothes
+    - Zora Gear
+    - Great Fairy
+    - Lizalfos
+- name: Radiant Mask
+  difficulty: 14
+  types:
+    - Clothes
+    - Radiant Gear
+    - Rupee
+    - Gems
+    - Wasteland
+- name: Radiant Shirt
+  difficulty: 14
+  types:
+    - Clothes
+    - Radiant Gear
+    - Rupee
+    - Gems
+    - Wasteland
+- name: Radiant Tights
+  difficulty: 14
+  types:
+    - Clothes
+    - Radiant Gear
+    - Rupee
+    - Gems
+    - Wasteland
+- name: Topaz Earrings
+  difficulty: 14
+  types:
+    - Clothes
+    - Gems
+    - Rupee
+    - Wasteland
+- name: "'Curry for What Ails You' Side Quest"
+  difficulty: 14
+  types:
+    - Side Quest
+    - Tabantha
+    - Eldin
+- name: 10 Shrines
+  difficulty: 14
+  types:
+    - Shrine
+- name: 3 Gerudo Shrines
+  difficulty: 14
+  types:
+    - Shrine
+    - Gerudo
+    - Cold Resistance
+- name: "'Fragmented Monument' Shrine Quest"
+  difficulty: 14
+  types:
+    - Shrine
+    - Shrine Quest
+    - Faron
+    - Camera
+- name: Collect 2 Picture Memories
+  difficulty: 14
+  types:
+    - Camera
+- name: Kill a Black Hinox
+  difficulty: 14
+  types:
+    - Miniboss
+    - Hinox
+- name: Kill a Stalnox
+  difficulty: 14
+  types:
+    - Miniboss
+    - Hinox
+- name: Kill a Guardian Skywatcher
+  difficulty: 14
+  types:
+    - Miniboss
+    - Guardian
+- name: 3 Stamina Vessels
+  difficulty: 14
+  types:
+    - Shrine
+    - Stamina
+- name: Obtain a Material from Naydra
+  difficulty: 14
+  types:
+    - Hateno
+    - Cold Resistance
+    - Dragon
+- name: Remote Bomb +
+  difficulty: 14
+  types:
+    - Camera
+    - Rune Upgrade
+    - Hateno
+- name: Activate 4 Towers
+  difficulty: 14
+  types:
+    - Tower
+- name: 11 Side Quests
+  difficulty: 14
+  types:
+    - Side Quest
+- name: 12 Wasteland Koroks
+  difficulty: 15
+  types:
+    - Korok
+    - Wasteland
+- name: Snowquill Tunic ★
+  difficulty: 15
+  types:
+    - Clothes
+    - Snow Gear
+    - Cold Resistance
+    - Rupee
+    - Great Fairy
+- name: Snowquill Trousers ★
+  difficulty: 15
+  types:
+    - Clothes
+    - Snow Gear
+    - Cold Resistance
+    - Rupee
+    - Great Fairy
+- name: Full Snowquill Set
+  difficulty: 15
+  types:
+    - Clothes
+    - Snow Gear
+    - Cold Resistance
+    - Rupee
+    - Tabantha
+- name: Flamebreaker Boots ★
+  difficulty: 15
+  types:
+    - Clothes
+    - Flame Gear
+    - Eldin
+    - Rupee
+    - Great Fairy
+- name: Climbing Boots ★
+  difficulty: 15
+  types:
+    - Clothes
+    - Climbing Gear
+    - Great Fairy
+- name: Sapphire Circlet
+  difficulty: 15
+  types:
+    - Clothes
+    - Gems
+    - Rupee
+    - Wasteland
+- name: Ruby Circlet
+  difficulty: 15
+  types:
+    - Clothes
+    - Gems
+    - Rupee
+    - Wasteland
+- name: Bokoblin Mask
+  difficulty: 15
+  types:
+    - Clothes
+    - Kilton
+- name: "'Death Mountain's Secret' Side Quest"
+  difficulty: 15
+  types:
+    - Side Quest
+    - Eldin
+- name: "'Lynel Safari' Side Quest"
+  difficulty: 15
+  types:
+    - Side Quest
+    - Lanayru
+    - Camera
+    - Zora Gear
+- name: "'The Royal Guard's Gear' Side Quest"
+  difficulty: 15
+  types:
+    - Side Quest
+    - Hyrule Castle
+- name: "'Stranded on Eventide' Shrine Quest"
+  difficulty: 15
+  types:
+    - Shrine
+    - Shrine Quest
+    - Faron
+- name: "'Three Giant Brothers' Shrine Quest"
+  difficulty: 15
+  types:
+    - Shrine
+    - Shrine Quest
+    - Faron
+    - Hinox
+- name: "'The Bird in the Mountains' Shrine Quest"
+  difficulty: 15
+  types:
+    - Shrine
+    - Shrine Quest
+    - Hebra
+    - Cold Resistance
+- name: Hebra Labyrinth 'Trial on the Cliff' Shrine Quest
+  difficulty: 15
+  types:
+    - Shrine
+    - Shrine Quest
+    - Hebra
+    - Cold Resistance
+    - Barbarian Gear
+- name: Windcleaver
+  difficulty: 15
+  types:
+    - Equipment
+    - Wasteland
+- name: Kill a Lynel
+  difficulty: 15
+  types:
+    - Miniboss
+    - Lynel
+- name: Kill a Molduga
+  difficulty: 15
+  types:
+    - Miniboss
+    - Molduga
+    - Wasteland
+- name: 6 Heart Containers
+  difficulty: 15
+  types:
+    - Shrine
+    - Heart
+- name: Take a Selfie with Riju
+  difficulty: 15
+  types:
+    - Wasteland
+    - Camera
+- name: Take a Selfie while on fire
+  difficulty: 15
+  types:
+    - Eldin
+    - Camera
+- name: Stasis +
+  difficulty: 15
+  types:
+    - Camera
+    - Rune Upgrade
+    - Hateno
+- name: 10 Equipment in Compendium
+  difficulty: 15
+  types:
+    - Camera
+    - Compendium
+- name: 15 Dueling Peaks Koroks
+  difficulty: 16
+  types:
+    - Korok
+    - Dueling Peaks
+- name: 15 Central Tower Koroks
+  difficulty: 16
+  types:
+    - Korok
+    - Central Hyrule
+- name: Champion's Tunic ★
+  difficulty: 16
+  types:
+    - Clothes
+    - Champion
+    - Camera
+    - Great Fairy
+- name: Snowquill Headdress ★
+  difficulty: 16
+  types:
+    - Clothes
+    - Snow Gear
+    - Cold Resistance
+    - Rupee
+    - Great Fairy
+- name: Full Rubber Set
+  difficulty: 16
+  types:
+    - Clothes
+    - Rubber Gear
+    - Faron
+    - Ridgeland
+- name: Flamebreaker Armor ★
+  difficulty: 16
+  types:
+    - Clothes
+    - Flame Gear
+    - Eldin
+    - Rupee
+    - Great Fairy
+- name: Opal Earrings
+  difficulty: 16
+  types:
+    - Clothes
+    - Gems
+    - Rupee
+    - Wasteland
+- name: "'Medicinal Molduga' Side Quest"
+  difficulty: 16
+  types:
+    - Side Quest
+    - Wasteland
+    - Molduga
+- name: "'The Road to Respect' Side Quest"
+  difficulty: 16
+  types:
+    - Side Quest
+    - Eldin
+    - Talus
+- name: "'Little Sister's Big Request' Side Quest"
+  difficulty: 16
+  types:
+    - Side Quest
+    - Akkala
+- name: "'Legendary Rabbit Trial' Side Quest"
+  difficulty: 16
+  types:
+    - Side Quest
+    - Wasteland
+    - Camera
+- name: 12 Side Quests
+  difficulty: 16
+  types:
+    - Side Quest
+- name: 10 Creatures in Compendium
+  difficulty: 16
+  types:
+    - Camera
+    - Compendium
+- name: 10 Monsters in Compendium
+  difficulty: 16
+  types:
+    - Camera
+    - Compendium
+- name: 15 Hateno Koroks
+  difficulty: 17
+  types:
+    - Korok
+    - Hateno
+- name: 15 Lake Tower Koroks
+  difficulty: 17
+  types:
+    - Korok
+    - Lake
+- name: 12 Gerudo Koroks
+  difficulty: 17
+  types:
+    - Korok
+    - Gerudo
+- name: 15 Ridgeland Koroks
+  difficulty: 17
+  types:
+    - Korok
+    - Ridgeland
+- name: 12 Hebra Koroks
+  difficulty: 17
+  types:
+    - Korok
+    - Hebra
+    - Cold Resistance
+- name: 12 Eldin Koroks
+  difficulty: 17
+  types:
+    - Korok
+    - Eldin
+- name: Desert Voe Headband ★
+  difficulty: 17
+  types:
+    - Clothes
+    - Desert Gear
+    - Wasteland
+    - Rupee
+    - Great Fairy
+- name: Desert Voe Spaulder ★
+  difficulty: 17
+  types:
+    - Clothes
+    - Desert Gear
+    - Wasteland
+    - Rupee
+    - Great Fairy
+- name: Desert Voe Trousers ★
+  difficulty: 17
+  types:
+    - Clothes
+    - Desert Gear
+    - Wasteland
+    - Rupee
+    - Great Fairy
+- name: Sand Boots
+  difficulty: 17
+  types:
+    - Clothes
+    - Boots
+    - Side Quest
+    - Gerudo
+- name: "'The Eighth Heroine' Side Quest"
+  difficulty: 17
+  types:
+    - Side Quest
+    - Wasteland
+    - Gerudo
+    - Boots
+    - Cold Resistance
+    - Camera
+- name: 11 Shrines
+  difficulty: 17
+  types:
+    - Shrine
+- name: 5 Shrine Quests
+  difficulty: 17
+  types:
+    - Shrine
+    - Shrine Quest
+- name: "'Guardian Slideshow' Shrine Quest"
+  difficulty: 17
+  types:
+    - Shrine
+    - Shrine Quest
+    - Lake
+    - Camera
+    - Guardian
+- name: "'The Spring of Power' Shrine Quest"
+  difficulty: 17
+  types:
+    - Shrine
+    - Shrine Quest
+    - Akkala
+    - Dragon
+- name: Any 'Lynel' Equipment item
+  difficulty: 17
+  types:
+    - Equipment
+    - Lynel
+- name: 1 Fire, 1 Ice, and 1 Electric weapons
+  difficulty: 17
+  types:
+    - Equipment
+- name: 20 Targets in Flight Range Minigame
+  difficulty: 17
+  types:
+    - Minigame
+    - Tabantha
+    - Cold Resistance
+- name: Activate 5 Towers
+  difficulty: 17
+  types:
+    - Tower
+- name: 15 Equipment in Compendium
+  difficulty: 17
+  types:
+    - Camera
+    - Compendium
+- name: 15 Creatures in Compendium
+  difficulty: 18
+  types:
+    - Camera
+    - Compendium
+- name: 15 Monsters in Compendium
+  difficulty: 18
+  types:
+    - Camera
+    - Compendium
+- name: 30 Koroks
+  difficulty: 18
+  types:
+    - Korok
+- name: 15 Faron Koroks
+  difficulty: 18
+  types:
+    - Korok
+    - Faron
+- name: 15 Akkala Koroks
+  difficulty: 18
+  types:
+    - Korok
+    - Akkala
+- name: 15 Lanayru Koroks
+  difficulty: 18
+  types:
+    - Korok. Lanayru
+- name: Full Desert Voe Set
+  difficulty: 18
+  types:
+    - Clothes
+    - Desert Gear
+    - Wasteland
+    - Rupee
+- name: Flamebreaker Helm ★
+  difficulty: 18
+  types:
+    - Clothes
+    - Flame Gear
+    - Eldin
+    - Rupee
+    - Great Fairy
+- name: Zora Greaves ★
+  difficulty: 18
+  types:
+    - Clothes
+    - Zora Gear
+    - Great Fairy
+    - Lizalfos
+    - Camera
+- name: Radiant Mask ★
+  difficulty: 18
+  types:
+    - Clothes
+    - Radiant Gear
+    - Rupee
+    - Gems
+    - Great Fairy
+- name: Snow Boots ★
+  difficulty: 18
+  types:
+    - Clothes
+    - Boots
+    - Side Quest
+    - Great Fairy
+    - Camera
+- name: "'Slated for Upgrades' Side Quest"
+  difficulty: 18
+  types:
+    - Side Quest
+    - Hateno
+    - Camera
+- name: "'A Shady Customer' Side Quest"
+  difficulty: 18
+  types:
+    - Side Quest
+    - Akkala
+    - Kilton
+    - Camera
+- name: 12 Shrines
+  difficulty: 18
+  types:
+    - Shrine
+- name: "'The Spring of Wisdom' Shrine Quest"
+  difficulty: 18
+  types:
+    - Shrine
+    - Shrine Quest
+    - Hateno
+    - Cold Resistance
+    - Dragon
+- name: Collect 3 Picture Memories
+  difficulty: 18
+  types:
+    - Camera
+- name: Hylian Shield
+  difficulty: 18
+  types:
+    - Miniboss
+    - Hinox
+    - Hyrule Castle
+- name: Mount the Lord of the Mountain
+  difficulty: 18
+  types:
+    - Horse
+    - Ridgeland
+    - Stamina
+- name: Buy a House
+  difficulty: 18
+  types:
+    - Hateno
+    - Rupee
+- name: A Major Test of Strength Shrine
+  difficulty: 18
+  types:
+    - Shrine
+    - Guardian
+- name: 15 Wasteland Koroks
+  difficulty: 19
+  types:
+    - Korok
+    - Wasteland
+- name: 15 Tabantha Koroks
+  difficulty: 19
+  types:
+    - Korok
+    - Tabantha
+- name: 15 Woodland Koroks
+  difficulty: 19
+  types:
+    - Korok
+    - Woodland
+- name: Radiant Shirt ★
+  difficulty: 19
+  types:
+    - Clothes
+    - Radiant Gear
+    - Rupee
+    - Gems
+    - Great Fairy
+- name: Radiant Tights ★
+  difficulty: 19
+  types:
+    - Clothes
+    - Radiant Gear
+    - Rupee
+    - Gems
+    - Great Fairy
+- name: Amber Earrings ★
+  difficulty: 19
+  types:
+    - Clothes
+    - Gems
+    - Rupee
+    - Great Fairy
+- name: "'Stalhorse: Pictured!' Side Quest"
+  difficulty: 19
+  types:
+    - Side Quest
+    - Hebra
+    - Camera
+- name: "'The Stolen Heirloom' Shrine Quest"
+  difficulty: 19
+  types:
+    - Shrine
+    - Shrine Quest
+    - Dueling Peaks
+    - Heirloom
+    - Camera
+- name: "'Brother's Roast' Shrine Quest"
+  difficulty: 19
+  types:
+    - Shrine
+    - Shrine Quest
+    - Eldin
+- name: 1 Divine Beast Main Quest
+  difficulty: 19
+  types:
+    - Divine Beast
+- name: "'Divine Beast Vah Medoh' Main Quest"
+  difficulty: 19
+  types:
+    - Divine Beast
+    - Tabantha
+    - Cold Resistance
+- name: Revali's Gale
+  difficulty: 19
+  types:
+    - Divine Beast
+    - Tabantha
+    - Cold Resistance
+- name: Kill Coliseum Lynel
+  difficulty: 19
+  types:
+    - Miniboss
+    - Lynel
+    - Central Hyrule
+- name: Activate 6 Towers
+  difficulty: 19
+  types:
+    - Tower
+- name: 13 Side Quests
+  difficulty: 19
+  types:
+    - Side Quest
+- name: Climbing Gear
+  difficulty: 19
+  types:
+    - Clothes
+    - Climbing Gear
+    - Hateno
+- name: 15 Gerudo Koroks
+  difficulty: 20
+  types:
+    - Korok
+    - Gerudo
+- name: 15 Hebra Koroks
+  difficulty: 20
+  types:
+    - Korok
+    - Hebra
+    - Cold Resistance
+- name: 15 Eldin Koroks
+  difficulty: 20
+  types:
+    - Korok
+    - Eldin
+- name: Full Zora Set
+  difficulty: 20
+  types:
+    - Clothes
+    - Zora Gear
+    - Lanayru
+    - Camera
+- name: Barbarian Helm ★
+  difficulty: 20
+  types:
+    - Clothes
+    - Barbarian Gear
+    - Great Fairy
+    - Lynel
+- name: Barbarian Armor ★
+  difficulty: 20
+  types:
+    - Clothes
+    - Barbarian Gear
+    - Great Fairy
+    - Lynel
+- name: Topaz Earrings ★
+  difficulty: 20
+  types:
+    - Clothes
+    - Gems
+    - Rupee
+    - Great Fairy
+- name: Diamond Circlet
+  difficulty: 20
+  types:
+    - Clothes
+    - Gems
+    - Rupee
+    - Wasteland
+- name: "'The Forgotten Sword' Side Quest"
+  difficulty: 20
+  types:
+    - Side Quest
+    - Wasteland
+    - Gerudo
+    - Boots
+    - Cold Resistance
+    - Camera
+- name: "'Find Kheel' Side Quest"
+  difficulty: 20
+  types:
+    - Side Quest
+    - Tabantha
+- name: "'The Jewel Trade' Side Quest"
+  difficulty: 20
+  types:
+    - Side Quest
+    - Eldin
+    - Gems
+- name: "'Robbie's Research' Side Quest"
+  difficulty: 20
+  types:
+    - Side Quest
+    - Akkala
+    - Camera
+- name: 6 Shrine Quests
+  difficulty: 20
+  types:
+    - Shrine
+    - Shrine Quest
+- name: "'Divine Beast Vah Ruta' Main Quest"
+  difficulty: 20
+  types:
+    - Divine Beast
+    - Lanayru
+- name: Mipha's Grace
+  difficulty: 20
+  types:
+    - Divine Beast
+    - Lanayru
+- name: Collect 4 Picture Memories
+  difficulty: 20
+  types:
+    - Camera
+- name: 4 Stamina Vessels
+  difficulty: 20
+  types:
+    - Shrine
+    - Stamina
+- name: 20 Equipment in Compendium
+  difficulty: 20
+  types:
+    - Camera
+    - Compendium
+- name: 20 Creatures in Compendium
+  difficulty: 21
+  types:
+    - Camera
+    - Compendium
+- name: 20 Monsters in Compendium
+  difficulty: 21
+  types:
+    - Camera
+    - Compendium
+- name: 35 Koroks
+  difficulty: 21
+  types:
+    - Korok
+- name: Pay 3 Great Fairies
+  difficulty: 21
+  types:
+    - Rupee
+    - Great Fairy
+- name: Full Flamebreaker Set
+  difficulty: 21
+  types:
+    - Clothes
+    - Flame Gear
+    - Eldin
+    - Rupee
+- name: Barbarian Leg Wraps ★
+  difficulty: 21
+  types:
+    - Clothes
+    - Barbarian Gear
+    - Great Fairy
+    - Lynel
+- name: Full Radiant Set
+  difficulty: 21
+  types:
+    - Clothes
+    - Radiant Gear
+    - Rupee
+    - Gems
+    - Wasteland
+- name: Opal Earrings ★
+  difficulty: 21
+  types:
+    - Clothes
+    - Gems
+    - Rupee
+    - Great Fairy
+- name: Sapphire Circlet ★
+  difficulty: 21
+  types:
+    - Clothes
+    - Gems
+    - Rupee
+    - Great Fairy
+- name: Ruby Circlet ★
+  difficulty: 21
+  types:
+    - Clothes
+    - Gems
+    - Rupee
+    - Great Fairy
+- name: 13 Shrines
+  difficulty: 21
+  types:
+    - Shrine
+- name: 7 Shrine Quests
+  difficulty: 21
+  types:
+    - Shrine
+    - Shrine Quest
+- name: "'The Perfect Drink' Shrine Quest"
+  difficulty: 21
+  types:
+    - Shrine
+    - Shrine Quest
+    - Wastelands
+- name: "'Recital at Warbler's Nest' Shrine Quest"
+  difficulty: 21
+  types:
+    - Shrine
+    - Shrine Quest
+    - Tabantha
+- name: "'The Ancient Rito Song' Shrine Quest"
+  difficulty: 21
+  types:
+    - Shrine
+    - Shrine Quest
+    - Tabantha
+- name: Collect 5 Picture Memories
+  difficulty: 21
+  types:
+    - Camera
+- name: Spring-Loaded Hammer
+  difficulty: 21
+  types:
+    - Equipment
+    - Kilton
+- name: 7 Heart Containers
+  difficulty: 21
+  types:
+    - Shrine
+    - Heart
+- name: Upgrade All Runes
+  difficulty: 21
+  types:
+    - Camera
+    - Rune Upgrade
+    - Hateno
+- name: "'The Ceremonial Song' Shrine Quest"
+  difficulty: 21
+  types:
+    - Shrine
+    - Shrine Quest
+    - Lanayru
+- name: "'Riddles of Hyrule' Side Quest"
+  difficulty: 22
+  types:
+    - Side Quest
+    - Woodland
+    - Lynel
+- name: "'Frog Catching' Side Quest"
+  difficulty: 22
+  types:
+    - Side Quest
+    - Lanayru
+- name: "'Luminous Stone Gathering' Side Quest"
+  difficulty: 22
+  types:
+    - Side Quest
+    - Lanayru
+    - Gems
+- name: "'A Wife Washed Away' Side Quest"
+  difficulty: 22
+  types:
+    - Side Quest
+    - Lanayru
+- name: 14 Shrines
+  difficulty: 22
+  types:
+    - Shrine
+- name: 8 Shrine Quests
+  difficulty: 22
+  types:
+    - Shrine
+    - Shrine Quest
+- name: Activate 7 Towers
+  difficulty: 22
+  types:
+    - Tower
+- name: 14 Side Quests
+  difficulty: 22
+  types:
+    - Side Quest
+- name: 40 Koroks
+  difficulty: 23
+  types:
+    - Korok
+- name: "'Face the Frost Talus' Side Quest"
+  difficulty: 23
+  types:
+    - Side Quest
+    - Tabantha
+    - Hebra
+    - Cold Resistance
+- name: "'The Giant of Ralis Pond' Side Quest"
+  difficulty: 23
+  types:
+    - Side Quest
+    - Lanayru
+    - Hinox
+- name: 15 Shrines
+  difficulty: 23
+  types:
+    - Shrine
+- name: "'Divine Beast Vah Rudania' Main Quest"
+  difficulty: 23
+  types:
+    - Divine Beast
+    - Eldin
+- name: Daruk's Protection
+  difficulty: 23
+  types:
+    - Divine Beast
+    - Eldin
+- name: Collect 6 Picture Memories
+  difficulty: 23
+  types:
+    - Camera
+- name: Remake a Champion's Weapon or Shield
+  difficulty: 23
+  types:
+    - Equipment
+    - Divine Beast
+    - Gems
+- name: Climbing Gear ★
+  difficulty: 23
+  types:
+    - Clothes
+    - Climbing Gear
+    - Great Fairy
+- name: Activate 8 Towers
+  difficulty: 23
+  types:
+    - Tower
+- name: 45 Koroks
+  difficulty: 24
+  types:
+    - Korok
+- name: "'Leviathan Bones' Side Quest"
+  difficulty: 24
+  types:
+    - Side Quest
+    - Camera
+- name: 16 Shrines
+  difficulty: 24
+  types:
+    - Shrine
+- name: "'Divine Beast Vah Naboris' Main Quest"
+  difficulty: 24
+  types:
+    - Divine Beast
+    - Wasteland
+- name: Urbosa's Fury
+  difficulty: 24
+  types:
+    - Divine Beast
+    - Wasteland
+- name: Beat Ganon
+  difficulty: 24
+  types:
+    - Hyrule Castle
+- name: Activate 9 Towers
+  difficulty: 24
+  types:
+    - Tower
+- name: Full Climber's Set
+  difficulty: 24
+  types:
+    - Clothes
+    - Climbing Gear
+- name: 50 Koroks
+  difficulty: 25
+  types:
+    - Korok
+- name: "'Zora Stone Monuments' Side Quest"
+  difficulty: 25
+  types:
+    - Side Quest
+    - Lanayru
+- name: 2 Divine Beast Main Quest
+  difficulty: 25
+  types:
+    - Divine Beast
+- name: "'The Search for Barta' Side Quest"
+  difficulty: 25
+  types:
+    - Side Quest
+    - Wasteland
+- name: "'The Mystery Polluter' Side Quest"
+  difficulty: 25
+  types:
+    - Side Quest
+    - Wasteland
+- name: "'The Undefeated Champ' Shrine Quest"
+  difficulty: 25
+  types:
+    - Shrine
+    - Shrine Quest
+    - Wastelands
+- name: Activate 10 Towers
+  difficulty: 25
+  types:
+    - Tower
+- name: 15 Side Quests
+  difficulty: 25
+  types:
+    - Side Quest
+- name: Full Barbarian Set
+  difficulty: 25
+  types:
+    - Clothes
+    - Barbarian Gear

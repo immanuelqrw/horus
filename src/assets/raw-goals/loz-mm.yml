@@ -1,0 +1,760 @@
+- name: Blast Mask
+  difficulty: 1
+  types:
+    - allnight
+- name: Hit hidden owl in West Clock Town
+  difficulty: 1
+  types:
+    - nothing
+- name: Enter 4th Day
+  difficulty: 1
+  types:
+    - end
+- name: Keaton Quiz HP
+  difficulty: 2
+  types:
+    - delivery
+- name: Blank B Button (No Sword)
+  difficulty: 2
+  types:
+    - sword
+    - epona
+- name: "2 blank C-buttons"
+  difficulty: 2
+  types:
+    - delivery
+- name: Clear all 3 chest icons on Termina Field Map
+  difficulty: 2
+  types:
+    - map
+- name: Rosa Sisters Notebook Ribbon
+  difficulty: 2
+  types:
+    - notebook
+- name: ??? Notebook Ribbon
+  difficulty: 2
+  types:
+    - notebook
+    - deed
+- name: Milk
+  difficulty: 3
+  types:
+    - bottle
+    - ranch
+- name: Blue Potion
+  difficulty: 3
+  types:
+    - bottle
+- name: 20 Magic Beans
+  difficulty: 3
+  types:
+    - slot
+    - ingx24
+- name: Deku Playground Heart Piece
+  difficulty: 3
+  types:
+    - heart
+- name: Chateau Romani
+  difficulty: 3
+  types:
+    - delivery
+    - bottle
+- name: Gibdo Mask
+  difficulty: 3
+  types:
+    - mirror
+- name: Postman's Hat
+  difficulty: 3
+  types:
+    - delivery
+- name: Woodfall Map and Compass
+  difficulty: 4
+  types:
+    - woodfall
+    - mc
+- name: Save sun mask
+  difficulty: 4
+  types:
+    - couple
+- name: 7 masks
+  difficulty: 4
+  types:
+    - mask
+- name: 6 Notebook Ribbons
+  difficulty: 4
+  types:
+    - notebook
+- name: All 5 Termina Grotto HPs
+  difficulty: 4
+  types:
+    - heart
+- name: Woodfall Boss Key
+  difficulty: 4
+  types:
+    - woodfall
+    - bosskey
+- name: Unlock Odolwa's Door
+  difficulty: 5
+  types:
+    - woodfall
+    - bosskey
+- name: Pendant of Memories
+  difficulty: 5
+  types:
+    - couple
+    - slot
+- name: Bunny Hood
+  difficulty: 5
+  types:
+    - ranch
+- name: Epona's Song
+  difficulty: 5
+  types:
+    - song
+    - epona
+    - ranch
+- name: Doggy Racetrack HP
+  difficulty: 5
+  types:
+    - ranch
+- name: Postman Notebook Ribbon
+  difficulty: 5
+  types:
+    - notebook
+    - delivery
+    - couple
+- name: 10 Woodfall Fairies
+  difficulty: 5
+  types:
+    - fairy
+    - woodfall
+- name: Hookshot
+  difficulty: 6
+  types:
+    - hook
+    - fortress
+    - stt
+    - gbt
+- name: 15 Oceanside Skulltula Tokens
+  difficulty: 6
+  types:
+    - spider
+    - wallet
+- name: Oceanside Spider House HP
+  difficulty: 6
+  types:
+    - wallet
+- name: Song of Storms
+  difficulty: 6
+  types:
+    - song
+    - grave
+- name: Kill 2 Iron Knuckles
+  difficulty: 6
+  types:
+    - song
+    - grave
+- name: Razor Sword
+  difficulty: 6
+  types:
+    - sword
+- name: Captain's Hat
+  difficulty: 6
+  types:
+    - grave
+- name: Under 00:35 Epona Archery
+  difficulty: 7
+  types:
+    - song
+    - epona
+    - ranch
+- name: Seahorse
+  difficulty: 7
+  types:
+    - picto
+    - fortress
+    - bottle
+- name: Ikana Castle HP
+  difficulty: 7
+  types:
+    - castle
+- name: Marine Lab Fish HP
+  difficulty: 7
+  types:
+    - heart
+- name: Odolwa's Remains
+  difficulty: 7
+  types:
+    - woodfall
+    - remains
+- name: Clear all 3 chest icons on Zora Cape Map
+  difficulty: 8
+  types:
+    - hook
+    - fortress
+    - map
+- name: Biggest Quiver
+  difficulty: 8
+  types:
+    - woodfall
+- name: Oath to Order
+  difficulty: 8
+  types:
+    - song
+    - remains
+- name: All Area Maps from Tingle
+  difficulty: 8
+  types:
+    - map
+- name: Path to Snowhead HP
+  difficulty: 8
+  types:
+    - heart
+- name: Open 8 Woodfall Temple Chests
+  difficulty: 8
+  types:
+    - woodfall
+- name: Goron Mask
+  difficulty: 8
+  types:
+    - lens
+- name: Stone Mask
+  difficulty: 8
+  types:
+    - lens
+- name: Rock Sirloin above head
+  difficulty: 9
+  types:
+    - lens
+    - end
+- name: Pictograph of dancing Redead
+  difficulty: 9
+  types:
+    - picto
+    - mirror
+- name: 4 Business Scrub HPs
+  difficulty: 9
+  types:
+    - heart
+    - scrub
+    - deed
+- name: Don Gero's Mask
+  difficulty: 9
+  types:
+    - lens
+- name: Mask of Truth
+  difficulty: 9
+  types:
+    - spider
+- name: Pinnacle Rock HP
+  difficulty: 9
+  types:
+    - picto
+    - fortress
+- name: Giant Wallet
+  difficulty: 10
+  types:
+    - wallet
+    - spider
+- name: Bottled Deku Princess
+  difficulty: 10
+  types:
+    - woodfall
+    - remains
+- name: Poe Hut HP
+  difficulty: 10
+  types:
+    - heart
+- name: Both Shooting Gallery HPs
+  difficulty: 10
+  types:
+    - heart
+    - woodfall
+- name: Unbar 5 doors in the Well
+  difficulty: 10
+  types:
+    - mirror
+- name: 500 rupees in wallet
+  difficulty: 10
+  types:
+    - wallet
+    - spider
+- name: Couple's Mask
+  difficulty: 11
+  types:
+    - couple
+- name: Open 2 chests in the Well
+  difficulty: 11
+  types:
+    - mirror
+- name: Circus Leader's Mask
+  difficulty: 11
+  types:
+    - mask
+    - notebook
+- name: Gold Rupee From Ikana Business Scrub
+  difficulty: 11
+  types:
+    - scrub
+    - deed
+- name: Biggest Bomb Bag
+  difficulty: 11
+  types:
+    - scrub
+    - lens
+- name: 6 Hearts (no dupe)
+  difficulty: 11
+  types:
+    - heart
+- name: 1000 rupees in bank
+  difficulty: 11
+  types:
+    - wallet
+- name: Pirates  Fortress HP
+  difficulty: 11
+  types:
+    - fortress
+- name: 10 Notebook ribbons
+  difficulty: 12
+  types:
+    - notebook
+- name: Great Spin
+  difficulty: 12
+  types:
+    - fairy
+    - woodfall
+- name: Lullaby Intro
+  difficulty: 12
+  types:
+    - lens
+    - song
+- name: All top row songs
+  difficulty: 12
+  types:
+    - song
+    - grave
+    - epona
+- name: Garo Mask
+  difficulty: 12
+  types:
+    - ranch
+    - epona
+- name: Open 11 Pirates' Fortress area chests
+  difficulty: 13
+  types:
+    - fortress
+    - hook
+- name: Pictograph of Pamela outside her house
+  difficulty: 13
+  types:
+    - picto
+    - cerpin
+    - grave
+- name: Goron Lullaby
+  difficulty: 13
+  types:
+    - lens
+    - song
+- name: Powder Keg
+  difficulty: 13
+  types:
+    - lens
+- name: Defeat a Garo Ninja
+  difficulty: 13
+  types:
+    - epona
+- name: Romani's Mask
+  difficulty: 13
+  types:
+    - ranch
+- name: "All-Night Mask"
+  difficulty: 14
+  types:
+    - allnight
+    - wallet
+    - spider
+- name: 10 masks
+  difficulty: 14
+  types:
+    - mask
+- name: Romani Notebook Ribbon
+  difficulty: 14
+  types:
+    - notebook
+    - epona
+- name: Big Poe
+  difficulty: 14
+  types:
+    - grave
+- name: 3 real bottles (no dupe)
+  difficulty: 14
+  types:
+    - bottle
+- name: Column of 4 masks on pause
+  difficulty: 14
+  types:
+    - mask
+- name: Grow 8 bean plants
+  difficulty: 14
+  types:
+    - ingx24
+- name: 45 Skulltula Tokens
+  difficulty: 14
+  types:
+    - spider
+    - wallet
+- name: Explode Hole in Ikana Castle Ceiling
+  difficulty: 14
+  types:
+    - lens
+    - castle
+- name: Captain's Hat, Gibdo Mask, and Garo Mask
+  difficulty: 15
+  types:
+    - mask
+    - grave
+    - epona
+- name: Row of 6 masks on pause
+  difficulty: 15
+  types:
+    - mask
+- name: Red, Green, and Blue Potions
+  difficulty: 15
+  types:
+    - bottle
+- name: 1 elemental arrow
+  difficulty: 15
+  types:
+    - elemental
+- name: 12 masks
+  difficulty: 15
+  types:
+    - mask
+- name: 3 bottom row songs
+  difficulty: 15
+  types:
+    - song
+- name: All 3 Photo Hut Area HPs
+  difficulty: 16
+  types:
+    - heart
+    - picto
+    - remains
+    - woodfall
+- name: Diagonal of 4 slots in item inventory
+  difficulty: 16
+  types:
+    - slot
+    - bottle
+- name: Mask of Scents
+  difficulty: 16
+  types:
+    - woodfall
+    - remains
+- name: Magical Mushroom
+  difficulty: 16
+  types:
+    - woodfall
+    - remains
+- name: Snowhead Map and Compass
+  difficulty: 16
+  types:
+    - snowhead
+    - mc
+- name: Fire Arrows
+  difficulty: 16
+  types:
+    - snowhead
+    - elemental
+- name: Snowhead Boss Key
+  difficulty: 16
+  types:
+    - snowhead
+    - bosskey
+- name: 5 HPs in East Clock Town
+  difficulty: 16
+  types:
+    - heart
+- name: 7 Hearts (no dupe)
+  difficulty: 17
+  types:
+    - heart
+- name: Mirror Shield
+  difficulty: 17
+  types:
+    - mirror
+- name: 12 slots in item inventory
+  difficulty: 17
+  types:
+    - slot
+    - bottle
+- name: 3 unused small keys in Snowhead
+  difficulty: 17
+  types:
+    - snowhead
+- name: Unlock Goht's Door
+  difficulty: 17
+  types:
+    - snowhead
+    - bosskey
+- name: 4 Total Unused Small Keys
+  difficulty: 17
+  types:
+    - snowhead
+- name: 4 real bottles (no dupe)
+  difficulty: 18
+  types:
+    - bottle
+- name: 2 Boss Keys
+  difficulty: 18
+  types:
+    - bosskey
+- name: Open 10 chests in Snowhead
+  difficulty: 18
+  types:
+    - snowhead
+- name: Gorman Brothers Notebook ribbon
+  difficulty: 18
+  types:
+    - notebook
+    - epona
+    - ranch
+- name: Hit all 10 owls
+  difficulty: 18
+  types:
+    - hook
+    - stt
+- name: Goht's Remains
+  difficulty: 18
+  types:
+    - snowhead
+    - remains
+- name: Light Arrows
+  difficulty: 19
+  types:
+    - elemental
+    - stt
+- name: 5 STT Fairies
+  difficulty: 19
+  types:
+    - stt
+- name: 20 pictures in Notebook
+  difficulty: 19
+  types:
+    - notebook
+- name: Beaver HP
+  difficulty: 19
+  types:
+    - hook
+    - bottle
+- name: Curiosity Shop Owner Notebook Ribbon
+  difficulty: 19
+  types:
+    - notebook
+    - allnight
+    - spider
+- name: 7 songs
+  difficulty: 19
+  types:
+    - song
+- name: New Wave Bossa Nova
+  difficulty: 19
+  types:
+    - song
+    - fortress
+    - gbt
+- name: 10 unique bottle contents
+  difficulty: 19
+  types:
+    - bottle
+- name: 14 masks
+  difficulty: 20
+  types:
+    - mask
+- name: STT Map and Compass
+  difficulty: 20
+  types:
+    - stt
+    - mc
+- name: Remove all blocks from Snowhead Pillar
+  difficulty: 20
+  types:
+    - lens
+    - snowhead
+- name: GBT Map and Compass
+  difficulty: 20
+  types:
+    - gbt
+    - mc
+- name: 2 boss remains
+  difficulty: 20
+  types:
+    - remains
+- name: Open 5 chests in GBT
+  difficulty: 20
+  types:
+    - gbt
+- name: Clear 3 chest icons on Mountain Village Maps
+  difficulty: 20
+  types:
+    - snowhead
+    - remains
+    - map
+- name: Normal Poe
+  difficulty: 20
+  types:
+    - stt
+    - istt
+- name: Get Wizrobe stray fairy in STT
+  difficulty: 21
+  types:
+    - stt
+    - istt
+- name: 10 Snowhead Fairies
+  difficulty: 21
+  types:
+    - snowhead
+- name: Giant's Mask
+  difficulty: 21
+  types:
+    - stt
+    - istt
+- name: Open chest of Magic Beans
+  difficulty: 21
+  types:
+    - ingx24
+    - istt
+    - stt
+- name: Gyorg's Remains
+  difficulty: 21
+  types:
+    - gbt
+    - remains
+- name: Destroy 15 ice blocks in Snowhead
+  difficulty: 22
+  types:
+    - snowhead
+    - elemental
+- name: Press 3 yellow floor switches in STT
+  difficulty: 22
+  types:
+    - stt
+    - istt
+- name: Change Water Direction in GBT
+  difficulty: 22
+  types:
+    - gbt
+- name: Unlock Gyorg's Door
+  difficulty: 22
+  types:
+    - gbt
+    - bosskey
+- name: Elegy of Emptiness
+  difficulty: 22
+  types:
+    - song
+    - mirror
+    - castle
+- name: Ice Arrows
+  difficulty: 22
+  types:
+    - elemental
+    - gbt
+- name: 20 total stray fairies
+  difficulty: 22
+  types:
+    - fairy
+- name: 10 STT Fairies
+  difficulty: 23
+  types:
+    - stt
+- name: STT Boss Key
+  difficulty: 23
+  types:
+    - stt
+    - istt
+    - bosskey
+- name: Activate Green Water Pump in GBT
+  difficulty: 23
+  types:
+    - gbt
+- name: 10 fairies in GBT
+  difficulty: 23
+  types:
+    - gbt
+- name: 2 elemental arrows
+  difficulty: 23
+  types:
+    - elemental
+- name: 2 unused small keys in Stone Tower
+  difficulty: 23
+  types:
+    - stt
+- name: Double Magic
+  difficulty: 23
+  types:
+    - snowhead
+    - lens
+- name: Unlock Twinmold's Door
+  difficulty: 23
+  types:
+    - stt
+    - istt
+    - bosskey
+- name: 8 hearts (no dupe)
+  difficulty: 24
+  types:
+    - heart
+- name: Twinmold's Remains
+  difficulty: 24
+  types:
+    - stt
+    - istt
+    - remains
+- name: Kill Gekko in GBT
+  difficulty: 24
+  types:
+    - gbt
+    - elemental
+- name: Gold Dust
+  difficulty: 24
+  types:
+    - snowhead
+    - remains
+    - bottle
+- name: 3 Temple Compasses
+  difficulty: 24
+  types:
+    - mc
+- name: 15 Notebook ribbons
+  difficulty: 25
+  types:
+    - notebook
+- name: Melt 3 Ice Blocks in GBT
+  difficulty: 25
+  types:
+    - gbt
+    - elemental
+- name: Gilded Sword
+  difficulty: 25
+  types:
+    - sword
+    - snowhead
+    - remains
+- name: Cremia's reward (hug or 200 rupees)
+  difficulty: 25
+  types:
+    - ranch
+- name: All temple maps
+  difficulty: 25
+  types:
+    - mc
+    - gbt
+- name: 30 total stray fairies
+  difficulty: 25
+  types:
+    - fairy
+- name: 7 fairies in every temple
+  difficulty: 25
+  types:
+    - fairy

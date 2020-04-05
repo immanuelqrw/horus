@@ -1,0 +1,169 @@
+---
+- name: Defeat 6/7 Koopa Kids
+  difficulty: 1
+  types: []
+- name: Open star road from Valley Of Bowser
+  difficulty: 2
+  types:
+    - yoshi1
+- name: All 14 exits in Forest Of Illusion
+  difficulty: 3
+  types: []
+- name: Open Chocolate Island 3 useless exit
+  difficulty: 4
+  types: []
+- name: 6 swimming stages
+  difficulty: 5
+  types: []
+- name: 6/10 ghost house exits
+  difficulty: 6
+  types: []
+- name: 10/18 keyhole exits
+  difficulty: 7
+  types: []
+- name: 7 moons
+  difficulty: 8
+  types:
+    - cape3
+- name: 3/4 Reznors
+  difficulty: 8
+  types: []
+- name: 3 yoshi wing exits
+  difficulty: 9
+  types:
+    - yoshi2
+    - tubular
+- name: 4 star-block 1-ups
+  difficulty: 9
+  types: []
+- name: 8/9 bonus rooms
+  difficulty: 10
+  types: []
+- name: 50 coins in 5 stages
+  difficulty: 11
+  types: []
+- name: 5 yoshi coins on 2 stages (Yoshi's Island)
+  difficulty: 12
+  types: []
+- name: 5 yoshi coins on 2 stages (Donut Plains)
+  difficulty: 12
+  types: []
+- name: 5 yoshi coins on 2 stages (Vanilla Dome)
+  difficulty: 12
+  types: []
+- name: 5 yoshi coins on 2 stages (Twin Bridges)
+  difficulty: 13
+  types: []
+- name: 5 yoshi coins on 2 stages (Forest Of Illusion)
+  difficulty: 13
+  types: []
+- name: 5 yoshi coins on 2 stages (Chocolate Island)
+  difficulty: 14
+  types: []
+- name: 5 yoshi coins on 2 stages (Valley Of Bowser)
+  difficulty: 14
+  types: []
+- name: 5 yoshi coins on 2 stages (Star World)
+  difficulty: 15
+  types: []
+- name: Vanilla Secret 2 - small mario no yoshi
+  difficulty: 16
+  types: []
+- name: Butter Bridge 2 - small mario no yoshi
+  difficulty: 16
+  types: []
+- name: Vanilla Dome 2 normal exit - small mario no star
+  difficulty: 16
+  types: []
+- name: Castle 6 - small mario
+  difficulty: 17
+  types: []
+- name: Vanilla Dome 1 normal exit - no star
+  difficulty: 17
+  types: []
+- name: Forest Of Illusion 3 - pacifist, small mario
+  difficulty: 17
+  types: []
+- name: Chocolate Island 3 normal exit - small mario no yoshi
+  difficulty: 17
+  types: []
+- name: Chocolate Island 2 - visit all 9 rooms
+  difficulty: 17
+  types: []
+- name: Soda Lake - small mario no yoshi
+  difficulty: 18
+  types: []
+- name: Vanilla Secret 1 secret exit - no blue switch, no flying
+  difficulty: 18
+  types:
+    - cape2
+- name: Vanilla Dome 4 - small mario no yoshi
+  difficulty: 18
+  types: []
+- name: Tubular
+  difficulty: 19
+  types:
+    - tubular
+- name: Chocolate Fortress - small mario
+  difficulty: 19
+  types: []
+- name: Castle 7 - small mario
+  difficulty: 19
+  types: []
+- name: Star World 1 - time 286+
+  difficulty: 19
+  types: []
+- name: Cheese Bridge secret exit - no yoshi
+  difficulty: 20
+  types:
+    - cape1
+- name: Forest Secret Area - three 1-ups behind exit gate
+  difficulty: 20
+  types: []
+- name: Valley Of Bowser 3 - small mario no yoshi
+  difficulty: 20
+  types: []
+- name: Valley Of Bowser 4 - small mario no yoshi
+  difficulty: 20
+  types: []
+- name: Perfect matching game (8-up)
+  difficulty: 21
+  types: []
+- name: Sunken Ship - get 1 life from star
+  difficulty: 21
+  types: []
+- name: 99 lives
+  difficulty: 22
+  types: []
+- name: Blue Switch - get 8 silver coins
+  difficulty: 22
+  types: []
+- name: Butter Bridge 1 - get 4 lives from turtles
+  difficulty: 22
+  types: []
+- name: Chocolate Island 2 - get 11 bubble mushrooms
+  difficulty: 22
+  types: []
+- name: NO CAPE
+  difficulty: 23
+  types:
+    - cape1
+    - cape2
+    - cape3
+- name: NO YOSHI
+  difficulty: 23
+  types:
+    - yoshi1
+    - yoshi2
+- name: Green Switch - get 3 lives from turtles
+  difficulty: 24
+  types: []
+- name: Yellow Switch - get 300 coins
+  difficulty: 24
+  types: []
+- name: Red Switch - get 3 lives from turtles
+  difficulty: 25
+  types: []
+- name: Forest Of Illusion 4 - don't get Lakitu 1-up; no flying
+  difficulty: 25
+  types: []

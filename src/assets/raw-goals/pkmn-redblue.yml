@@ -1,0 +1,405 @@
+---
+- name: TM 12 (Water Gun)
+  difficulty: 1
+  types:
+    - watergun
+- name: Town Map
+  difficulty: 1
+  types:
+    - map
+- name: TM 39 (Swift)
+  difficulty: 1
+  types:
+    - swift
+- name: View the Space Shuttle Columbia
+  difficulty: 1
+  types:
+    - space
+- name: Farfetch'd
+  difficulty: 2
+  types:
+    - trades
+- name: Rattata
+  difficulty: 2
+  types:
+    - lol
+- name: Vaporeon
+  difficulty: 2
+  types:
+    - vapor
+- name: TM 40 (Skull Bash)
+  difficulty: 2
+  types:
+    - safari
+- name: Kill or catch both Snorlaxes
+  difficulty: 3
+  types:
+    - snorlax
+- name: TM 19 (Seismic Toss)
+  difficulty: 3
+  types:
+    - seismic
+- name: Kill a Haunter
+  difficulty: 3
+  types:
+    - haunt
+- name: TM 44 (Rest)
+  difficulty: 4
+  types:
+    - rest
+- name: "Any Pokemon with a multi-hit move"
+  difficulty: 4
+  types:
+    - fury
+- name: Good Rod
+  difficulty: 4
+  types:
+    - rod
+- name: 10 pokemon owned
+  difficulty: 4
+  types:
+    - dex
+- name: 4 Badges
+  difficulty: 5
+  types:
+    - Badges
+- name: Clefable
+  difficulty: 5
+  types:
+    - moon
+- name: Defeat all 3 starters
+  difficulty: 5
+  types:
+    - tunnel
+- name: Any pokemon with 4 status moves
+  difficulty: 5
+  types:
+    - moves
+- name: TM 10 (Double Edge)
+  difficulty: 6
+  types:
+    - edge
+- name: Defeat 2 Engineers
+  difficulty: 6
+  types:
+    - engineers
+- name: Pidgeotto
+  difficulty: 6
+  types:
+    - pidge
+- name: Arcanine or Ninetales
+  difficulty: 6
+  types:
+    - fires
+- name: 20 TMs
+  difficulty: 6
+  types:
+    - tm
+- name: Vileplume or Victreebell
+  difficulty: 7
+  types:
+    - leafs
+- name: Beedrill or Butterfree
+  difficulty: 7
+  types:
+    - bug
+- name: Any pokemon with 4 damage dealing special moves
+  difficulty: 7
+  types:
+    - moves
+- name: Teach TM 49 (Tri Attack)
+  difficulty: 8
+  types:
+    - tm
+- name: Defeat Viridian Rival
+  difficulty: 8
+  types:
+    - train
+- name: Raichu
+  difficulty: 8
+  types:
+    - elec
+- name: 3 HMs
+  difficulty: 8
+  types:
+    - hm
+- name: Defeat 3 Scientists
+  difficulty: 8
+  types:
+    - science
+- name: TM42 (Dream Eater)
+  difficulty: 9
+  types:
+    - dream
+- name: Nidoking or Nidoqueen
+  difficulty: 9
+  types:
+    - moon
+- name: 2 PP Ups
+  difficulty: 9
+  types:
+    - pp
+- name: Defeat all 8 trainers on Route 3
+  difficulty: 9
+  types:
+    - train
+- name: Wigglytuff
+  difficulty: 9
+  types:
+    - moon
+- name: Mr. Mime
+  difficulty: 10
+  types:
+    - trades
+- name: Dugtrio
+  difficulty: 10
+  types:
+    - trio
+- name: TM26 (Earthquake)
+  difficulty: 10
+  types:
+    - silph
+- name: Ditto
+  difficulty: 11
+  types:
+    - ditto
+- name: HM5 (Flash)
+  difficulty: 11
+  types:
+    - hm
+- name: Hitmonchan or Hitmonlee
+  difficulty: 11
+  types:
+    - fighting
+- name: Kadabra
+  difficulty: 11
+  types:
+    - abra
+- name: TM 28 (Dig)
+  difficulty: 11
+  types:
+    - tm
+- name: Starmie
+  difficulty: 12
+  types:
+    - waters
+- name: Cloyster
+  difficulty: 12
+  types:
+    - waters
+- name: Defeat 7 Pikachus
+  difficulty: 12
+  types:
+    - pika
+- name: Defeat 4 Beauties
+  difficulty: 12
+  types:
+    - beauty
+- name: Tentacruel
+  difficulty: 13
+  types:
+    - Surf
+- name: "Any pokemon with a 5 PP non-TM move"
+  difficulty: 13
+  types:
+    - rock
+- name: Super Rod
+  difficulty: 13
+  types:
+    - super
+- name: Lapras
+  difficulty: 13
+  types:
+    - Silph
+- name: TM 41 (Softboiled)
+  difficulty: 14
+  types:
+    - soft
+- name: Gyarados
+  difficulty: 14
+  types:
+    - Gyarados
+- name: Defeat 5 Jugglers
+  difficulty: 14
+  types:
+    - balls
+- name: Defeat all 16 trainers on Routes 24 and 25
+  difficulty: 14
+  types:
+    - nugget
+- name: Onix
+  difficulty: 15
+  types:
+    - rock
+- name: Golbat
+  difficulty: 15
+  types:
+    - golbat
+- name: Any Pokemon with Stomp
+  difficulty: 15
+  types:
+    - safari
+- name: 4 different level 30 Pokemon
+  difficulty: 16
+  types:
+    - team
+- name: Kabuto or Omanyte
+  difficulty: 16
+  types:
+    - fossil
+- name: 4 Rare Candies
+  difficulty: 16
+  types:
+    - candy
+- name: TM16 (Payday)
+  difficulty: 16
+  types:
+    - payday
+- name: 6 different Poison type Pokemon
+  difficulty: 16
+  types:
+    - items
+- name: Charmeleon
+  difficulty: 17
+  types:
+    - starter
+- name: Ivysaur
+  difficulty: 17
+  types:
+    - starter
+- name: Tangela
+  difficulty: 17
+  types:
+    - tangela
+- name: Venomoth
+  difficulty: 17
+  types:
+    - venomoth
+- name: 20 pokemon owned
+  difficulty: 18
+  types:
+    - dex
+- name: 5 Badges
+  difficulty: 18
+  types:
+    - badges
+- name: Master Ball
+  difficulty: 18
+  types:
+    - silph
+- name: Squirtle
+  difficulty: 18
+  types:
+    - starter
+- name: Silph Scope
+  difficulty: 18
+  types:
+    - hideout
+- name: Venusaur
+  difficulty: 19
+  types:
+    - starter
+- name: Defeat all 15 trainers in Rock Tunnel
+  difficulty: 19
+  types:
+    - tunnel
+- name: Kill a Parasect
+  difficulty: 19
+  types:
+    - parasect
+- name: Psyduck
+  difficulty: 19
+  types:
+    - Seafoam
+- name: Graveler
+  difficulty: 20
+  types:
+    - rock
+- name: Electrode
+  difficulty: 20
+  types:
+    - elec
+- name: Defeat all 12 trainers in Mt Moon
+  difficulty: 20
+  types:
+    - mt
+- name: Dewgong
+  difficulty: 20
+  types:
+    - seafoam
+- name: TM 31 (Mimic)
+  difficulty: 21
+  types:
+    - mimic
+- name: Charizard
+  difficulty: 21
+  types:
+    - starter
+- name: Arbok or Sandslash
+  difficulty: 21
+  types:
+    - raise
+- name: Magnemite
+  difficulty: 22
+  types:
+    - plant
+- name: $75,000
+  difficulty: 22
+  types:
+    - money
+- name: 6 Badges
+  difficulty: 22
+  types:
+    - badges
+- name: Defeat a Slowbro
+  difficulty: 22
+  types:
+    - Slowbro
+- name: Cubone
+  difficulty: 23
+  types:
+    - cubone
+- name: Aerodactyl
+  difficulty: 23
+  types:
+    - fossil
+- name: Hypno
+  difficulty: 23
+  types:
+    - raise
+- name: Defeat all 17 trainers aboard the SS Anne
+  difficulty: 23
+  types:
+    - anne
+- name: Defeat 3 Burglars
+  difficulty: 23
+  types:
+    - robber
+- name: Magmar or Electabuzz
+  difficulty: 24
+  types:
+    - troll
+- name: Volcanobadge
+  difficulty: 24
+  types:
+    - badges
+- name: Persian or Primeape
+  difficulty: 24
+  types:
+    - raise
+- name: Chansey or Kangaskhan or Tauros
+  difficulty: 25
+  types:
+    - safari
+- name: Any level 50 pokemon
+  difficulty: 25
+  types:
+    - zapdos
+- name: 70 pokemon seen
+  difficulty: 25
+  types:
+    - dex
+- name: 30 Pokemon owned
+  difficulty: 25
+  types:
+    - dex

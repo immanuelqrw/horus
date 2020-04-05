@@ -1,0 +1,285 @@
+---
+- name: "Get a 1-UP by touching top of flagpole or gate"
+  difficulty: 3
+  types:
+    - LIFE
+    - BEAT
+- name: "Beat a level and get 3 1-UPs [Normal +]"
+  difficulty: 5
+  types:
+    - LIFE
+    - BEAT
+- name: Create and Submit a Level
+  difficulty: 2
+  types:
+    - CREATE
+- name: Get 100 Coins in a Level
+  difficulty: 4
+  types:
+    - COIN
+- name: "Beat an Auto-Mario Level"
+  difficulty: 1
+  types:
+    - BEAT
+- name: Beat a level in Night Mode
+  difficulty: 5
+  types:
+    - BEAT
+    - NIGHT
+- name: Sacrifice a Yoshi to achieve a higher jump
+  difficulty: 6
+  types:
+    - YOSHI
+- name: Beat 7 Easy Levels
+  difficulty: 11
+  types:
+    - BEAT
+    - EASY
+- name: "Get a 1-UP by stomping on 8 Goombas in a row"
+  difficulty: 10
+  types:
+    - LIFE
+    - GOOMBA
+- name: "Get 1-UP by using Koopa Shell"
+  difficulty: 7
+  types:
+    - LIFE
+    - SHELL
+- name: Activate an On/Off Switch Timer by using a shell
+  difficulty: 16
+  types:
+    - SHELL
+    - ONOFF
+- name: Beat 10 Single Player Levels
+  difficulty: 13
+  types:
+    - BEAT
+    - SINGLE_PLAYER
+- name: "Beat an Auto-Scrolling Level"
+  difficulty: 14
+  types:
+    - BEAT
+    - AUTOSCROLL
+- name: Beat a Speedrun level
+  difficulty: 18
+  types:
+    - BEAT
+    - SPEEDRUN
+- name: Beat 5 Normal Levels
+  difficulty: 12
+  types:
+    - BEAT
+    - NORMAL
+- name: "Beat a Level without collecting a power-up"
+  difficulty: 6
+  types:
+    - BEAT
+    - NO_DAMAGE
+- name: Beat a level without using a checkpoint
+  difficulty: 9
+  types:
+    - BEAT
+- name: "Steal a power-up from an opponent in Versus"
+  difficulty: 15
+  types:
+    - VERSUS
+- name: "Get a 1-UP by defeating enemies through sliding"
+  difficulty: 13
+  types:
+    - LIFE
+    - HUNT
+- name: Beat a level with a enemy defeat count clear condition
+  difficulty: 14
+  types:
+    - LIFE
+    - CONDITION
+    - HUNT
+- name: Beat a boss with a star
+  difficulty: 9
+  types:
+    - STAR
+    - BOSS
+- name: Kill an opponent in Versus
+  difficulty: 17
+  types:
+    - HUNT
+    - VERSUS
+- name: Win a Versus match without anyone else touching the Flagpole
+  difficulty: 21
+  types:
+    - WIN
+- name: Beat 3 Expert Levels
+  difficulty: 19
+  types:
+    - BEAT
+    - EXPERT
+- name: Steal a Clear Condition in Versus
+  difficulty: 20
+  types:
+    - VERSUS
+    - CONDITION
+- name: Defeat a Bowser using Pow blocks
+  difficulty: 23
+  types:
+    - HUNT
+    - POW
+    - BOSS
+- name: Defeat a Bowser using fireballs
+  difficulty: 24
+  types:
+    - HUNT
+    - BOSS
+- name: Steal a Clear Condition in Versus and then Win
+  difficulty: 24
+  types:
+    - VERSUS
+    - CONDITION
+    - WIN
+- name: Win 2 Versus Matches
+  difficulty: 20
+  types:
+    - WIN
+    - VERSUS
+- name: Defeat a boss by clipping them into On/Off Blocks
+  difficulty: 25
+  types:
+    - BOSS
+    - HUNT
+    - ONOFF
+- name: "Beat a level with a no-jump clear condition"
+  difficulty: 25
+  types:
+    - BEAT
+    - CONDITION
+    - NO_JUMP
+- name: Beat a level with a no touching the ground after leaving clear condition
+  difficulty: 24
+  types:
+    - BEAT
+    - CONDITION
+    - NO_LEAVE_GROUND
+- name: "Beat a level with a no-damage clear condition"
+  difficulty: 18
+  types:
+    - BEAT
+    - CONDITION
+    - NO_DAMAGE
+- name: Win 3 Versus Matches in a row
+  difficulty: 25
+  types:
+    - WIN
+    - VERSUS
+- name: Beat a Super Expert Level
+  difficulty: 23
+  types:
+    - BEAT
+    - SUPER_EXPERT
+- name: "Beat 3 Co-Op Levels"
+  difficulty: 15
+  types:
+    - BEAT
+    - CO_OP
+- name: Get a WR in a Level
+  difficulty: 10
+  types:
+    - BEAT
+    - WORLD_RECORD
+- name: Beat a Multiplayer Level Solo
+  difficulty: 20
+  types:
+    - BEAT
+    - MULTIPLAYER
+- name: Die due to a Kaizo block
+  difficulty: 19
+  types:
+    - DIE
+    - KAIZO
+- name: Do a Shell Jump
+  difficulty: 16
+  types:
+    - KAIZO
+    - SHELL
+- name: "Do a P-Switch Jump"
+  difficulty: 17
+  types:
+    - KAIZO
+    - P_SWITCH
+- name: Do a Spring Drop Jump
+  difficulty: 18
+  types:
+    - KAIZO
+    - SPRING
+- name: "Do a P-Switch Drop Jump"
+  difficulty: 19
+  types:
+    - KAIZO
+    - P_SWITCH
+- name: Do a Pow Block Drop Jump
+  difficulty: 13
+  types:
+    - KAIZO
+    - POW
+- name: Beat a level in Ghost House Theme
+  difficulty: 4
+  types:
+    - BEAT
+    - GHOST_HOUSE
+- name: Beat a level in each Theme
+  difficulty: 14
+  types:
+    - BEAT
+- name: Get 100k Points in a level
+  difficulty: 7
+  types:
+    - POINT
+- name: "Bob-omb excavation"
+  difficulty: 22
+  types:
+    - BOB_OMB
+- name: Hit Boos out of a block
+  difficulty: 13
+  types:
+    - BOO
+- name: Die from Death trap
+  difficulty: 10
+  types:
+    - DIE
+    - TRAP
+- name: Use Dev Door/Item
+  difficulty: 20
+  types:
+    - EXPLORE
+- name: Die to a blooper
+  difficulty: 14
+  types:
+    - DIE
+    - BLOOPER
+- name: Die to a dry bones
+  difficulty: 6
+  types:
+    - DIE
+    - DRY_BONES
+- name: Die to an angry wiggler
+  difficulty: 9
+  types:
+    - DIE
+    - WIGGLER
+- name: Die to fire
+  difficulty: 8
+  types:
+    - DIE
+    - FIRE
+- name: Get crushed
+  difficulty: 3
+  types:
+    - DIE
+    - CRUSH
+- name: Grab 3 red coins
+  difficulty: 12
+  types:
+    - RED_COIN
+- name: Grab the axe in castle
+  difficulty: 4
+  types:
+    - CASTLE
+    - BEAT

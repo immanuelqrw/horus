@@ -1,0 +1,263 @@
+---
+- name: Sleep in a bed
+  difficulty: 1
+  types:
+    - STABLE
+    - TOWN
+- name: Feed a dog
+  difficulty: 1
+  types:
+    - STABLE
+    - TOWN
+    - DOG
+- name: Get a dog to lead you to treasure
+  difficulty: 2
+  types:
+    - STABLE
+    - TOWN
+    - DOG
+- name: Read Paya's diary that mentions Link without teleporting to any shrine in Necluda
+  difficulty: 2
+  types:
+    - KAKARIKO VILLAGE
+- name: Talk to a child Zora
+  difficulty: 3
+  types:
+    - ZORA'S DOMAIN
+- name: Talk to a child Rito
+  difficulty: 3
+  types:
+    - RITO VILLAGE
+- name: Talk to a child Goron
+  difficulty: 4
+  types:
+    - GORON CITY
+- name: Meet a Moblin wearing a Moblin Mask
+  difficulty: 4
+  types:
+    - KILTON
+    - MOBLIN
+    - MOB
+- name: Meet a Bokoblin wearing a Bokoblin Mask
+  difficulty: 5
+  types:
+    - KILTON
+    - BOKOBLIN
+    - MOB
+- name: Meet a Lizalfos wearing a Lizalfos mask
+  difficulty: 5
+  types:
+    - KILTON
+    - LIZALFOS
+    - MOB
+- name: Hit an mob with a Spring-Loaded Hammer and sent it flying
+  difficulty: 6
+  types:
+    - KILTON
+    - BATTLE
+    - MOB
+- name: Find a Ball and Chain Korok
+  difficulty: 6
+  types:
+    - KOROK
+    - MAGNESIS
+- name: Find a Block Puzzle Korok
+  difficulty: 7
+  types:
+    - KOROK
+    - MAGNESIS
+- name: Find a Boulder (Hole) Korok
+  difficulty: 7
+  types:
+    - KOROK
+    - STASIS
+- name: Find a Boulder (Goal) Korok
+  difficulty: 8
+  types:
+    - KOROK
+    - STASIS
+- name: Find a Disappearing Flower Korok
+  difficulty: 8
+  types:
+    - KOROK
+- name: Find a Fruit Tree Korok
+  difficulty: 9
+  types:
+    - KOROK
+- name: Find Hestu's Maracas
+  difficulty: 9
+  types:
+    - KOROK
+    - HESTU
+    - BATTLE
+- name: Find a Trapped in Ice Korok
+  difficulty: 10
+  types:
+    - KOROK
+- name: Find a Lily Circle Korok
+  difficulty: 10
+  types:
+    - KOROK
+- name: Drop a rock on a Korok's head
+  difficulty: 11
+  types:
+    - KOROK
+- name: Find an Offering Korok (outside of Kakariko)
+  difficulty: 11
+  types:
+    - KOROK
+    - FRUIT
+- name: Find a Petroglyph (Rock Circle) Korok
+  difficulty: 12
+  types:
+    - KOROK
+- name: Find a Pinwheel Archery (Balloon/Acorn) Korok
+  difficulty: 12
+  types:
+    - KOROK
+    - BOW
+- name: Find an (Under a) Rock Korok
+  difficulty: 13
+  types:
+    - KOROK
+- name: Meet Hestu in the Korok Forest
+  difficulty: 13
+  types:
+    - KOROK
+    - HESTU
+    - KOROK FOREST
+- name: Find a Rock Throw Korok
+  difficulty: 14
+  types:
+    - KOROK
+    - WATER
+- name: Find a Tree Stump Korok
+  difficulty: 14
+  types:
+    - KOROK
+    - GLIDER
+- name: Find an Acorn Korok
+  difficulty: 15
+  types:
+    - KOROK
+    - BOW
+- name: Distract a Mob with some food
+  difficulty: 15
+  types:
+    - FOOD
+    - MOB
+- name: Find a Moving Sparkle Korok
+  difficulty: 16
+  types:
+    - KOROK
+- name: Scare a cucco into laying an egg
+  difficulty: 16
+  types:
+    - CUCCO
+    - WEAPON
+- name: Get a Moblin to throw a Bokoblin
+  difficulty: 17
+  types:
+    - MOBLIN
+    - BOKOBLIN
+    - MOB
+- name: Meet a Lynel wearing a Lynel Mask
+  difficulty: 17
+  types:
+    - KILTON
+    - LYNEL
+    - MOB
+- name: Find a Fence Hurdle Korok
+  difficulty: 18
+  types:
+    - KOROK
+    - HORSE
+- name: Complete the "Trial of Second Sight" Quest
+  difficulty: 18
+  types:
+    - KOROK
+    - KOROK FOREST
+    - QUEST
+- name: Throw a Boomerang at a Lizalfos
+  difficulty: 19
+  types:
+    - LIZALFOS
+    - BOOMERANG
+    - MOB
+- name: Get a Bokoblin or Moblin to use a Deku Leaf as a weapon
+  difficulty: 19
+  types:
+    - BOKOBLIN
+    - MOBLIN
+    - DEKU LEAF
+    - BATTLE
+- name: Complete the "Test of Wood" Quest
+  difficulty: 20
+  types:
+    - KOROK
+    - KOROK FOREST
+    - QUEST
+- name: Complete the "Lost Pilgrimage" Quest
+  difficulty: 20
+  types:
+    - KOROK
+    - KOROK FOREST
+    - QUEST
+- name: Shoot a Blupee
+  difficulty: 21
+  types:
+    - BLUPEE
+    - BOW
+- name: Sneak into a meeting on Satori Mountain
+  difficulty: 21
+  types:
+    - SATORI MOUNTAIN
+- name: Complete the "A Gift of Nightshade" Quest
+  difficulty: 22
+  types:
+    - LOVER'S POND
+    - FLOWER
+    - QUEST
+- name: Make a Creamy Heart Soup after taking a cooking class from Ashai in Gerudo Town
+  difficulty: 22
+  types:
+    - FOOD
+    - GERUDO TOWN
+- name: Find the 'Booty' Memory
+  difficulty: 23
+  types:
+    - MEMORY
+    - ZELDA
+- name: Find the "Mipha's Touch" Memory
+  difficulty: 23
+  types:
+    - MEMORY
+    - VAH RUTA
+    - ZORA'S DOMAIN
+    - QUEST
+- name: Complete the "A Gift for My Beloved" Quest
+  difficulty: 24
+  types:
+    - QUEST
+    - HATENO VILLAGE
+    - RESTLESS CRICKET
+- name: Defeat a Mob with a Cucco army
+  difficulty: 24
+  types:
+    - MOB
+    - CUCCO
+    - PUZZLE
+- name: Complete the "Recital at Warbler's Nest" Quest
+  difficulty: 25
+  types:
+    - RITO VILLAGE
+    - QUEST
+- name: Attend Hudson's Wedding
+  difficulty: 25
+  types:
+    - TARREY TOWN
+    - QUEST
+    - RITO VILLAGE
+    - GERUDO TOWN
+    - GORON CITY
+    - HATENO VILLAGE

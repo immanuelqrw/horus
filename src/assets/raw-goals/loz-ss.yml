@@ -1,0 +1,681 @@
+---
+- name: Bring Mia to Horwell
+  difficulty: 1
+  types:
+    - Skyloft
+- name: Four Skyloft Chests
+  difficulty: 1
+  types:
+    - Skyloft
+    - Chests
+- name: Glittering Spores
+  difficulty: 1
+  types:
+    - Bottles
+    - Faron
+- name: Revitalizing Potion
+  difficulty: 1
+  types:
+    - Bottles
+    - Potions
+- name: Bottled Water
+  difficulty: 1
+  types:
+    - Bottles
+- name: Practice Sword
+  difficulty: 1
+  types:
+    - Skyloft
+- name: Heart Potion
+  difficulty: 2
+  types:
+    - Potions
+- name: Chandelier Heart Piece
+  difficulty: 2
+  types:
+    - Hearts
+    - Pumpkin
+- name: Complete a ringer skydive
+  difficulty: 2
+  types:
+    - Sky
+- name: Mushroom Spores
+  difficulty: 2
+  types:
+    - Bottles
+    - Faron
+- name: 100 Rupees before Faron
+  difficulty: 2
+  types:
+    - Skyloft
+    - Rupees
+- name: Sailcloth
+  difficulty: 2
+  types:
+    - Sailcloth
+    - Skyloft
+- name: Guardian Potion
+  difficulty: 3
+  types:
+    - Bottles
+    - Potions
+- name: Hot Pumpkin Soup
+  difficulty: 3
+  types:
+    - Bottles
+- name: Cold Pumpkin Soup
+  difficulty: 3
+  types:
+    - Bottles
+- name: Kill three guays in the sky
+  difficulty: 3
+  types:
+    - Sky
+- name: Beedle's Scattered Crystal
+  difficulty: 3
+  types:
+    - Crystals
+- name: 10 Blessed Butterflies
+  difficulty: 3
+  types:
+    - Bugs
+- name: Heart Dowsing Target
+  difficulty: 4
+  types:
+    - Misc
+- name: Floria Waterfall Bird Statue
+  difficulty: 4
+  types:
+    - Faron
+    - Statues
+- name: Both Deep Woods Statues
+  difficulty: 4
+  types:
+    - Faron
+    - Statues
+- name: Finish the Sword Tutorial
+  difficulty: 4
+  types:
+    - Skyloft
+- name: Two Lumpy Pumpkin Scattered Crystals
+  difficulty: 4
+  types:
+    - Crystals
+    - Pumpkin
+- name: Skyview Temple Heart Piece
+  difficulty: 4
+  types:
+    - Skyview
+    - Hearts
+- name: 3 Extra Wallets
+  difficulty: 5
+  types:
+    - Rupees
+- name: 5 Skyloft Mantises
+  difficulty: 5
+  types:
+    - Bugs
+- name: 5 Starry Fireflies
+  difficulty: 5
+  types:
+    - Bugs
+- name: Sleep in Zelda's Bed
+  difficulty: 5
+  types:
+    - Skyloft
+    - Sailcloth
+- name: Win the Wing Ceremony Twice
+  difficulty: 5
+  types:
+    - BiT
+    - Skyloft
+- name: Bring Hot Soup to Eagus
+  difficulty: 5
+  types:
+    - Bottles
+    - Pumpkin
+- name: 3 Blue Bird Feathers
+  difficulty: 6
+  types:
+    - Treasures
+- name: 5 Bird Feathers
+  difficulty: 6
+  types:
+    - Treasures
+- name: Banded Shield
+  difficulty: 6
+  types:
+    - Shields
+- name: 10 Amber Relics
+  difficulty: 6
+  types:
+    - Treasures
+- name: 50 Deku Hornets
+  difficulty: 6
+  types:
+    - Bugs
+- name: 10 Woodland Rhino Beetles
+  difficulty: 6
+  types:
+    - Bugs
+- name: 6 Pouch Slots
+  difficulty: 7
+  types:
+    - Pouch
+    - Rupees
+- name: 4 Heart Pieces
+  difficulty: 7
+  types:
+    - Hearts
+- name: 8 Faron Bird Statues
+  difficulty: 7
+  types:
+    - Statues
+    - Faron
+- name: 5 Faron Goddess Cubes
+  difficulty: 7
+  types:
+    - Cubes
+    - Faron
+- name: 5 Goddess Cubes
+  difficulty: 7
+  types:
+    - Cubes
+- name: 500 Rupees
+  difficulty: 7
+  types:
+    - Rupees
+- name: 10 Scattered Crystals
+  difficulty: 8
+  types:
+    - Crystals
+- name: 3 Bottles
+  difficulty: 8
+  types:
+    - Bottles
+- name: Batreaux's Heart Piece
+  difficulty: 8
+  types:
+    - Hearts
+    - Crystals
+- name: Orielle's Gratitude Crystals
+  difficulty: 8
+  types:
+    - Crystals
+- name: 15 Gratitude Crystals
+  difficulty: 8
+  types:
+    - Crystals
+- name: Parrow's Gratitude Crystals
+  difficulty: 8
+  types:
+    - Crystals
+- name: Skyview Dungeon Map
+  difficulty: 9
+  types:
+    - Map
+    - Skyview
+- name: Defeat Ghirahim with a dart
+  difficulty: 9
+  types:
+    - Skyview
+- name: Skyview Zero Dungeon Map
+  difficulty: 9
+  types:
+    - Map
+    - Skyview
+    - BiT
+- name: Open all Skyview Temple Chests
+  difficulty: 9
+  types:
+    - Chests
+    - Skyview
+- name: Two Unused Small Keys
+  difficulty: 9
+  types:
+    - BiT
+    - Skyview
+- name: Both Faron Heart Pieces
+  difficulty: 9
+  types:
+    - Faron
+    - Hearts
+- name: Sleep in every Knight Academy Bed
+  difficulty: 10
+  types:
+    - Misc
+    - Sailcloth
+- name: 28+ cuts at Bamboo Island
+  difficulty: 10
+  types:
+    - Misc
+- name: 4 Eldin Bird Statues
+  difficulty: 10
+  types:
+    - Statues
+    - Eldin
+- name: Eldin Heart Piece
+  difficulty: 10
+  types:
+    - Hearts
+    - Eldin
+- name: Farore's Courage
+  difficulty: 10
+  types:
+    - BiT
+- name: Enter Isle of Songs
+  difficulty: 10
+  types:
+    - BiT
+- name: 10 Volcanic Ladybugs
+  difficulty: 11
+  types:
+    - Bugs
+- name: 60 Deku Seed Capacity
+  difficulty: 11
+  types:
+    - Ammo
+- name: 5 Eldin Ore
+  difficulty: 11
+  types:
+    - Treasures
+- name: 3 Medals
+  difficulty: 11
+  types:
+    - Medals
+- name: Treasure Medal
+  difficulty: 11
+  types:
+    - Medals
+- name: 3 Unique Shields
+  difficulty: 11
+  types:
+    - Shields
+- name: Fairy in a Bottle
+  difficulty: 12
+  types:
+    - Bottles
+- name: Heart Potion+
+  difficulty: 12
+  types:
+    - Potions
+- name: Guardian Potion+
+  difficulty: 12
+  types:
+    - Potions
+- name: Revitalizing Potion+
+  difficulty: 12
+  types:
+    - Potions
+- name: 3 Unique Potion Upgrades
+  difficulty: 12
+  types:
+    - Potions
+    - Bottles
+- name: 3 Unique Potions
+  difficulty: 12
+  types:
+    - Potions
+    - Bottles
+- name: Zelda's Heart Piece
+  difficulty: 13
+  types:
+    - End
+    - Hearts
+    - Sailcloth
+- name: 25 Gratitude Crystals
+  difficulty: 13
+  types:
+    - Crystals
+- name: Zelda's Gratitude Crystal
+  difficulty: 13
+  types:
+    - End
+    - Crystals
+    - Sailcloth
+- name: Peatrice's Gratitude Crystals
+  difficulty: 13
+  types:
+    - Crystals
+- name: Clear a Thrill Digger Board
+  difficulty: 13
+  types:
+    - Eldin
+- name: 6 Eldin Goddess Cubes
+  difficulty: 13
+  types:
+    - Cubes
+    - Eldin
+- name: Life Tree Seedling
+  difficulty: 14
+  types:
+    - BiT
+- name: Open all Earth Temple Chests
+  difficulty: 14
+  types:
+    - Chests
+    - Earth
+- name: Kina's Pumpkin Carrying Game
+  difficulty: 14
+  types:
+    - Pumpkin
+- name: Earth Temple Dungeon Map
+  difficulty: 14
+  types:
+    - Map
+    - Earth
+- name: 5 Lizard Tails
+  difficulty: 14
+  types:
+    - Earth
+- name: Destroy all of Scaldera's Rocks
+  difficulty: 14
+  types:
+    - Earth
+- name: 7 Pouch Slots
+  difficulty: 15
+  types:
+    - Pouch
+    - Rupees
+- name: 1000 Rupees
+  difficulty: 15
+  types:
+    - Rupees
+- name: 10 Goddess Cubes
+  difficulty: 15
+  types:
+    - Cubes
+- name: 30 Bomb Capacity
+  difficulty: 15
+  types:
+    - Ammo
+- name: Bug Medal
+  difficulty: 15
+  types:
+    - Medals
+    - Rupees
+- name: Reinforced Shield
+  difficulty: 15
+  types:
+    - Shields
+- name: Obtain one of every treasure
+  difficulty: 16
+  types:
+    - Treasures
+- name: 3 Unique Wooden Shields
+  difficulty: 16
+  types:
+    - Shields
+- name: Catch one of every bug
+  difficulty: 16
+  types:
+    - Bugs
+- name: Braced Shield
+  difficulty: 16
+  types:
+    - Shields
+- name: Big Bug Net
+  difficulty: 16
+  types:
+    - Upgrade
+- name: Quick Beetle
+  difficulty: 16
+  types:
+    - Upgrade
+- name: Updated Lanaryu Desert Map
+  difficulty: 17
+  types:
+    - Lanayru
+- name: Five map beacons
+  difficulty: 17
+  types:
+    - Lanayru
+- name: Duplicate an Ampilus Egg
+  difficulty: 17
+  types:
+    - Lanayru
+- name: Obtain a Recovery Heart
+  difficulty: 17
+  types:
+    - Misc
+- name: Both Life Medals
+  difficulty: 17
+  types:
+    - Medals
+- name: Lanayru Heart Piece
+  difficulty: 17
+  types:
+    - Hearts
+- name: 5 Lanayru Goddess Cubes
+  difficulty: 17
+  types:
+    - Lanayru
+    - Cubes
+- name: Cursed Medal
+  difficulty: 18
+  types:
+    - Medals
+    - Crystals
+- name: 15 Goddess Cubes
+  difficulty: 18
+  types:
+    - Cubes
+- name: 4 Medals
+  difficulty: 18
+  types:
+    - Medals
+- name: 12 Hearts
+  difficulty: 18
+  types:
+    - Hearts
+- name: 1500 Rupees
+  difficulty: 18
+  types:
+    - Rupees
+- name: 8 Heart Pieces
+  difficulty: 18
+  types:
+    - Hearts
+- name: All 15 Scattered Crystals
+  difficulty: 18
+  types:
+    - Crystals
+- name: Fortified Shield
+  difficulty: 19
+  types:
+    - Shields
+- name: Heart Potion++
+  difficulty: 19
+  types:
+    - Potions
+- name: Revitalizing Potion++
+  difficulty: 19
+  types:
+    - Potions
+- name: Large Slingshot Satchel
+  difficulty: 19
+  types:
+    - Ammo
+    - Upgrade
+- name: 4 Unique Shields
+  difficulty: 19
+  types:
+    - Shields
+- name: Large Bomb Bag
+  difficulty: 19
+  types:
+    - Ammo
+    - Upgrade
+- name: Baby's Rattle
+  difficulty: 20
+  types:
+    - Misc
+- name: Mallara's Gratitude Crystals
+  difficulty: 20
+  types:
+    - Crystals
+- name: Turn a windmill
+  difficulty: 20
+  types:
+    - Misc
+- name: LMF Dungeon Map
+  difficulty: 20
+  types:
+    - Map
+    - LMF
+- name: 3 Dungeon Maps
+  difficulty: 20
+  types:
+    - Map
+- name: 3 Goddess Plumes
+  difficulty: 20
+  types:
+    - Treasures
+- name: 16 Goddess Cubes
+  difficulty: 21
+  types:
+    - Cubes
+- name: 11 Heart Pieces
+  difficulty: 21
+  types:
+    - Hearts
+- name: 3 Unique Iron Shields
+  difficulty: 21
+  types:
+    - Shields
+- name: 5 Unique Shields
+  difficulty: 21
+  types:
+    - Shields
+- name: Tough Beetle
+  difficulty: 21
+  types:
+    - Upgrade
+- name: Scattershot
+  difficulty: 21
+  types:
+    - Upgrade
+    - Harp
+    - BiT
+- name: 20 Bird Statues
+  difficulty: 22
+  types:
+    - Statues
+    - Harp
+- name: Open all LMF Chests
+  difficulty: 22
+  types:
+    - LMF
+    - Chests
+- name: Goddess Harp
+  difficulty: 22
+  types:
+    - Harp
+- name: Stamina Potion
+  difficulty: 22
+  types:
+    - Potions
+- name: Temple of Time Bird Statue
+  difficulty: 22
+  types:
+    - Statues
+    - Harp
+- name: 8 Lanayru Bird Statues
+  difficulty: 22
+  types:
+    - Statues
+    - Harp
+- name: 8 Pouch Slots
+  difficulty: 23
+  types:
+    - Pouch
+    - Rupees
+- name: 6 Medals
+  difficulty: 23
+  types:
+    - Medals
+- name: 1900 Rupees
+  difficulty: 23
+  types:
+    - Rupees
+- name: Beedle's Heart Piece
+  difficulty: 23
+  types:
+    - Hearts
+    - Rupees
+- name: 40 Gratitude Crystals
+  difficulty: 23
+  types:
+    - Crystals
+    - Imp
+- name: Open 40 Chests
+  difficulty: 23
+  types:
+    - Chests
+- name: Summon a Gossip Stone
+  difficulty: 24
+  types:
+    - Harp
+- name: Get Fairies from a Goddess Wall
+  difficulty: 24
+  types:
+    - BiT
+    - Harp
+- name: Stamina Potion+
+  difficulty: 24
+  types:
+    - Potions
+- name: Water Dragon's Scale
+  difficulty: 24
+  types:
+    - Harp
+    - BiT
+    - Scale
+- name: Reseal the Imprisoned
+  difficulty: 24
+  types:
+    - Harp
+    - Imp
+- name: Ballad of the Goddess
+  difficulty: 24
+  types:
+    - Harp
+- name: Talk to Yerbal
+  difficulty: 25
+  types:
+    - Harp
+    - BiT
+- name: Repair Scrapper
+  difficulty: 25
+  types:
+    - Harp
+    - Imp
+- name: Cawlin's Letter
+  difficulty: 25
+  types:
+    - Harp
+- name: Air Potion
+  difficulty: 25
+  types:
+    - Potions
+    - Scale
+    - BiT
+- name: Sacred Shield
+  difficulty: 25
+  types:
+    - Shields
+    - Imp
+    - Harp
+- name: Lake Floria Goddess Cube
+  difficulty: 25
+  types:
+    - Harp
+    - BiT
+    - Scale
+- name: All 10 Faron Bird Statues
+  difficulty: 25
+  types:
+    - Harp
+    - BiT
+    - Scale
+    - Statues

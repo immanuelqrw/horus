@@ -1,0 +1,477 @@
+---
+- name: Kill Yoric
+  difficulty: 1
+  types:
+    - Enemy
+- name: 3 Different Use Weapons
+  difficulty: 1
+  types:
+    - Item
+- name: Soul of Wolf
+  difficulty: 1
+  types:
+    - Relic
+- name: 250 HP
+  difficulty: 1
+  types:
+    - Stats
+- name: Bandanna Room
+  difficulty: 1
+  types:
+    - Stats
+- name: Defeat Hippogriff
+  difficulty: 2
+  types:
+    - Boss
+- name: Any 5 Different Foods
+  difficulty: 2
+  types:
+    - Item
+- name: Open Olrox > Chapel Path
+  difficulty: 2
+  types:
+    - Location
+- name: Twilight Cloak Location
+  difficulty: 2
+  types:
+    - Location
+- name: Cast a Spell on Dracula
+  difficulty: 3
+  types:
+    - Boss
+    - Strat
+- name: Kill Owl Knight
+  difficulty: 3
+  types:
+    - Enemy
+- name: Dragon Helm Location
+  difficulty: 3
+  types:
+    - Location
+- name: 300 HP
+  difficulty: 3
+  types:
+    - Stats
+- name: Defeat Karasuman
+  difficulty: 4
+  types:
+    - Boss
+- name: 2 Weapons with Unique Skill
+  difficulty: 4
+  types:
+    - Item
+- name: Open Cavern > Entrance Path
+  difficulty: 4
+  types:
+    - Location
+- name: 45 LCK
+  difficulty: 4
+  types:
+    - Stats
+- name: Defeat werewolf & minotaur
+  difficulty: 5
+  types:
+    - Boss
+- name: Defeat Scylla
+  difficulty: 5
+  types:
+    - Boss
+- name: Alucard Mail Location
+  difficulty: 5
+  types:
+    - Location
+- name: 45 CON
+  difficulty: 5
+  types:
+    - Stats
+- name: Dopple No Subweapons
+  difficulty: 5
+  types:
+    - Boss
+    - Strat
+- name: Use Tetra Spirit on Darkwing Bat
+  difficulty: 6
+  types:
+    - Boss
+    - Strat
+- name: Kill Schmoo
+  difficulty: 6
+  types:
+    - Enemy
+- name: Any 5 Swords
+  difficulty: 6
+  types:
+    - Item
+- name: Open Arena > Chapel Path
+  difficulty: 6
+  types:
+    - Location
+- name: Enter Holy Rod Room
+  difficulty: 7
+  types:
+    - Location
+- name: All 1st Castle Teleporters
+  difficulty: 7
+  types:
+    - Location
+- name: Use a Subweapon
+  difficulty: 7
+  types:
+    - Relic
+- name: 350 HP
+  difficulty: 7
+  types:
+    - Stats
+- name: Get 10 Peanuts
+  difficulty: 8
+  types:
+    - Location
+    - Item
+- name: Kill Blade
+  difficulty: 8
+  types:
+    - Enemy
+- name: Power of Wolf
+  difficulty: 8
+  types:
+    - Relic
+- name: Holy Symbol
+  difficulty: 8
+  types:
+    - Relic
+- name: Accessory with Stat Bonus
+  difficulty: 9
+  types:
+    - Item
+    - Stats
+- name: 2 Cards
+  difficulty: 9
+  types:
+    - Relic
+- name: Gas Cloud
+  difficulty: 9
+  types:
+    - Relic
+- name: 150 Max Hearts
+  difficulty: 9
+  types:
+    - Stats
+- name: Spirit Orb
+  difficulty: 10
+  types:
+    - Relic
+- name: Skill of Wolf
+  difficulty: 10
+  types:
+    - Relic
+- name: 900 Rooms
+  difficulty: 10
+  types:
+    - Stats
+- name: 420 Kills
+  difficulty: 10
+  types:
+    - Stats
+- name: Summon Spirit on Hippogriff
+  difficulty: 11
+  types:
+    - Boss
+    - Strat
+- name: Force of Echo
+  difficulty: 11
+  types:
+    - Relic
+- name: Cube of Zoe
+  difficulty: 11
+  types:
+    - Relic
+- name: 45 DEF
+  difficulty: 11
+  types:
+    - Stats
+    - Item
+- name: Holy Mail Room
+  difficulty: 11
+  types:
+    - Location
+- name: Death No Transforming
+  difficulty: 12
+  types:
+    - Boss
+    - Strat
+- name: 5 Different Armors
+  difficulty: 12
+  types:
+    - Item
+- name: Kill Discus Lord
+  difficulty: 12
+  types:
+    - Enemy
+    - Location
+- name: 2 Different Cloaks
+  difficulty: 12
+  types:
+    - Item
+- name: Cloaked Knight Room in 1st Castle
+  difficulty: 13
+  types:
+    - Location
+- name: Divekick a Medusa Head
+  difficulty: 13
+  types:
+    - Enemy
+    - Relic
+    - Strat
+- name: Fire of Bat
+  difficulty: 13
+  types:
+    - Relic
+- name: Jewel Knuckles Room
+  difficulty: 13
+  types:
+    - Location
+    - Relic
+- name: Eat Food during The Creature fight
+  difficulty: 14
+  types:
+    - Boss
+    - Strat
+    - Item
+- name: Kill Malachi
+  difficulty: 14
+  types:
+    - Boss
+- name: 3 Cards
+  difficulty: 14
+  types:
+    - Relic
+- name: All First Castle Relics
+  difficulty: 14
+  types:
+    - Relic
+- name: Kill Grave Keeper Naked Unarmed Only
+  difficulty: 15
+  types:
+    - Enemy
+    - Strat
+- name: Get Berserked By Imp
+  difficulty: 15
+  types:
+    - Enemy
+    - Strat
+- name: Any 6 Potions
+  difficulty: 15
+  types:
+    - Item
+- name: 100 ATT
+  difficulty: 15
+  types:
+    - Stats
+    - Item
+- name: Holy Sword Room
+  difficulty: 15
+  types:
+    - Location
+- name: Olrox No Spells
+  difficulty: 16
+  types:
+    - Boss
+    - Strat
+- name: 4 Different Shields
+  difficulty: 16
+  types:
+    - Item
+- name: Get Item in Shield Rod Room
+  difficulty: 16
+  types:
+    - Item
+- name: 50 INT
+  difficulty: 16
+  types:
+    - Stats
+- name: Divekick Medusa
+  difficulty: 16
+  types:
+    - Boss
+    - Strat
+- name: Kick or Bite Cereberus
+  difficulty: 17
+  types:
+    - Boss
+    - Strat
+- name: Kill Lion, Scarecrow, and Tin Man
+  difficulty: 17
+  types:
+    - Enemy
+    - Location
+- name: "2 different 2-Handed Weapons"
+  difficulty: 17
+  types:
+    - Item
+- name: Check Holy Symbol Location
+  difficulty: 17
+  types:
+    - Location
+    - Relic
+- name: Slogra & Gaibon Boss No Spells
+  difficulty: 17
+  types:
+    - Boss
+    - Strat
+- name: Kill Blue Venus Weed
+  difficulty: 18
+  types:
+    - Enemy
+- name: All 2nd Castle Teleporters
+  difficulty: 18
+  types:
+    - Location
+- name: 50 STR
+  difficulty: 18
+  types:
+    - Stats
+    - Item
+- name: Badelaire Location
+  difficulty: 18
+  types:
+    - Location
+- name: Kill Azaghal
+  difficulty: 18
+  types:
+    - Enemy
+- name: Defeat Dopple40
+  difficulty: 19
+  types:
+    - Boss
+- name: Fury Plate Location
+  difficulty: 19
+  types:
+    - Location
+- name: Kill 5 Angel of Goths
+  difficulty: 19
+  types:
+    - Enemy
+- name: Jewel Sword Room
+  difficulty: 19
+  types:
+    - Location
+    - Relic
+- name: Defeat Granfaloon
+  difficulty: 20
+  types:
+    - Boss
+- name: Kill Fire Demon
+  difficulty: 20
+  types:
+    - Enemy
+    - Location
+- name: 1000 Rooms
+  difficulty: 20
+  types:
+    - Stats
+- name: 500 Kills
+  difficulty: 20
+  types:
+    - Stats
+- name: Subweapon & Spells Only on Akmodan
+  difficulty: 21
+  types:
+    - Boss
+    - Strat
+- name: Kill Dragon Rider
+  difficulty: 21
+  types:
+    - Enemy
+    - Location
+- name: Any Circlet
+  difficulty: 21
+  types:
+    - Item
+- name: 180 Max Hearts
+  difficulty: 21
+  types:
+    - Stats
+- name: Get Confession Item
+  difficulty: 22
+  types:
+    - Location
+    - Strat
+- name: Demon Open Path in Cave
+  difficulty: 22
+  types:
+    - Location
+    - Relic
+- name: Go To Gate in Reverse Entrance
+  difficulty: 22
+  types:
+    - Location
+- name: Necklace of J Location
+  difficulty: 22
+  types:
+    - Location
+- name: Defeat Fake Heroes
+  difficulty: 22
+  types:
+    - Boss
+- name: Defeat Galamoth
+  difficulty: 23
+  types:
+    - Boss
+- name: Kill Cloaked Knight in 1st Castle
+  difficulty: 23
+  types:
+    - Boss
+- name: Any Fist Weapon
+  difficulty: 23
+  types:
+    - Item
+- name: Alucard Shield Location
+  difficulty: 23
+  types:
+    - Location
+- name: All Cards
+  difficulty: 23
+  types:
+    - Relic
+- name: Kill 5 Cloaked Knights
+  difficulty: 24
+  types:
+    - Enemy
+- name: Any Rod
+  difficulty: 24
+  types:
+    - Item
+- name: Demon Open Path in Mine
+  difficulty: 24
+  types:
+    - Location
+    - Relic
+- name: 60 LCK
+  difficulty: 24
+  types:
+    - Stats
+    - Item
+- name: Kill Guardian
+  difficulty: 24
+  types:
+    - Enemy
+- name: Any Elemental Weapon
+  difficulty: 25
+  types:
+    - Item
+- name: "Go Up Stairs in Anti-Chapel"
+  difficulty: 25
+  types:
+    - Location
+- name: Defeat Beelzebub
+  difficulty: 25
+  types:
+    - Location
+- name: All Second Castle Relics
+  difficulty: 25
+  types:
+    - Relic
+- name: 1100 Rooms
+  difficulty: 25
+  types:
+    - Stats

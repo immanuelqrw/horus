@@ -1,0 +1,269 @@
+---
+- name: Make the muse do a full lap
+  difficulty: 1
+  types:
+    - unique
+- name: Do the pelican race
+  difficulty: 1
+  types:
+    - task
+- name: Yakows cell
+  difficulty: 1
+  types:
+    - task
+- name: Don't miss a single fish
+  difficulty: 2
+  types:
+    - challenge
+    - task
+- name: Die of fall damage in Sandover Village
+  difficulty: 2
+  types:
+    - challenge
+- name: Get villaged
+  difficulty: 2
+  types:
+    - unique
+- name: Watch 12 total cutscenes
+  difficulty: 3
+  types:
+    - checklist
+- name: Break 4 rolling barrels in Misty Island
+  difficulty: 3
+  types:
+    - unique
+- name: Get eaten by the shark in 4 different levels
+  difficulty: 4
+  types:
+    - checklist
+- name: Die from burning, drowning, dark eco, and a rat
+  difficulty: 4
+  types:
+    - checklist
+- name: Open 7 orb vents
+  difficulty: 4
+  types:
+    - checklist
+- name: Go too fast in Mountain Pass
+  difficulty: 5
+  types:
+    - challenge
+- name: 100% Mountain Pass
+  difficulty: 5
+  types:
+    - collectables
+- name: Destroy all 10 Rat nests
+  difficulty: 6
+  types:
+    - unique
+    - checklist
+- name: Ambush cell in Boggy Swamp
+  difficulty: 6
+  types:
+    - task
+- name: Finish the ambush in Misty Island
+  difficulty: 7
+  types:
+    - task
+- name: Secret cell in Volcanic Crater
+  difficulty: 7
+  types:
+    - task
+- name: Kill 10 lurkers on Flut Flut
+  difficulty: 8
+  types:
+    - checklist
+- name: Yellow switch cell in Snowy without a skip
+  difficulty: 8
+  types:
+    - task
+    - challenge
+- name: Kill all spinning lurkers in LPC
+  difficulty: 8
+  types:
+    - unique
+    - checklist
+- name: Blocker cell in Snowy Mountain
+  difficulty: 9
+  types:
+    - task
+- name: All orbs in Rock Village
+  difficulty: 9
+  types:
+    - collectables
+- name: Buy Mayor and Uncle cells
+  difficulty: 10
+  types:
+    - task
+    - checklist
+- name: Buy Gambler and Geologist cells
+  difficulty: 10
+  types:
+    - task
+    - checklist
+- name: All scout flies in Volcanic Crater
+  difficulty: 10
+  types:
+    - collectables
+- name: All orbs from both slides in LPC
+  difficulty: 11
+  types:
+    - collectables
+- name: "'Bottom of LPC' cell using the 2nd slide"
+  difficulty: 11
+  types:
+    - task
+- name: All orbs in Volcanic Crater
+  difficulty: 11
+  types:
+    - collectables
+- name: Kill both ice lurkers in Snowy with yellow eco
+  difficulty: 12
+  types:
+    - challenge
+- name: Break 10 scout flies with yellow eco
+  difficulty: 12
+  types:
+    - checklist
+- name: Kill 5 lurkers with the ice lurker in Snowy
+  difficulty: 13
+  types:
+    - challenge
+- name: Break 3 orb crates in Sentinel without the cannon
+  difficulty: 13
+  types:
+    - challenge
+- name: Collect a scout fly in Lava Tube
+  difficulty: 13
+  types:
+    - challenge
+- name: Sub 38 Dead Man's Gorge
+  difficulty: 14
+  types:
+    - challenge
+- name: Blue rings in Precursor Basin
+  difficulty: 14
+  types:
+    - task
+- name: All scout flies in Boggy Swamp
+  difficulty: 15
+  types:
+    - collectables
+- name: 120 orbs in Sentinel Beach
+  difficulty: 15
+  types:
+    - collectables
+- name: Kill all 7 giant spiders in Spider Cave
+  difficulty: 15
+  types:
+    - unique
+    - checklist
+- name: Finish Fire Canyon orbless
+  difficulty: 16
+  types:
+    - challenge
+- name: Hardlock your game
+  difficulty: 16
+  types:
+    - unique
+- name: Dark eco crystals cell
+  difficulty: 17
+  types:
+    - task
+- name: All orbs in robot room (116)
+  difficulty: 17
+  types:
+    - collectables
+- name: Defeat Klaww without losing any health
+  difficulty: 17
+  types:
+    - challenge
+- name: Lightning moles cell
+  difficulty: 18
+  types:
+    - task
+- name: Do Gem Skip OoB in Volcanic Crater
+  difficulty: 18
+  types:
+    - unique
+- name: Do rats TriHard
+  difficulty: 18
+  types:
+    - task
+- name: All orbs in Boggy Swamp
+  difficulty: 19
+  types:
+    - collectables
+- name: All cells in LPC
+  difficulty: 19
+  types:
+    - collectables
+- name: Defeat Klaww before the plant boss
+  difficulty: 20
+  types:
+    - unique
+- name: Reach Hub 3, then get a cell in Hub 1
+  difficulty: 20
+  types:
+    - unique
+- name: Get at least 35 cells
+  difficulty: 21
+  types:
+    - collectables
+    - checklist
+- name: Buy 4 oracle cells
+  difficulty: 21
+  types:
+    - collectables
+    - checklist
+- name: Zeppelins cell without the zoomer
+  difficulty: 22
+  types:
+    - challenge
+    - task
+- name: "'Raise the chamber' cell without blue eco"
+  difficulty: 22
+  types:
+    - challenge
+    - task
+- name: 3 Precursor Basin scout flies on foot
+  difficulty: 22
+  types:
+    - challenge
+    - collectables
+- name: All Snowy Mountain cells without Flut Flut
+  difficulty: 23
+  types:
+    - challenge
+    - collectables
+- name: Purple rings in Precursor Basin on-foot
+  difficulty: 23
+  types:
+    - challenge
+    - task
+- name: Finish Geyser Rock without eco
+  difficulty: 23
+  types:
+    - challenge
+- name: Get at least 650 orbs
+  difficulty: 24
+  types:
+    - collectables
+- name: Get at least 40 scout flies
+  difficulty: 24
+  types:
+    - collectables
+- name: Dark cave cell without using light
+  difficulty: 25
+  types:
+    - challenge
+    - task
+- name: All Forbidden Jungle cells orbless
+  difficulty: 25
+  types:
+    - challenge
+    - collectables
+- name: Ride the boat in Misty Island on the zoomer
+  difficulty: 25
+  types:
+    - challenge

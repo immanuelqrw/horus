@@ -1,0 +1,406 @@
+---
+- name: Fox
+  difficulty: 1
+  types:
+    - CREATURE
+- name: 3 birds
+  difficulty: 2
+  types:
+    - CREATURE
+- name: Bushy-Tailed Squirrel
+  difficulty: 2
+  types:
+    - CREATURE
+- name: Shoot a Bluepee
+  difficulty: 2
+  types:
+    - CREATURE
+- name: Boar
+  difficulty: 3
+  types:
+    - CREATURE
+- name: Goat
+  difficulty: 3
+  types:
+    - CREATURE
+- name: Wolf or Coyote
+  difficulty: 3
+  types:
+    - CREATURE
+- name: Buck or Doe
+  difficulty: 4
+  types:
+    - CREATURE
+- name: Buffalo
+  difficulty: 4
+  types:
+    - CREATURE
+- name: Moose
+  difficulty: 4
+  types:
+    - CREATURE
+- name: Great-Horned Rhinoceros
+  difficulty: 4
+  types:
+    - CREATURE
+- name: Chuchu
+  difficulty: 5
+  types:
+    - CHUCHU
+    - MONSTER
+- name: Keese
+  difficulty: 5
+  types:
+    - KEESE
+    - MONSTER
+- name: Octorok
+  difficulty: 5
+  types:
+    - OCTOROK
+    - MONSTER
+- name: Peblit
+  difficulty: 5
+  types:
+    - TALUS
+    - MONSTER
+- name: Entire group of Peblit
+  difficulty: 5
+  types:
+    - TALUS
+    - MONSTER
+    - MASSACRE
+- name: Group of 3+ Chuchu
+  difficulty: 5
+  types:
+    - CHUCHU
+    - MONSTER
+    - MASSACRE
+- name: Stal monster
+  difficulty: 6
+  types:
+    - STAL
+    - MONSTER
+- name: Group of 5+ Keese
+  difficulty: 6
+  types:
+    - KEESE
+    - MONSTER
+    - MASSACRE
+- name: Bokoblin
+  difficulty: 7
+  types:
+    - BOKOBLIN
+    - MONSTER
+- name: Moblin
+  difficulty: 7
+  types:
+    - MOBLIN
+    - MONSTER
+- name: Lizalfos
+  difficulty: 7
+  types:
+    - LIZALFOS
+    - MONSTER
+- name: Yiga Footsoldier
+  difficulty: 7
+  types:
+    - YIGA
+    - MONSTER
+- name: Level 2 Monster [Blue]
+  difficulty: 8
+  types:
+    - MONSTER
+    - LEVEL
+- name: One of each basic Stal [LIZALFOS, BOKOBLIN, MOBLIN]
+  difficulty: 8
+  types:
+    - STAL
+    - MONSTER
+- name: Entire camp of Bokoblin
+  difficulty: 9
+  types:
+    - BOKOBLIN
+    - MONSTER
+    - MASSACRE
+- name: Wizzrobe
+  difficulty: 10
+  types:
+    - WIZZROBE
+    - MONSTER
+- name: Entire group of 3+ Moblin
+  difficulty: 10
+  types:
+    - MOBLIN
+    - MONSTER
+    - MASSACRE
+- name: Bear
+  difficulty: 11
+  types:
+    - CREATURE
+- name: Yiga Blademaster
+  difficulty: 11
+  types:
+    - YIGA
+    - MONSTER
+- name: Chuchu of each element [FIRE, ICE, ELECTRIC]
+  difficulty: 12
+  types:
+    - CHUCHU
+    - MONSTER
+    - ELEMENT
+- name: Keese of each element [FIRE, ICE, ELECTRIC]
+  difficulty: 12
+  types:
+    - KEESE
+    - MONSTER
+    - ELEMENT
+- name: Peblit of each element [IGNEO, FROST]
+  difficulty: 12
+  types:
+    - TALUS
+    - MONSTER
+- name: Guardian Scout
+  difficulty: 13
+  types:
+    - GUARDIAN
+    - MONSTER
+- name: Level 3 Monster [Black]
+  difficulty: 13
+  types:
+    - MONSTER
+    - LEVEL
+- name: Entire group of 3+ Lizalfos
+  difficulty: 14
+  types:
+    - LIZALFOS
+    - MONSTER
+    - MASSACRE
+- name: Wizzrobe of each element [FIRE, ICE, ELECTRIC]
+  difficulty: 15
+  types:
+    - WIZZROBE
+    - MONSTER
+    - ELEMENT
+- name: Octorok of each type [TREASURE, WATER, SKY, SNOW, ROCK, FOREST]
+  difficulty: 15
+  types:
+    - OCTOROK
+    - MONSTER
+- name: Lizalfos of each element [FIRE, ICE, ELECTRIC]
+  difficulty: 16
+  types:
+    - LIZALFOS
+    - MONSTER
+    - ELEMENT
+- name: Talus
+  difficulty: 16
+  types:
+    - TALUS
+    - MONSTER
+- name: Hinox
+  difficulty: 16
+  types:
+    - HINOX
+    - MONSTER
+- name: Stalnox
+  difficulty: 16
+  types:
+    - HINOX
+    - STAL
+    - MONSTER
+- name: Talus of each type [LUMINOUS, RARE]
+  difficulty: 17
+  types:
+    - TALUS
+    - MONSTER
+- name: 3 different Hinox
+  difficulty: 17
+  types:
+    - HINOX
+    - MONSTER
+    - GENOCIDE
+- name: 3 different Talus
+  difficulty: 18
+  types:
+    - TALUS
+    - MONSTER
+    - GENOCIDE
+- name: 5 different Hinox
+  difficulty: 18
+  types:
+    - HINOX
+    - MONSTER
+    - GENOCIDE
+- name: Decayed Guardian
+  difficulty: 18
+  types:
+    - GUARDIAN
+    - MONSTER
+- name: Level 4 Monster [White/Silver]
+  difficulty: 18
+  types:
+    - MONSTER
+    - LEVEL
+- name: Talus of each element [IGNEO, FROST]
+  difficulty: 19
+  types:
+    - TALUS
+    - MONSTER
+- name: 3 different Stalnox
+  difficulty: 19
+  types:
+    - HINOX
+    - STAL
+    - MONSTER
+    - GENOCIDE
+- name: 5 different Talus
+  difficulty: 20
+  types:
+    - TALUS
+    - MONSTER
+    - GENOCIDE
+- name: 10 different Hinox
+  difficulty: 21
+  types:
+    - HINOX
+    - STAL
+    - MONSTER
+    - GENOCIDE
+- name: Guardian Skywatcher
+  difficulty: 21
+  types:
+    - GUARDIAN
+    - MONSTER
+- name: Guardian Turret
+  difficulty: 21
+  types:
+    - GUARDIAN
+    - MONSTER
+- name: Molduga
+  difficulty: 22
+  types:
+    - MOLDUGA
+    - MONSTER
+- name: Guardian Stalker
+  difficulty: 22
+  types:
+    - GUARDIAN
+    - MONSTER
+- name: Lynel
+  difficulty: 23
+  types:
+    - LYNEL
+    - MONSTER
+- name: 5 different Stalnox
+  difficulty: 24
+  types:
+    - HINOX
+    - STAL
+    - MONSTER
+    - GENOCIDE
+- name: 10 different Talus
+  difficulty: 24
+  types:
+    - TALUS
+    - MONSTER
+    - GENOCIDE
+- name: The Coliseum Lynel
+  difficulty: 24
+  types:
+    - LYNEL
+    - MONSTER
+- name: 3 different Lynel without using Ancient arrows
+  difficulty: 25
+  types:
+    - LYNEL
+    - MONSTER
+    - GENOCIDE
+- name: All 4 Molduga
+  difficulty: 25
+  types:
+    - MOLDUGA
+    - MONSTER
+    - GENOCIDE
+- name: Destroy all 26 Guardian Stalkers in Hyrule Field
+  difficulty: 25
+  types:
+    - GUARDIAN
+    - MONSTER
+    - GENOCIDE
+- name: Group of Bokoblins attacking people
+  difficulty: 8
+  types:
+    - BOKOBLIN
+    - MONSTER
+- name: 'Snipe: Camp of Bokoblins [Plain Arrows]'
+  difficulty: 12
+  types:
+    - SNIPE
+    - ARROW
+    - BOKOBLIN
+    - MONSTER
+- name: 'Assassinate: Lure Mob into trap by throwing bomb'
+  difficulty: 10
+  types:
+    - ASSASSINATE
+    - TRAP
+    - MONSTER
+- name: 'Assassinate: Camp of sleeping Bokoblins'
+  difficulty: 13
+  types:
+    - ASSASSINATE
+    - BOKOBLIN
+    - MONSTER
+- name: 'Bomb: 3+ Wolves/Coyotes at once '
+  difficulty: 9
+  types:
+    - BOMB
+    - CREATURE
+- name: Knock all Mobs off the Ancient Tree Stump
+  difficulty: 12
+  types:
+    - MONSTER
+    - WATER
+- name: 'Snipe: 5 Mobs in Bullet Time'
+  difficulty: 11
+  types:
+    - SNIPE
+    - ARROW
+    - BULLET TIME
+    - MONSTER
+- name: Hinox using only arrows
+  difficulty: 17
+  types:
+    - ARROW
+    - HINOX
+    - MONSTER
+- name: Bokoblin after luring into Bee trap
+  difficulty: 10
+  types:
+    - TRAP
+    - BOKOBLIN
+    - MONSTER
+- name: All Mobs in Skull base with bombs
+  difficulty: 15
+  types:
+    - BOMB
+    - MONSTER
+- name: Lure Mob into getting struck by lightning
+  difficulty: 20
+  types:
+    - TRAP
+    - LIGHTNING
+    - MONSTER
+- name: 'Assassinate: Mob in stasis'
+  difficulty: 12
+  types:
+    - STASIS
+    - ASSASSINATE
+    - MONSTER
+- name: 'Snipe: 3 Mobs in one Bullet Time activation'
+  difficulty: 15
+  types:
+    - SNIPE
+    - ARROW
+    - BULLET TIME
+    - MONSTER

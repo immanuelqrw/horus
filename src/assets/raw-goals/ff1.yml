@@ -1,0 +1,765 @@
+---
+- name: Get a first place prize in 15-tile
+  difficulty: 1
+  types:
+    - minigame
+    - megalixir
+- name: Use exactly 2 Monks
+  difficulty: 1
+  types:
+    - party
+    - monk
+- name: Get a third place prize in the ship 15-tile minigame
+  difficulty: 1
+  types:
+    - minigame
+- name: Equip only a Thief's Armlet on the body slot
+  difficulty: 1
+  types:
+    - unique
+    - nowarrior
+    - nowhitemage
+- name: Get the Flame Shield in Mt. Gulg
+  difficulty: 1
+  types:
+    - gulg
+- name: Defeat at least two Ogres
+  difficulty: 1
+  types:
+    - defeat
+    - ogre
+- name: Defeat at least 3 Goblin Guards
+  difficulty: 1
+  types:
+    - defeat
+    - goblin
+- name: Get a second place prize in 15-tile
+  difficulty: 2
+  types:
+    - minigame
+    - elixir
+    - emergencyexit
+- name: Cast Fira against a group of Bloodbones
+  difficulty: 2
+  types:
+    - situational
+- name: Use zero White Mages
+  difficulty: 2
+  types:
+    - party
+    - nowhitemage
+- name: Spend at least 14,051 gil in Pravoca
+  difficulty: 2
+  types:
+    - spending
+- name: Use exactly 2 Thieves
+  difficulty: 2
+  types:
+    - party
+    - thief
+- name: Equip only a Mythril Helmet on the head slot
+  difficulty: 2
+  types:
+    - unique
+    - nowarrior
+- name: Get the Ribbon in the Flying Fortress
+  difficulty: 3
+  types:
+    - treasurehunt
+- name: Learn exactly one curative spell
+  difficulty: 3
+  types:
+    - monk
+- name: Use exactly 2 Warriors
+  difficulty: 3
+  types:
+    - party
+    - warrior
+- name: Get all of the treasure in the Waterfall Cavern
+  difficulty: 3
+  types:
+    - treasurehunt
+- name: Use at least 15 Ethers
+  difficulty: 3
+  types:
+    - itemrestriction
+- name: Learn exactly two elemental damage spells
+  difficulty: 3
+  types:
+    - monk
+- name: Win twice at the ship 15-tile minigame
+  difficulty: 3
+  types:
+    - minigame
+- name: Use zero Thieves
+  difficulty: 4
+  types:
+    - party
+    - nothief
+- name: Use no more than 10 Antidotes
+  difficulty: 4
+  types:
+    - itemrestriction
+- name: Use exactly 2 White Mages
+  difficulty: 4
+  types:
+    - party
+    - whitemage
+- name: Buy exactly 3 Knight's Armor in Melmond
+  difficulty: 4
+  types:
+    - spending
+- name: Use zero Black Mages
+  difficulty: 4
+  types:
+    - party
+    - noblackmage
+- name: Use exactly one Monk AND one Red Mage
+  difficulty: 4
+  types:
+    - party
+    - monk
+    - redmage
+- name: Use zero Warriors
+  difficulty: 5
+  types:
+    - party
+    - nowarrior
+- name: Cast Blizzara against a group of Ghosts
+  difficulty: 5
+  types:
+    - situational
+- name: Get the Flame Mail in Mt. Gulg
+  difficulty: 5
+  types:
+    - gulg
+- name: Cast Firaga at least twice
+  difficulty: 5
+  types:
+    - noredmage
+    - noblackmage
+- name: Cast Thundaga at least twice
+  difficulty: 5
+  types:
+    - noredmage
+    - noblackmage
+- name: Cast Blizzaga at least twice
+  difficulty: 5
+  types:
+    - noredmage
+    - noblackmage
+- name: Do NOT cast Flare
+  difficulty: 5
+  types:
+    - default
+- name: Get both Light Axes in the Sunken Shrine
+  difficulty: 6
+  types:
+    - treasurehunt
+- name: Get the Giant's Gloves in the Sunken Shrine
+  difficulty: 6
+  types:
+    - treasurehunt
+- name: Complete the Sunken Shrine without escaping combat
+  difficulty: 6
+  types:
+    - norun
+- name: Get the Diamond Armor in the Sunken Shrine
+  difficulty: 6
+  types:
+    - treasurehunt
+- name: Do NOT acquire Survival Vests
+  difficulty: 6
+  types:
+    - default
+- name: Get the Mage's Staff in the Sunken Shrine
+  difficulty: 6
+  types:
+    - treasurehunt
+- name: Equip only an Ice Shield on the shield slot
+  difficulty: 6
+  types:
+    - unique
+    - nowarrior
+    - nothief
+    - noclass
+- name: Use no more than 10 Potions
+  difficulty: 7
+  types:
+    - itemrestriction
+- name: Use zero Phoenix Downs
+  difficulty: 7
+  types:
+    - itemrestriction
+- name: Learn exactly two curative spells
+  difficulty: 7
+  types:
+    - monk
+- name: Use zero Sleeping Bags, Tents, or Cottages
+  difficulty: 7
+  types:
+    - itemrestriction
+- name: Get the Adamantite, but do NOT get the Excalibur
+  difficulty: 7
+  types:
+    - treasurehunt
+    - excalibur
+- name: Defeat a group with 4 different monsters
+  difficulty: 7
+  types:
+    - situational
+- name: Use at least 1 Elixir
+  difficulty: 7
+  types:
+    - itemrestriction
+- name: Buy exactly 15 Mythril Axes in Crescent Lake
+  difficulty: 8
+  types:
+    - spending
+- name: Get all of the treasure in present-day Chaos Shrine
+  difficulty: 8
+  types:
+    - treasurehunt
+- name: Use exactly 2 Black Mages
+  difficulty: 8
+  types:
+    - party
+    - blackmage
+- name: Get all of the treasure in the Marsh Cave
+  difficulty: 8
+  types:
+    - treasurehunt
+- name: Use exactly 2 Red Mages
+  difficulty: 8
+  types:
+    - party
+    - redmage
+- name: Spend at least 26,780 gil in Elfheim
+  difficulty: 8
+  types:
+    - spending
+- name: Use at least 50 Potions
+  difficulty: 8
+  types:
+    - itemrestriction
+- name: Get all of the treasure in Mt. Duergar, including Excalibur
+  difficulty: 9
+  types:
+    - treasurehunt
+    - duergar
+- name: Use at least 2 Gold Needles
+  difficulty: 9
+  types:
+    - itemrestriction
+- name: Get all of the treasure in the Western Keep
+  difficulty: 9
+  types:
+    - treasurehunt
+    - westernkeep
+- name: Get Thor's Hammer in the Mirage Tower
+  difficulty: 9
+  types:
+    - treasurehunt
+- name: Use zero Red Mages
+  difficulty: 9
+  types:
+    - party
+    - noredmage
+- name: Get all of the treasure in Giant's Cave
+  difficulty: 9
+  types:
+    - treasurehunt
+- name: Buy exactly 19 Silver Armlets in Melmond
+  difficulty: 9
+  types:
+    - spending
+- name: Get all of the treasure in the Citadel of Trials
+  difficulty: 10
+  types:
+    - treasurehunt
+- name: Defeat the mighty Blue Dragon at least 10 times
+  difficulty: 10
+  types:
+    - atleast
+- name: Learn exactly one status buff spell
+  difficulty: 10
+  types:
+    - monk
+    - noblackmage
+    - noredmage
+    - nowhitemage
+- name: Do NOT run from any battle in the Cavern of Earth
+  difficulty: 10
+  types:
+    - norun
+- name: Get all of the treasure in the Mermaids' room
+  difficulty: 10
+  types:
+    - treasurehunt
+- name: Get the Dragon Mail in the Mirage Tower
+  difficulty: 10
+  types:
+    - treasurehunt
+- name: Do NOT run from any battle in the Citadel of Trials
+  difficulty: 10
+  types:
+    - norun
+- name: Get the Ice Armor in the Cavern of Ice
+  difficulty: 11
+  types:
+    - treasurehunt
+    - icecave
+- name: Cast Thundara against a group of Earth Elementals
+  difficulty: 11
+  types:
+    - situational
+- name: Do NOT run from any battle in the Flying Fortress
+  difficulty: 11
+  types:
+    - norun
+    - mirage
+- name: Learn exactly one elemental damage spell
+  difficulty: 11
+  types:
+    - monk
+    - noredmage
+    - noblackmage
+- name: Get the Ice Brand in Mt. Gulg
+  difficulty: 11
+  types:
+    - gulg
+- name: Get the Flame Sword in the Cavern of Ice
+  difficulty: 11
+  types:
+    - treasurehunt
+    - icecave
+- name: Put a Mindflayer to sleep
+  difficulty: 11
+  types:
+    - situational
+- name: Blind the Evil Eye
+  difficulty: 11
+  types:
+    - situational
+    - noblackmage
+- name: Get the Aegis Shield in the Mirage Tower
+  difficulty: 12
+  types:
+    - treasurehunt
+    - mirage
+- name: Get the clothes in the Cavern of Ice
+  difficulty: 12
+  types:
+    - treasurehunt
+    - icecave
+- name: Get the Rat's Tail, but do NOT class change
+  difficulty: 12
+  types:
+    - noclass
+- name: Buy exactly 18 Mythril Swords in Crescent Lake
+  difficulty: 12
+  types:
+    - spending
+- name: Get the Sunblade in the Mirage Tower
+  difficulty: 12
+  types:
+    - treasurehunt
+    - sunblade
+- name: Defeat a Vampire Lord
+  difficulty: 12
+  types:
+    - fight
+- name: Use Scourge to defeat Tiamat
+  difficulty: 12
+  types:
+    - situational
+- name: Use at least 4 different Inns
+  difficulty: 13
+  types:
+    - inn
+- name: Get the Razer in the Flying Fortress
+  difficulty: 13
+  types:
+    - treasurehunt
+- name: Learn exactly two status buff spells
+  difficulty: 13
+  types:
+    - monk
+- name: Defeat a Goblin at the Cavern of Earth
+  difficulty: 13
+  types:
+    - situational
+- name: Defeat Hyenadon
+  difficulty: 13
+  types:
+    - fight
+- name: Defeat at least two Rhyos
+  difficulty: 13
+  types:
+    - atleast
+- name: Get the White Robe and Black Robe in the Flying Fortress
+  difficulty: 13
+  types:
+    - treasurehunt
+- name: Use at least 75 Potions
+  difficulty: 13
+  types:
+    - itemrestriction
+- name: Get the Masamune in the Chaos Shrine
+  difficulty: 14
+  types:
+    - treasurehunt
+- name: Get the Protect Cloak in the Chaos Shrine
+  difficulty: 14
+  types:
+    - treasurehunt
+- name: Defeat Goblins at the Cavern of Earth
+  difficulty: 14
+  types:
+    - situational
+- name: Get Sasuke's Blade in the Chaos Shrine
+  difficulty: 14
+  types:
+    - treasurehunt
+- name: Obtain an Emergency Exit from Purple Worm
+  difficulty: 14
+  types:
+    - emergencyexit
+- name: Defeat Red Pirahna
+  difficulty: 14
+  types:
+    - fight
+- name: Obtain an Elixir from Death Eye
+  difficulty: 14
+  types:
+    - elixir
+- name: Get both Healing Helms from treasure chests
+  difficulty: 14
+  types:
+    - treasurehunt
+- name: Buy 99 Hi-Potions
+  difficulty: 15
+  types:
+    - spending
+- name: Defeat White Crocodile
+  difficulty: 15
+  types:
+    - fight
+- name: Obtain a Megalixir, but not from 15-tile puzzle
+  difficulty: 15
+  types:
+    - megalixir
+    - deatheye
+- name: Defeat Ankheg
+  difficulty: 15
+  types:
+    - fight
+- name: Defeat Green Dragon
+  difficulty: 15
+  types:
+    - fight
+    - greendragon
+- name: Put a Green Dragon to sleep
+  difficulty: 15
+  types:
+    - situational
+    - greendragon
+- name: Defeat Death Eye at least 10 times
+  difficulty: 16
+  types:
+    - atleast
+    - deatheye
+- name: Get all of the treasure in the Dragon Caves
+  difficulty: 16
+  types:
+    - treasurehunt
+- name: Do NOT class change
+  difficulty: 16
+  types:
+    - noclass
+- name: Get the Protect Cloak in Flying Fortress
+  difficulty: 16
+  types:
+    - treasurehunt
+- name: Defeat Tyrannosaurus
+  difficulty: 16
+  types:
+    - rare
+- name: Get at least 2 Ribbons from treasure chests
+  difficulty: 16
+  types:
+    - treasurehunt
+- name: Use the spell Exit to escape from Mt. Gulg
+  difficulty: 16
+  types:
+    - noclass
+    - exit
+- name: Defeat Sphinx in the Cavern of Earth
+  difficulty: 16
+  types:
+    - situational
+- name: Defeat at least one Dark Fighter
+  difficulty: 16
+  types:
+    - atleast
+- name: Defeat Sand Worm
+  difficulty: 17
+  types:
+    - fight
+- name: Get only 1 of Sunblade or Diamond Armor from chests
+  difficulty: 17
+  types:
+    - sunblade
+    - diamondarmor
+- name: Buy 99 Ethers
+  difficulty: 17
+  types:
+    - spending
+- name: Clean out Giant's Cave
+  difficulty: 17
+  types:
+    - treasurehunt
+- name: Defeat 2 groups with 4 different monsters
+  difficulty: 17
+  types:
+    - situational
+- name: Get at least 2 characters to level 35
+  difficulty: 17
+  types:
+    - grind
+- name: Buy 99 Gold Needles
+  difficulty: 17
+  types:
+    - spending
+- name: Get the Excalibur in Mt. Duergar
+  difficulty: 17
+  types:
+    - excalibur
+- name: Defeat Typhon
+  difficulty: 18
+  types:
+    - whisperwind
+    - extra
+- name: Get at least 3 shields from treasure chests
+  difficulty: 18
+  types:
+    - treasurehunt
+- name: Buy 99 Phoenix Downs
+  difficulty: 18
+  types:
+    - spending
+- name: Defeat Ochre Jelly
+  difficulty: 18
+  types:
+    - rare
+- name: Get at least 3 characters to level 28
+  difficulty: 18
+  types:
+    - grind
+- name: No duplicate shields equipped
+  difficulty: 18
+  types:
+    - unique
+- name: Get the party to at least level 25
+  difficulty: 18
+  types:
+    - grind
+- name: No duplicate weapons equipped
+  difficulty: 19
+  types:
+    - unique
+- name: Get the party to at least level 22
+  difficulty: 19
+  types:
+    - grind
+- name: Defeat Iron Golem
+  difficulty: 19
+  types:
+    - rare
+- name: Do NOT equip Barbarian's Sword or Ribbon
+  difficulty: 19
+  types:
+    - unique
+- name: Buy 99 Tents
+  difficulty: 19
+  types:
+    - spending
+- name: Do NOT equip Lordly Robes
+  difficulty: 19
+  types:
+    - unique
+- name: Get Maximillian
+  difficulty: 19
+  types:
+    - westernkeep
+- name: Learn at least one Level 7 spell for a character
+  difficulty: 20
+  types:
+    - grind
+- name: Defeat Ahriman
+  difficulty: 20
+  types:
+    - earthgift
+    - extra
+- name: No duplicate gloves equipped
+  difficulty: 20
+  types:
+    - unique
+- name: Learn at least two Level 6 spells for a character
+  difficulty: 20
+  types:
+    - grind
+- name: Defeat Red Dragon
+  difficulty: 20
+  types:
+    - rare
+- name: Learn three Level 4 spells for at least two characters
+  difficulty: 20
+  types:
+    - grind
+- name: Get Sasuke's Blade in the Flying Fortress
+  difficulty: 21
+  types:
+    - treasurehunt
+- name: Use at least 5 different Inns
+  difficulty: 21
+  types:
+    - inn
+- name: Buy 99 Faerie Tonics at the Caravan
+  difficulty: 21
+  types:
+    - spending
+    - caravan
+- name: Unlock one blue seal in the Labyrinth of Time
+  difficulty: 21
+  types:
+    - labyrinth
+- name: Buy exactly 33 Prorings in Gaia
+  difficulty: 21
+  types:
+    - spending
+    - gaia
+- name: Learn three Level 1, 2, and 3 spells for a character
+  difficulty: 21
+  types:
+    - grind
+- name: Buy 99 Giant's Tonics at the Caravan
+  difficulty: 22
+  types:
+    - spending
+    - caravan
+- name: Use at least 6 different Inns
+  difficulty: 22
+  types:
+    - inn
+- name: Learn NulDeath
+  difficulty: 22
+  types:
+    - grind
+    - nowhitemage
+    - noredmage
+- name: Defeat 3 groups with 4 different monsters
+  difficulty: 22
+  types:
+    - situational
+- name: Get at least 55,000 gil from treasure chests
+  difficulty: 22
+  types:
+    - treasurehunt
+- name: Unlock one red seal in the Labyrinth of Time
+  difficulty: 22
+  types:
+    - labyrinth
+- name: Get Red Jacket
+  difficulty: 22
+  types:
+    - nowarrior
+    - nothief
+    - duergar
+- name: Use at least 25 Hi-Potions
+  difficulty: 22
+  types:
+    - itemrestriction
+- name: Get at least 2 characters to level 29
+  difficulty: 23
+  types:
+    - grind
+- name: Use the spell Exit to escape from Waterfall Cavern
+  difficulty: 23
+  types:
+    - exit
+    - noclass
+- name: Get at least 10 weapons from treasure chests
+  difficulty: 23
+  types:
+    - treasurehunt
+- name: Use all 7 Inns
+  difficulty: 23
+  types:
+    - inn
+- name: Buy exactly 22 Cat Claws in Gaia
+  difficulty: 23
+  types:
+    - spending
+    - gaia
+- name: Kill four different enemies in one encounter
+  difficulty: 23
+  types:
+    - situational
+- name: Defeat Echidna in Earthgift Shrine
+  difficulty: 23
+  types:
+    - earthgift
+    - extra
+- name: Defeat Warmech in the Flying Fortress
+  difficulty: 24
+  types:
+    - rare
+- name: Get at least 3 characters to level 20
+  difficulty: 24
+  types:
+    - grind
+- name: No duplicate helmets equipped
+  difficulty: 24
+  types:
+    - unique
+- name: Defeat at least three Ice Gigas
+  difficulty: 24
+  types:
+    - atleast
+- name: Defeat Two-headed Dragon in Earthgift Shrine
+  difficulty: 24
+  types:
+    - earthgift
+    - extra
+- name: Unlock two blue seals in the Labyrinth of Time
+  difficulty: 24
+  types:
+    - labyrinth
+- name: Buy 99 Cottages in Gaia
+  difficulty: 25
+  types:
+    - spending
+    - gaia
+- name: Defeat Cerberus in Earthgift Shrine
+  difficulty: 25
+  types:
+    - earthgift
+    - extra
+- name: Get at least 1 character to level 37
+  difficulty: 25
+  types:
+    - grind
+- name: Learn three Level 5 spells for a character
+  difficulty: 25
+  types:
+    - grind
+- name: Unlock two red seals in the Labyrinth of Time
+  difficulty: 25
+  types:
+    - labyrinth
+- name: Defeat Gilgamesh and Atomos in Lifespring Grotto
+  difficulty: 25
+  types:
+    - whisperwind
+    - extra

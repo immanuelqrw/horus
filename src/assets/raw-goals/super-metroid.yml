@@ -1,0 +1,432 @@
+---
+- name: 10+ Power Bombs
+  difficulty: 1
+  types:
+    - powerbomb
+- name: Spazer
+  difficulty: 1
+  types:
+    - spazer
+- name: Defeat Spore Spawn
+  difficulty: 1
+  types:
+    - sporespawn
+- name: Brinstar Map Station
+  difficulty: 1
+  types:
+    - brinstarmap
+- name: 3+ Energy Tanks
+  difficulty: 1
+  types:
+    - energytank
+- name: 15+ Power Bombs
+  difficulty: 2
+  types:
+    - powerbomb
+- name: 15+ Super Missiles
+  difficulty: 2
+  types:
+    - supermissile
+- name: 3+ Energy Tanks and 30+ Missiles
+  difficulty: 2
+  types:
+    - energytank
+    - missile
+- name: Crateria Map Station
+  difficulty: 2
+  types:
+    - crateriamap
+- name: 20+ Power Bombs
+  difficulty: 3
+  types:
+    - powerbomb
+- name: 4+ Energy Tanks
+  difficulty: 3
+  types:
+    - energytank
+- name: 75+ Missiles
+  difficulty: 3
+  types:
+    - missile
+- name: 50+ Missiles
+  difficulty: 4
+  types:
+    - missile
+- name: Both Brinstar Missile Recharge Stations
+  difficulty: 4
+  types:
+    - missilerecharge
+    - brinstar
+- name: 5+ Energy Tanks
+  difficulty: 4
+  types:
+    - energytank
+- name: 4+ Energy Tanks and 15+ Power Bombs
+  difficulty: 5
+  types:
+    - energytank
+    - powerbomb
+- name: Collect 25+ Crateria Missiles or 40+ Brinstar Missiles
+  difficulty: 5
+  types:
+    - missile
+    - areamissile
+- name: Destroy at least 1 statue
+  difficulty: 5
+  types:
+    - statueroom
+- name: 6+ Energy Tanks
+  difficulty: 6
+  types:
+    - energytank
+- name: 2+ Reserve Tanks
+  difficulty: 6
+  types:
+    - reservetank
+- name: Ice Beam
+  difficulty: 6
+  types:
+    - icebeam
+- name: 25+ Power Bombs
+  difficulty: 6
+  types:
+    - powerbomb
+- name: Defeat Crocomire
+  difficulty: 6
+  types:
+    - crocomire
+- name: Norfair Map Station
+  difficulty: 7
+  types:
+    - norfairmap
+- name: Wave Beam
+  difficulty: 7
+  types:
+    - wavebeam
+- name: 100+ Missiles
+  difficulty: 7
+  types:
+    - missile
+- name: 7+ Energy Tanks
+  difficulty: 7
+  types:
+    - energytank
+- name: Grapple Beam
+  difficulty: 8
+  types:
+    - grapplebeam
+    - crocomire
+- name: Norfair Reserve Tank
+  difficulty: 8
+  types:
+    - reservetank
+- name: Maridia Map Station
+  difficulty: 9
+  types:
+    - maridiamap
+- name: 30+ Power Bombs
+  difficulty: 9
+  types:
+    - powerbomb
+- name: 125+ Missiles
+  difficulty: 9
+  types:
+    - missile
+- name: Collect 50 out of 75 Norfair Missiles
+  difficulty: 9
+  types:
+    - missile
+- name: 8+ Energy Tanks
+  difficulty: 9
+  types:
+    - energytank
+- name: 7+ Energy Tanks and 70+ Missiles
+  difficulty: 10
+  types:
+    - energytank
+    - missile
+- name: Collect all 40 Crateria Missiles
+  difficulty: 11
+  types:
+    - missile
+- name: Collect all 10 Wrecked Ship Super Missiles
+  difficulty: 11
+  types:
+    - supermissile
+- name: Crateria Power Bomb
+  difficulty: 11
+  types:
+    - powerbomb
+- name: Collect both Crateria Energy Tanks
+  difficulty: 11
+  types:
+    - energytank
+- name: Collect all 15 Brinstar Super Missiles
+  difficulty: 12
+  types:
+    - supermissile
+- name: Collect all 25 Brinstar Power Bombs
+  difficulty: 12
+  types:
+    - powerbomb
+- name: Brinstar Reserve Tank
+  difficulty: 12
+  types:
+    - reservetank
+- name: Collect all 15 Wrecked Ship Missiles
+  difficulty: 12
+  types:
+    - missile
+- name: Crateria Super Missile
+  difficulty: 13
+  types:
+    - supermissile
+    - skipspeedbooster
+- name: Wrecked Ship Energy Tank
+  difficulty: 13
+  types:
+    - energytank
+    - wsetroom
+- name: Wrecked Ship Reserve Tank
+  difficulty: 13
+  types:
+    - reservetank
+    - skipspeedbooster
+- name: Collect all 5 Brinstar Energy Tanks
+  difficulty: 14
+  types:
+    - energytank
+    - skipspeedbooster
+- name: Collect all 60 Brinstar Missiles
+  difficulty: 14
+  types:
+    - missile
+- name: 20+ Super Missiles
+  difficulty: 15
+  types:
+    - supermissile
+- name: Wrecked Ship Map Station
+  difficulty: 15
+  types:
+    - wsmap
+- name: "Collect Gauntlet Energy Tank or X-Ray Scope"
+  difficulty: 16
+  types:
+    - energytank
+    - xrayscope
+- name: 35+ Power Bombs
+  difficulty: 16
+  types:
+    - powerbomb
+- name: Fully explore the Wrecked Ship
+  difficulty: 16
+  types:
+    - phantoon
+    - gravitysuit
+- name: 25+ Super Missiles
+  difficulty: 17
+  types:
+    - supermissile
+- name: 9+ Energy Tanks
+  difficulty: 17
+  types:
+    - energytank
+- name: 3+ Reserve Tanks
+  difficulty: 17
+  types:
+    - reservetank
+- name: "X-Ray Scope"
+  difficulty: 17
+  types:
+    - xrayscope
+- name: 3 Norfair Energy Tanks or 1 Maridia Energy Tank
+  difficulty: 17
+  types:
+    - energytank
+- name: 10+ Energy Tanks
+  difficulty: 17
+  types:
+    - energytank
+- name: 30+ Super Missiles
+  difficulty: 18
+  types:
+    - supermissile
+- name: Visit the critters
+  difficulty: 18
+  types:
+    - speedbooster
+- name: Collect Grapple Beam or Wrecked Ship Energy Tank
+  difficulty: 18
+  types:
+    - grapplebeam
+    - wsetroom
+- name: "Visit Crateria-Maridia Elevator"
+  difficulty: 19
+  types:
+    - forgottenarea
+- name: "Collect X Super Missiles and 50-X Power Bombs"
+  difficulty: 19
+  types:
+    - supermissile
+    - powerbomb
+- name: "Collect X Energy Tanks and 11-X Reserve Tanks"
+  difficulty: 19
+  types:
+    - energytank
+    - reserve
+- name: Visit all 3 Brinstar Energy Recharge Stations
+  difficulty: 19
+  types:
+    - energyrecharge
+    - skipspeedbooster
+- name: Crateria Map Station or Wrecked Ship Map Station
+  difficulty: 20
+  types:
+    - crateriamap
+    - wsmap
+- name: Norfair Reserve Tank or Wrecked Ship Reserve Tank
+  difficulty: 20
+  types:
+    - reservetank
+- name: 60+ Missiles and 20+ Super Missiles
+  difficulty: 20
+  types:
+    - missile
+    - supermissile
+- name: Screw Attack
+  difficulty: 20
+  types:
+    - screwattack
+- name: Destroy at least 2 statues
+  difficulty: 20
+  types:
+    - statueroom
+- name: Defeat Botwoon
+  difficulty: 21
+  types:
+    - botwoon
+- name: Maridia Power Bomb
+  difficulty: 21
+  types:
+    - powerbomb
+- name: Defeat Spore Spawn and Botwoon
+  difficulty: 21
+  types:
+    - sporespawn
+    - botwoon
+- name: Springball
+  difficulty: 21
+  types:
+    - springball
+- name: Defeat Golden Torizo
+  difficulty: 21
+  types:
+    - gt
+    - screwattack
+- name: 40+ Power Bombs
+  difficulty: 21
+  types:
+    - powerbomb
+- name: Maridia Reserve Tank
+  difficulty: 21
+  types:
+    - reservetank
+- name: Defeat Golden Torizo and Spore Spawn
+  difficulty: 22
+  types:
+    - gt
+    - sporespawn
+    - screwattack
+- name: Defeat Ridley
+  difficulty: 22
+  types:
+    - ridley
+- name: Defeat Draygon
+  difficulty: 22
+  types:
+    - draygon
+- name: Collect all 15 Norfair Power Bombs
+  difficulty: 22
+  types:
+    - powerbomb
+- name: Collect Springball or defeat Draygon
+  difficulty: 22
+  types:
+    - springball
+    - draygon
+    - icebeam
+    - grapplebeam
+- name: Defeat Crocomire and Draygon
+  difficulty: 22
+  types:
+    - crocomire
+    - draygon
+- name: Space Jump
+  difficulty: 23
+  types:
+    - spacejump
+    - draygon
+- name: Charge Beam, Spazer, Wave Beam, Ice Beam, and Plasma Beam
+  difficulty: 23
+  types:
+    - chargebeam
+    - spazer
+    - wavebeam
+    - icebeam
+    - plasmabeam
+- name: Norfair Super Missile
+  difficulty: 23
+  types:
+    - supermissile
+- name: 4 Reserve Tanks
+  difficulty: 23
+  types:
+    - reservetank
+    - skipspeedbooster
+- name: Collect all 40 Maridia Missiles
+  difficulty: 23
+  types:
+    - missile
+- name: Plasma Beam
+  difficulty: 24
+  types:
+    - plasmabeam
+    - draygon
+- name: Defeat Crocomire and Ridley
+  difficulty: 24
+  types:
+    - crocomire
+    - ridley
+- name: Collect all 4 Norfair Energy Tanks
+  difficulty: 24
+  types:
+    - energytank
+    - ridley
+- name: 35+ Super Missiles
+  difficulty: 24
+  types:
+    - supermissile
+- name: Collect Plasma Beam or defeat Ridley
+  difficulty: 25
+  types:
+    - plasma
+    - ridley
+    - draygon
+- name: Collect all 15 Maridia Super Missiles
+  difficulty: 25
+  types:
+    - supermissile
+- name: Collect both Maridia Energy Tanks
+  difficulty: 25
+  types:
+    - energytank
+- name: 11+ Energy Tanks
+  difficulty: 25
+  types:
+    - energytank
+- name: "Hi-Jump Boots, Speed Booster, and Space Jump"
+  difficulty: 25
+  types:
+    - hijump
+    - speedbooster
+    - spacejump

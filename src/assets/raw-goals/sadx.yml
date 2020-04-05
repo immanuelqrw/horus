@@ -1,0 +1,253 @@
+---
+- name: Beat Chaos 0 Without Rings
+  difficulty: 1
+  types:
+    - BOSS
+    - SONIC
+    - RINGS
+- name: Beat Beta MkII With 0 Rings
+  difficulty: 1
+  types:
+    - BOSS
+    - GAMMA
+    - RINGS
+- name: Beat a Big Stage with 25 Rings
+  difficulty: 2
+  types:
+    - BIG
+    - RINGS
+- name: Complete Emerald Coast With 50 Rings
+  difficulty: 2
+  types:
+    - SONIC
+    - TAILS
+    - RINGS
+    - EMERALD_COAST
+- name: Get a life by getting 100 Rings
+  difficulty: 3
+  types:
+    - LIFE
+    - RINGS
+- name: Complete a Knuckles' Stage without using any hints
+  difficulty: 3
+  types:
+    - KNUCKLES
+- name: Destroy 50 enemies in a Stage
+  difficulty: 4
+  types:
+    - HUNT
+- name: Complete Red Mountain With 0 Rings
+  difficulty: 4
+  types:
+    - SONIC
+    - RINGS
+    - RED_MOUNTAIN
+- name: Complete Speed Highway in Under 3 Minutes
+  difficulty: 5
+  types:
+    - SONIC
+    - TAILS
+    - SPEEDRUN
+    - SPEED_HIGHWAY
+- name: Get 10 Emblems
+  difficulty: 5
+  types:
+    - EMBLEM
+- name: Go to each Chao Garden
+  difficulty: 6
+  types:
+    - CHAO
+- name: Jump Off of 3 Ramps in Ice Cap
+  difficulty: 6
+  types:
+    - SONIC
+    - TAILS
+- name: Beat Chaos 2 in Under 2 Minutes
+  difficulty: 7
+  types:
+    - KNUCKLES
+    - SPEEDRUN
+- name: Drive Kart off of edge in Twinkle Park Circuit
+  difficulty: 7
+  types:
+    - MINIGAME
+- name: Beat a Gamma Stage Without Destroying Anything
+  difficulty: 8
+  types:
+    - GAMMA
+- name: Beat Tails' Speed Highway Without Flying
+  difficulty: 8
+  types:
+    - TAILS
+    - SPEED_HIGHWAY
+- name: Get 700 Rings in Casinopolis
+  difficulty: 9
+  types:
+    - CASINOPOLIS
+- name: Beat Chaos 6 Without Using Light Speed Attack
+  difficulty: 9
+  types:
+    - SONIC
+    - BOSS
+- name: Beat Egg Hornet With Exactly 5 Rings
+  difficulty: 10
+  types:
+    - BOSS
+    - RINGS
+    - TAILS
+    - SONIC
+- name: Get 20 Emblems
+  difficulty: 10
+  types:
+    - EMBLEM
+- name: Travel to each Adventure Field every possible way
+  difficulty: 11
+  types:
+    - EXPLORE
+- name: Beat Chaos 4 With 4 Rings
+  difficulty: 11
+  types:
+    - BOSS
+    - RINGS
+    - SONIC
+    - TAILS
+    - KNUCKLES
+- name: Complete 5 of Sonic's Missions
+  difficulty: 12
+  types:
+    - SONIC
+    - MISSION
+- name: Complete 5 of Tails' Missions
+  difficulty: 12
+  types:
+    - TAILS
+    - MISSION
+- name: Complete 5 of Knuckles' Missions
+  difficulty: 13
+  types:
+    - KNUCKLES
+    - MISSION
+- name: Complete 5 of Amy's Missions
+  difficulty: 13
+  types:
+    - AMY
+    - MISSION
+- name: Complete 5 of Big's Missions
+  difficulty: 14
+  types:
+    - BIG
+    - MISSION
+- name: Complete 5 of Gamma's Missions
+  difficulty: 14
+  types:
+    - GAMMA
+    - MISSION
+- name: Beat Gamma with Sonic and Sonic with Gamma
+  difficulty: 15
+  types:
+    - BOSS
+    - GAMMA
+    - SONIC
+- name: Beat Knuckles with Sonic and Sonic with Knuckles
+  difficulty: 15
+  types:
+    - BOSS
+    - SONIC
+    - KNUCKLES
+- name: Get 25 Lives
+  difficulty: 16
+  types:
+    - LIFE
+- name: Beat Tails' Sky Deck Without Flying
+  difficulty: 16
+  types:
+    - TAILS
+    - SKY_DECK
+- name: Beat Tails' Windy Valley Without Flying
+  difficulty: 17
+  types:
+    -  TAILS
+    - WINDY_VALLEY
+- name: Beat Twinkle Circuit With Exactly 1 Ring
+  difficulty: 17
+  types:
+    - MINIGAME
+- name: Get 30 Emblems
+  difficulty: 18
+  types:
+    - EMBLEM
+- name: Beat Zero With 0 Rings
+  difficulty: 18
+  types:
+    - AMY
+    - RINGS
+    - BOSS
+- name: Beat Egg Walker in Under 2:30
+  difficulty: 19
+  types:
+    - BOSS
+    - TAILS
+- name: Beat Lost World's Mirror Room Without Mirrors
+  difficulty: 19
+  types:
+    - SONIC
+    - LOST_WORLD
+- name: Complete Amy's Twinkle Park Without Using the Hammer
+  difficulty: 20
+  types:
+    - AMY
+    - TWINKLE_PARK
+- name: Get All of Big's Upgrades
+  difficulty: 20
+  types:
+    - UPGRADE
+    - BIG
+- name: Get All of Sonic's Upgrades
+  difficulty: 21
+  types:
+    - UPGRADE
+    - SONIC
+- name: Get Both of Amy's Upgrades
+  difficulty: 21
+  types:
+    - UPGRADE
+    - AMY
+- name: Get Both of Gamma's Upgrades
+  difficulty: 22
+  types:
+    - UPGRADE
+    - GAMMA
+- name: Get Both of Knuckles' Upgrades
+  difficulty: 22
+  types:
+    - UPGRADE
+    - KNUCKLES
+- name: Get Both of Tails' Upgrades
+  difficulty: 23
+  types:
+    - UPGRADE
+    - TAILS
+- name: Get a Score of 5000 in Hedgehog Hammer
+  difficulty: 23
+  types:
+    - AMY
+    - MINIGAME
+- name: Destroy the Tails Doll in Sonic's Final Egg
+  difficulty: 24
+  types:
+    - SONIC
+    - FINAL_EGG
+- name: Beat Perfect Chaos
+  difficulty: 24
+  types:
+    - BOSS
+    - PERFECT_CHAOS
+- name: Beat Egg Viper Without Getting Hit
+  difficulty: 25
+  types:
+    - SONIC
+    - BOSS
+- name: Unlock Metal Sonic
+  difficulty: 25
+  types:
+    - EMBLEM

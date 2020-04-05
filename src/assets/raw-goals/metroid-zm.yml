@@ -1,0 +1,398 @@
+---
+- name: Crateria unknown item
+  difficulty: 1
+  types:
+    - plasmabeam
+    - chozoitems
+- name: Charge Beam
+  difficulty: 1
+  types:
+    - chargebeam
+    - centipede
+- name: Use a cannon
+  difficulty: 1
+  types:
+    - cannon
+- name: Finish by dying
+  difficulty: 1
+  types:
+    - finish
+- name: Enter your ship
+  difficulty: 2
+  types:
+    - ship
+- name: Brinstar Map station
+  difficulty: 2
+  types:
+    - maps
+- name: Fight the giant centipede twice
+  difficulty: 2
+  types:
+    - centipede
+- name: Enter acid, water, and lava
+  difficulty: 2
+  types:
+    - liquid
+- name: 10 missile tanks
+  difficulty: 3
+  types:
+    - missiles
+- name: 3 Kraid missile tanks
+  difficulty: 3
+  types:
+    - missiles
+- name: Long Beam
+  difficulty: 3
+  types:
+    - longbeam
+    - chozoitems
+- name: Perform a ball spark
+  difficulty: 3
+  types:
+    - speedbooster
+    - hijump
+- name: 5 Kraid missile tanks
+  difficulty: 4
+  types:
+    - missiles
+- name: Defeat the acid worm
+  difficulty: 4
+  types:
+    - acidworm
+- name: Ice Beam
+  difficulty: 4
+  types:
+    - icebeam
+    - chozoitems
+- name: Activate ziplines
+  difficulty: 4
+  types:
+    - acidworm
+- name: 7 Brinstar missile tanks
+  difficulty: 5
+  types:
+    - missiles
+- name: "Hi-Jump"
+  difficulty: 5
+  types:
+    - hijump
+    - chozoitems
+- name: Kraid Map station
+  difficulty: 5
+  types:
+    - maps
+- name: View 3 Chozo hints
+  difficulty: 5
+  types:
+    - chozohints
+- name: Kill a giant sidehopper
+  difficulty: 6
+  types:
+    - sidehoppers
+- name: Enter 7 save rooms
+  difficulty: 6
+  types:
+    - saverooms
+- name: Kraid unkown item
+  difficulty: 6
+  types:
+    - kraid
+    - spacejump
+    - chozoitems
+- name: 10 Brinstar missile tanks
+  difficulty: 7
+  types:
+    - missiles
+- name: Screw Attack
+  difficulty: 7
+  types:
+    - screw
+    - chozoitems
+- name: Finish in your ship
+  difficulty: 7
+  types:
+    - finish
+    - ship
+- name: 15 missile tanks
+  difficulty: 8
+  types:
+    - missiles
+- name: Varia Suit
+  difficulty: 8
+  types:
+    - varia
+    - chozoitems
+- name: "5 E-tanks"
+  difficulty: 8
+  types:
+    - etanks
+- name: "3 Brinstar E-tanks"
+  difficulty: 9
+  types:
+    - etanks
+- name: Wave Beam
+  difficulty: 9
+  types:
+    - wavebeam
+    - chozoitems
+- name: Enter 10 Save rooms
+  difficulty: 9
+  types:
+    - saverooms
+- name: 7 Norfair missile tanks
+  difficulty: 10
+  types:
+    - missiles
+- name: Norfair Map station
+  difficulty: 10
+  types:
+    - maps
+- name: View 5 Chozo hints
+  difficulty: 10
+  types:
+    - chozohints
+- name: Defeat Kraid
+  difficulty: 10
+  types:
+    - kraid
+- name: 20 missile tanks
+  difficulty: 11
+  types:
+    - missiles
+- name: Defeat the giant wasp
+  difficulty: 11
+  types:
+    - supers
+- name: Finish while riding a zipline
+  difficulty: 11
+  types:
+    - finish
+    - acidworm
+- name: Finish in the Kraid to Norfair tunnel
+  difficulty: 11
+  types:
+    - finish
+- name: Speed Booster
+  difficulty: 12
+  types:
+    - kraid
+    - speedbooster
+    - chozoitems
+- name: Ridley Map station
+  difficulty: 12
+  types:
+    - maps
+- name: Kill 3 different giant sidehoppers
+  difficulty: 12
+  types:
+    - sidehoppers
+- name: Finish in the varia suit room
+  difficulty: 12
+  types:
+    - varia
+    - finish
+- name: 5 Ridley missile tanks
+  difficulty: 13
+  types:
+    - missiles
+- name: 3 super missile tanks
+  difficulty: 13
+  types:
+    - supers
+- name: "6 E-tanks"
+  difficulty: 13
+  types:
+    - etanks
+- name: Kill 4 different giant sidehoppers
+  difficulty: 13
+  types:
+    - sidehoppers
+- name: 25 missile tanks
+  difficulty: 14
+  types:
+    - missiles
+- name: 10 Norfair missile tanks
+  difficulty: 14
+  types:
+    - missiles
+- name: Ridley unknown item
+  difficulty: 14
+  types:
+    - ridley
+    - gravity
+    - chozoitems
+- name: 3 Ridley super missile tanks
+  difficulty: 14
+  types:
+    - supers
+- name: 8 Kraid missile tanks
+  difficulty: 15
+  types:
+    - missiles
+    - acidworm
+- name: Defeat Ridley
+  difficulty: 15
+  types:
+    - ridley
+- name: 7 Chozo items
+  difficulty: 15
+  types:
+    - chozoitems
+- name: Open 2 green doors
+  difficulty: 15
+  types:
+    - greendoors
+- name: 12 Norfair missile tanks
+  difficulty: 16
+  types:
+    - missiles
+    - supers
+- name: "7 E-tanks"
+  difficulty: 16
+  types:
+    - etanks
+- name: Kill the giant centipede with a super missile
+  difficulty: 16
+  types:
+    - supers
+    - centipede
+- name: 1 Crateria super missile tank
+  difficulty: 16
+  types:
+    - supers
+    - speedbooster
+- name: "1 Norfair E-tank"
+  difficulty: 17
+  types:
+    - etanks
+    - wavebeam
+    - speedbooster
+- name: 30 missile tanks
+  difficulty: 17
+  types:
+    - missiles
+- name: "2 Kraid E-tanks"
+  difficulty: 17
+  types:
+    - etanks
+    - speedbooster
+    - acidworm
+- name: Open 3 green doors
+  difficulty: 17
+  types:
+    - greendoors
+- name: "3 Ridley E-tanks"
+  difficulty: 18
+  types:
+    - ridley
+    - etanks
+- name: 4 super missile tanks
+  difficulty: 18
+  types:
+    - supers
+- name: 8 Chozo items
+  difficulty: 18
+  types:
+    - chozoitems
+- name: Open 4 green doors
+  difficulty: 18
+  types:
+    - greendoors
+- name: 9 Ridley missile tanks
+  difficulty: 19
+  types:
+    - missiles
+- name: 2 Norfair super missile tanks
+  difficulty: 19
+  types:
+    - supers
+- name: Enter 13 Save rooms
+  difficulty: 19
+  types:
+    - saverooms
+- name: 3 Map stations
+  difficulty: 19
+  types:
+    - maps
+- name: 11 Ridley missile tanks
+  difficulty: 20
+  types:
+    - missiles
+    - speedbooster
+- name: 1 Brinstar super missile tank
+  difficulty: 20
+  types:
+    - supers
+    - speedbooster
+    - hijump
+- name: 9 Chozo items
+  difficulty: 20
+  types:
+    - chozoitems
+- name: 3 Crateria missile tanks
+  difficulty: 21
+  types:
+    - missiles
+    - speedbooster
+    - hijump
+- name: 5 super missile tanks
+  difficulty: 21
+  types:
+    - supers
+- name: Kill the acid worm with a super missile
+  difficulty: 21
+  types:
+    - acidworm
+    - supers
+- name: 13 Ridley missile tanks
+  difficulty: 22
+  types:
+    - missiles
+    - speedbooster
+- name: "8 E-tanks"
+  difficulty: 22
+  types:
+    - etanks
+- name: Kill Kraid with a super missile
+  difficulty: 22
+  types:
+    - kraid
+    - supers
+- name: 13 Norfair missile tanks
+  difficulty: 23
+  types:
+    - missiles
+    - screw
+- name: 10 Chozo items
+  difficulty: 23
+  types:
+    - chozoitems
+- name: Enter Tourian
+  difficulty: 23
+  types:
+    - tourian
+- name: Enter 15 Save rooms
+  difficulty: 24
+  types:
+    - saverooms
+- name: Kill a metroid
+  difficulty: 24
+  types:
+    - tourian
+- name: 6 super missile tanks
+  difficulty: 24
+  types:
+    - supers
+- name: "9 E-tanks"
+  difficulty: 25
+  types:
+    - etanks
+- name: 11 Chozo items
+  difficulty: 25
+  types:
+    - chozoitems
+- name: Enter 19 Save rooms
+  difficulty: 25
+  types:
+    - saverooms
+    - tourian

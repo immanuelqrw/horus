@@ -1,0 +1,421 @@
+---
+- name: TM05 (Roar)
+  difficulty: 1
+  types:
+    - '114'
+    - tm
+- name: HM01 (Cut)
+  difficulty: 1
+  types:
+    - rustboro
+    - hm
+- name: TM45 (Attract)
+  difficulty: 1
+  types:
+    - verdanturf
+    - tm
+- name: Quick Claw
+  difficulty: 1
+  types:
+    - school
+- name: Coin Case
+  difficulty: 2
+  types:
+    - mail
+- name: 7 different types of PokéBall
+  difficulty: 2
+  types:
+    - balls
+- name: TM36 (Sludge Bomb)
+  difficulty: 2
+  types:
+    - dewford
+    - tm
+- name: A Pokémon with 4 moves sharing its type(s)
+  difficulty: 2
+  types:
+    - move
+- name: Defeat a Legendary Pokémon
+  difficulty: 3
+  types:
+    - legendary
+- name: Rematch a trainer with Match Call
+  difficulty: 3
+  types:
+    - pokenav
+- name: A Pokémon with a status-related ability
+  difficulty: 3
+  types:
+    - ability
+- name: A Pokémon with a stat-related ability
+  difficulty: 3
+  types:
+    - ability
+- name: Sell a Rare Candy
+  difficulty: 4
+  types:
+    - candy
+- name: Defeat the Winstrate Family
+  difficulty: 4
+  types:
+    - trainer
+- name: Defeat 6 trainers on Route 113
+  difficulty: 4
+  types:
+    - trainer
+- name: A Pokémon with 4 non-TM non-damaging moves
+  difficulty: 4
+  types:
+    - move
+- name: Clefable, Wigglytuff, or Delcatty
+  difficulty: 5
+  types:
+    - stone
+- name: Raichu, Arcanine, or Ninetales
+  difficulty: 5
+  types:
+    - stone
+- name: Vileplume, Victreebel, or Exeggutor
+  difficulty: 5
+  types:
+    - stone
+- name: Poliwrath, Starmie, or Cloyster
+  difficulty: 5
+  types:
+    - stone
+- name: Beedrill, Butterfree, Dustox or Beautifly
+  difficulty: 6
+  types:
+    - bugs
+- name: Nidorino or Nidorina
+  difficulty: 6
+  types:
+    - nido
+- name: Lombre or Nuzleaf
+  difficulty: 6
+  types:
+    - leaves
+- name: A Pokémon with a weather-related ability
+  difficulty: 6
+  types:
+    - ability
+- name: Hatch an egg
+  difficulty: 7
+  types:
+    - egg
+- name: Defeat both Pokémon Breeders on Route 117
+  difficulty: 7
+  types:
+    - trainer
+- name: Defeat all 5 Triathletes on Cycling Road
+  difficulty: 7
+  types:
+    - trainer
+- name: "$0 on hand"
+  difficulty: 7
+  types:
+    - money
+- name: Wobbuffet, Flaaffy, or Furret
+  difficulty: 8
+  types:
+    - '15'
+- name: Ivysaur, Bayleef, or Grovyle
+  difficulty: 8
+  types:
+    - starters
+- name: Wartortle, Croconaw, or Marshtomp
+  difficulty: 8
+  types:
+    - starters
+- name: Charmeleon, Quilava, or Combusken
+  difficulty: 8
+  types:
+    - starters
+- name: Kelpsy Berry
+  difficulty: 9
+  types:
+    - berry
+- name: Release starter before Lv11
+  difficulty: 9
+  types:
+    - release
+- name: TM19 (Giga Drain)
+  difficulty: 9
+  types:
+    - grass
+    - tm
+- name: Catch a Pokémon in the Safari Zone
+  difficulty: 9
+  types:
+    - lilycove
+- name: Mightyena, Linoone, or Raticate
+  difficulty: 10
+  types:
+    - 18/20
+- name: Azumarill, Gyarados, or Quagsire
+  difficulty: 10
+  types:
+    - 18/20
+- name: Kirlia, Loudred, or Kadabra
+  difficulty: 10
+  types:
+    - 20/16
+- name: Masquerain, Ninjask, or Shedinja
+  difficulty: 10
+  types:
+    - 22/20/18
+- name: Burn, Paralyze, or Poison Kecleon
+  difficulty: 11
+  types:
+    - status
+- name: Revive a fossil
+  difficulty: 11
+  types:
+    - fossil
+- name: Complete all 3 Battle Tents
+  difficulty: 11
+  types:
+    - trainer
+- name: Lileep, Anorith, Kabuto, or Omanyte
+  difficulty: 11
+  types:
+    - fossil
+- name: Evolve 4 different Pokémon
+  difficulty: 12
+  types:
+    - raise
+- name: Complete Trainer Hill
+  difficulty: 12
+  types:
+    - trainer
+- name: 2 different baby Pokémon
+  difficulty: 12
+  types:
+    - baby
+- name: 2 different Eevee evolutions
+  difficulty: 12
+  types:
+    - eevee
+- name: TM27 (Return)
+  difficulty: 13
+  types:
+    - tm
+- name: White Flute
+  difficulty: 13
+  types:
+    - '113'
+- name: Exp. Share
+  difficulty: 13
+  types:
+    - rustboro
+- name: TM44 (Rest)
+  difficulty: 13
+  types:
+    - lilycove
+- name: Manectric, Houndoom, or Grumpig
+  difficulty: 14
+  types:
+    - trio
+- name: Swellow, Pelipper, or Pidgeotto
+  difficulty: 14
+  types:
+    - trio
+- name: Breloom, Hariyama, or Vigoroth
+  difficulty: 14
+  types:
+    - trio
+- name: Slugma, Numel, or Torkoal
+  difficulty: 14
+  types:
+    - trio
+- name: Barboach, Corphish, or Luvdisc
+  difficulty: 14
+  types:
+    - trio
+- name: Trade a Pokémon
+  difficulty: 15
+  types:
+    - trade
+- name: Don't use Repels
+  difficulty: 15
+  types:
+    - instant
+- name: TM10 (Hidden Power)
+  difficulty: 15
+  types:
+    - tm
+    - fortree
+- name: HM08 (Dive)
+  difficulty: 15
+  types:
+    - mossdeep
+    - hm
+- name: Pikachu, Plusle, or Minun
+  difficulty: 16
+  types:
+    - trio
+- name: Swablu, Zangoose, or Seviper
+  difficulty: 16
+  types:
+    - trio
+- name: Roselia, Volbeat, or Illumise
+  difficulty: 16
+  types:
+    - trio
+- name: Flygon, Claydol, or Cacturne
+  difficulty: 16
+  types:
+    - trio
+- name: Skarmory, Spinda, or Sandshrew
+  difficulty: 16
+  types:
+    - trio
+- name: Defeat 4 Kecleons
+  difficulty: 17
+  types:
+    - scope
+- name: 20+ Pokémon owned
+  difficulty: 17
+  types:
+    - pkmn
+- name: All fishing rods
+  difficulty: 17
+  types:
+    - mossdeep
+- name: Defeat 8 Ninja Boys
+  difficulty: 17
+  types:
+    - trainer
+- name: Own 5 different Bug type Pokémon
+  difficulty: 18
+  types:
+    - pkmn
+- name: Own 6 different Flying type Pokémon
+  difficulty: 18
+  types:
+    - pkmn
+- name: Own 7 different Normal type Pokémon
+  difficulty: 18
+  types:
+    - pkmn
+- name: Own 8 different Water type Pokémon
+  difficulty: 18
+  types:
+    - pkmn
+- name: Nosepass, Sableye, or Mawile
+  difficulty: 19
+  types:
+    - trio
+- name: Glalie, Sharpedo, or Walrein
+  difficulty: 19
+  types:
+    - trio
+- name: Chimecho, Banette, or Dusclops
+  difficulty: 19
+  types:
+    - trio
+- name: Aggron, Salamence, or Metagross
+  difficulty: 19
+  types:
+    - trio
+- name: Regirock, Regice, or Registeel
+  difficulty: 19
+  types:
+    - trio
+- name: Catch a Pokémon on Mt. Pyre summit
+  difficulty: 20
+  types:
+    - pyre
+- name: Catch Deoxys at Birth Island
+  difficulty: 20
+  types:
+    - deoxys
+- name: Catch Latias or Latios at Southern Island
+  difficulty: 20
+  types:
+    - eon
+- name: Catch a Pokémon on Mirage Island
+  difficulty: 20
+  types:
+    - '50'
+- name: Defeat 10 Swimmers
+  difficulty: 21
+  types:
+    - water
+    - trainer
+- name: Complete 3 Trick House mazes
+  difficulty: 21
+  types:
+    - candy
+    - trainer
+- name: Defeat all 8 trainers on Route 125
+  difficulty: 21
+  types:
+    - trainer
+- name: Defeat 9 trainers on Route 123
+  difficulty: 21
+  types:
+    - trainer
+- name: 90 Pokémon seen
+  difficulty: 22
+  types:
+    - pkmn
+- name: Teach 8 moves via Move Tutor
+  difficulty: 22
+  types:
+    - tutor
+- name: Stop the same Pokémon evolving 4 times
+  difficulty: 22
+  types:
+    - raise
+- name: Mental Herb
+  difficulty: 22
+  types:
+    - fortree
+- name: 5 different Lv30+ Pokémon
+  difficulty: 23
+  types:
+    - '30'
+- name: Kyogre, Groudon, or Rayquaza
+  difficulty: 23
+  types:
+    - covers
+- name: TM24 (Thunderbolt)
+  difficulty: 23
+  types:
+    - mauville
+    - tm
+- name: Defeat Rival 4
+  difficulty: 23
+  types:
+    - lilycove
+- name: Feather Badge
+  difficulty: 24
+  types:
+    - feather
+- name: Mind Badge
+  difficulty: 24
+  types:
+    - mind
+- name: Defeat Gabby & Ty 6 times
+  difficulty: 24
+  types:
+    - trainer
+    - tv
+- name: 30+ Pokémon owned
+  difficulty: 24
+  types:
+    - pkmn
+- name: 7 badges
+  difficulty: 25
+  types:
+    - badges
+- name: TM26 (Earthquake)
+  difficulty: 25
+  types:
+    - tm
+    - seafloor
+- name: Participate in a Contest
+  difficulty: 25
+  types:
+    - contest

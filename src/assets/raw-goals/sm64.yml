@@ -1,0 +1,460 @@
+---
+- name: Red Coin Star in WF
+  difficulty: 1
+  types:
+    - WF
+- name: 100 Coin Star in WF
+  difficulty: 1
+  types:
+    - WF
+- name: Peach's Slide x 2
+  difficulty: 1
+  types:
+    - secrets
+- name: Reach the Castle Roof
+  difficulty: 1
+  types:
+    - lives
+- name: Lose Mario's Hat
+  difficulty: 1
+  types:
+    - losehat
+- name: 5 Castle Secret Stars
+  difficulty: 2
+  types:
+    - secrets
+- name: Beat the King in BOB
+  difficulty: 2
+  types:
+    - BOB
+- name: Two Bowser Stage Red Coin Stars
+  difficulty: 2
+  types:
+    - bowserreds
+- name: Collect 120 Coins in one stage
+  difficulty: 2
+  types:
+    - WF
+    - hundredcoin
+- name: 100 Coin Star in CCM
+  difficulty: 2
+  types:
+    - CCM
+- name: Open 3 cannons
+  difficulty: 3
+  types:
+    - cannons
+- name: Secret Aquarium Star
+  difficulty: 3
+  types:
+    - aquarium
+- name: 15 Lives
+  difficulty: 3
+  types:
+    - lives
+- name: Collect 130 Coins in one stage
+  difficulty: 3
+  types:
+    - hundredcoin
+- name: Mario Wings to the Sky BOB
+  difficulty: 4
+  types:
+    - BOB
+    - wingcap
+- name: Red Coin Star in HMC
+  difficulty: 4
+  types:
+    - HMC
+- name: All Stars in Whomps
+  difficulty: 4
+  types:
+    - WF
+- name: Three 100 Coin Stars
+  difficulty: 4
+  types:
+    - hundredcoin
+- name: BITS Red Coin Star
+  difficulty: 4
+  types:
+    - bowserreds
+- name: Red Coin Star in TTM
+  difficulty: 5
+  types:
+    - TTM
+- name: Cruiser Crossing the Rainbow RR
+  difficulty: 5
+  types:
+    - RR
+- name: Collect 140 Coins in one stage
+  difficulty: 5
+  types:
+    - hundredcoin
+- name: Secrets Star in THI
+  difficulty: 5
+  types:
+    - THI
+- name: Secrets Star in WDW
+  difficulty: 6
+  types:
+    - WDW
+- name: Red Coin Star in BOB
+  difficulty: 6
+  types:
+    - BOB
+- name: 2 Cap Stage Stars
+  difficulty: 6
+  types:
+    - wingcap
+    - vanishcap
+    - metalcap
+    - secrets
+- name: Red Coin Star in BBH
+  difficulty: 6
+  types:
+    - BBH
+- name: 7 Castle Secret Stars
+  difficulty: 7
+  types:
+    - secrets
+- name: 100 Coin Star in LLL
+  difficulty: 7
+  types:
+    - LLL
+- name: 20 lives
+  difficulty: 7
+  types:
+    - lives
+- name: Red Coin Star in SSL
+  difficulty: 7
+  types:
+    - SSL
+    - wingcap
+- name: All Stars in CCM
+  difficulty: 8
+  types:
+    - CCM
+- name: 100 Coin Star in JRB
+  difficulty: 8
+  types:
+    - JRB
+- name: Red Coin Star in WDW
+  difficulty: 8
+  types:
+    - WDW
+- name: Eye in the Secret Room BBH
+  difficulty: 9
+  types:
+    - BBH
+    - vanishcap
+- name: Three Bowser Stage Red Coin Stars
+  difficulty: 9
+  types:
+    - bowserreds
+    - secrets
+- name: 100 Coin Star in WDW
+  difficulty: 9
+  types:
+    - WDW
+- name: 100 Coin Star in TTC
+  difficulty: 9
+  types:
+    - TTC
+- name: At least 1 star from 10 stages
+  difficulty: 10
+  types:
+    - starseach
+- name: 100 Coin Star in SSL
+  difficulty: 10
+  types:
+    - SSL
+- name: Into the Igloo SL
+  difficulty: 10
+  types:
+    - SL
+    - vanishcap
+- name: 25 Lives
+  difficulty: 10
+  types:
+    - lives
+- name: Open 5 Cannons
+  difficulty: 10
+  types:
+    - cannons
+- name: Red Coin Star in JRB
+  difficulty: 11
+  types:
+    - JRB
+- name: Mystery of the Monkey Cage TTM
+  difficulty: 11
+  types:
+    - TTM
+- name: Top Floor Cloud Stage Star
+  difficulty: 11
+  types:
+    - wingcap
+- name: Collect the Caps DDD
+  difficulty: 11
+  types:
+    - DDD
+    - vanishcap
+- name: 3 Cap Stage Stars
+  difficulty: 12
+  types:
+    - wingcap
+    - vanishcap
+    - metalcap
+    - secrets
+- name: 100 Coin Star in TTM
+  difficulty: 12
+  types:
+    - TTM
+- name: 4 Stars each from SSL and HMC
+  difficulty: 12
+  types:
+    - SSL
+    - HMC
+- name: All Stars in LLL
+  difficulty: 12
+  types:
+    - LLL
+- name: Four 100 Coin Stars
+  difficulty: 12
+  types:
+    - hundredcoin
+- name: Race Through Downtown WDW
+  difficulty: 13
+  types:
+    - WDW
+    - vanishcap
+- name: 100 Coin Star in HMC
+  difficulty: 13
+  types:
+    - HMC
+- name: 100 Coin Star in THI
+  difficulty: 13
+  types:
+    - THI
+- name: 100 Coin Star in DDD
+  difficulty: 13
+  types:
+    - DDD
+- name: 4 Stars each from BOB and CCM
+  difficulty: 13
+  types:
+    - BOB
+    - CCM
+- name: 100 Coin Star in RR
+  difficulty: 14
+  types:
+    - RR
+- name: 100 Coin Star in BOB
+  difficulty: 14
+  types:
+    - BOB
+    - wingcap
+- name: 30 Lives
+  difficulty: 14
+  types:
+    - lives
+- name: 100 Coin Star in BBH
+  difficulty: 14
+  types:
+    - BBH
+- name: Open 7 Cannons
+  difficulty: 14
+  types:
+    - cannons
+- name: "Defeat all 4 Mini-Bosses"
+  difficulty: 15
+  types:
+    - SSL
+    - THI
+- name: 3 Stars each from JRB and BBH
+  difficulty: 15
+  types:
+    - JRB
+    - BBH
+- name: 30 Total Stars
+  difficulty: 15
+  types:
+    - manystar
+- name: 100 Coin Star in SL
+  difficulty: 15
+  types:
+    - SL
+    - vanishcap
+- name: Rematch with Koopa the Quick THI
+  difficulty: 15
+  types:
+    - THI
+- name: 10 Castle Secret Stars
+  difficulty: 16
+  types:
+    - secrets
+    - aquarium
+- name: At least 3 stars from 6 stages
+  difficulty: 16
+  types:
+    - starseach
+    - manystar
+- name: At least 2 stars from 10 stages
+  difficulty: 16
+  types:
+    - starseach
+    - manystar
+- name: All Stars in JRB
+  difficulty: 16
+  types:
+    - JRB
+- name: 5 Stars in SL
+  difficulty: 16
+  types:
+    - SL
+- name: 3 Stars each from TTC and RR
+  difficulty: 17
+  types:
+    - TTC
+    - RR
+- name: All Stars in HMC
+  difficulty: 17
+  types:
+    - HMC
+- name: Five 100 Coin Stars
+  difficulty: 17
+  types:
+    - hundredcoin
+    - starseach
+    - lives
+- name: Collect 140 Coins in two stages
+  difficulty: 17
+  types:
+    - hundredcoin
+- name: 5 Stars in DDD
+  difficulty: 17
+  types:
+    - DDD
+- name: 4 Stars each from JRB and DDD
+  difficulty: 18
+  types:
+    - JRB
+    - DDD
+- name: 3 Stars each from THI and TTM
+  difficulty: 18
+  types:
+    - THI
+    - TTM
+- name: All Stars in BOB
+  difficulty: 18
+  types:
+    - BOB
+- name: All Stars in TTC
+  difficulty: 19
+  types:
+    - TTC
+- name: Six 100 Coin Stars
+  difficulty: 19
+  types:
+    - hundredcoin
+    - starseach
+    - lives
+- name: 5 Stars in BBH
+  difficulty: 19
+  types:
+    - BBH
+- name: Open 9 Cannons
+  difficulty: 19
+  types:
+    - cannons
+- name: All Stars in SSL
+  difficulty: 20
+  types:
+    - SSL
+- name: 6 Stars in WDW
+  difficulty: 20
+  types:
+    - WDW
+- name: 6 Stars in SSL
+  difficulty: 20
+  types:
+    - SSL
+- name: At least 1 Star from each Stage
+  difficulty: 21
+  types:
+    - starseach
+    - manystar
+- name: Win All 3 Character Races
+  difficulty: 21
+  types:
+    - BOB
+    - CCM
+    - THI
+- name: At least 3 stars from 8 stages
+  difficulty: 21
+  types:
+    - starseach
+    - manystar
+- name: All Stars in TTM
+  difficulty: 21
+  types:
+    - TTM
+- name: 12 Castle Secret Stars
+  difficulty: 22
+  types:
+    - secrets
+    - aquarium
+- name: 35 Total Stars
+  difficulty: 22
+  types:
+    - manystar
+- name: 6 Stars in RR
+  difficulty: 22
+  types:
+    - RR
+- name: "Star #1 from each stage"
+  difficulty: 23
+  types:
+    - starseach
+- name: Top Floor Toad Star
+  difficulty: 23
+  types:
+    - manystar
+- name: All Stars in Snowmans
+  difficulty: 23
+  types:
+    - SL
+    - vanishcap
+- name: 6 Stars in BBH
+  difficulty: 23
+  types:
+    - BBH
+- name: 6 Stars in DDD
+  difficulty: 24
+  types:
+    - DDD
+- name: All Stars in WDW
+  difficulty: 24
+  types:
+    - WDW
+    - vanishcap
+- name: All Stars in THI
+  difficulty: 24
+  types:
+    - THI
+- name: All Stars in BBH
+  difficulty: 25
+  types:
+    - BBH
+    - vanishcap
+- name: Open All 11 Cannons
+  difficulty: 25
+  types:
+    - cannons
+- name: All Stars in DDD
+  difficulty: 25
+  types:
+    - DDD
+    - vanishcap
+- name: All Stars in RR
+  difficulty: 25
+  types:
+    - RR

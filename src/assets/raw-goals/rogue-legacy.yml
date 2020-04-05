@@ -1,0 +1,234 @@
+---
+- name: Kill an enemy with down strikes only
+  difficulty: 1
+  types:
+    - HUNT
+- name: Defeat a SpikedBall
+  difficulty: 1
+  types:
+    - CASTLE
+    - FOREST
+- name: Kill a BallAndChain while its Ball is in a wall
+  difficulty: 2
+  types:
+    - HUNT
+    - FOREST
+- name: Kill a Chicken
+  difficulty: 2
+  types:
+    - TRAIT
+- name: Kill an enemy from underneath it with a sword
+  difficulty: 3
+  types:
+    - HUNT
+- name: Get 3 Runes
+  difficulty: 3
+  types:
+    - EXPLORE
+- name: Block a Projectile
+  difficulty: 4
+  types:
+    - CLASS
+- name: Dodge 10 HomingTurret shots in a row
+  difficulty: 4
+  types:
+    - SPEED
+- name: Lure a Wolf into Spikes
+  difficulty: 5
+  types:
+    - FOREST
+- name: Dodge 5 slashes from SwordKnights by dashing backwords after they swing
+  difficulty: 5
+  types:
+    - RUNE
+- name: Destroy every Chandelier in 5 2x2 rooms
+  difficulty: 6
+  types:
+    - CASTLE
+- name: Enter the Forest without getting hit
+  difficulty: 6
+  types:
+    - CASTLE
+- name: Kill every enemy in a section
+  difficulty: 7
+  types:
+    - HUNT
+- name: Defeat a LV1 IceWizard, EarthWizard, and FireWizard in one run
+  difficulty: 7
+  types:
+    - HUNT
+    - CASTLE
+    - FOREST
+- name: Open every chest in a section
+  difficulty: 8
+  types:
+    - EXPLORE
+- name: Win a Carnival Game
+  difficulty: 8
+  types:
+    - EXPLORE
+- name: Find 10 Journals
+  difficulty: 9
+  types:
+    - EXPLORE
+- name: Kill a ShieldKnight by attacking only its shield
+  difficulty: 9
+  types:
+    - HUNT
+- name: Win a Chance Game
+  difficulty: 10
+  types:
+    - EXPLORE
+- name: Replace a Spell at an Altar
+  difficulty: 10
+  types:
+    - EXPLORE
+- name: Kill an enemy offscreen
+  difficulty: 11
+  types:
+    - SPELL
+- name: Get 10k Gold in a run
+  difficulty: 11
+  types:
+    - EXPLORE
+    - HUNT
+- name: Find 4 Painting Rooms or beat a Doomvas Miniboss
+  difficulty: 12
+  types:
+    - EXPLORE
+    - HUNT
+- name: Beat the Berith & Halphas (Dual Boss Skeletons) without taking damage
+  difficulty: 12
+  types:
+    - HUNT
+    - EXPLORE
+    - BOSS
+- name: Beat a Revamped Boss
+  difficulty: 13
+  types:
+    - HUNT
+    - BOSS
+- name: Defeat a LV2 IceWizard, EarthWizard, and FireWizard in one run
+  difficulty: 13
+  types:
+    - HUNT
+    - TOWER
+    - DUNGEON
+- name: Defeat a LV3 IceWizard, EarthWizard, and FireWizard in one run
+  difficulty: 14
+  types:
+    - TOWER
+    - DUNGEON
+- name: Kill one of each enemy type
+  difficulty: 14
+  types:
+    - HUNT
+    - CASTLE
+    - FOREST
+    - TOWER
+    - DUNGEON
+- name: Kill a Portrait in one hit
+  difficulty: 15
+  types:
+    - HUNT
+- name: Restore 100 Health through Vampirism only
+  difficulty: 15
+  types:
+    - RUNE
+- name: Defeat a SpikeTrap
+  difficulty: 16
+  types:
+    - RUNE
+- name: Find a Special Item
+  difficulty: 16
+  types:
+    - EXPLORE
+    - SPECIAL_ITEM
+- name: Find a hidden Fairy Chest
+  difficulty: 17
+  types:
+    - EXPLORE
+- name: Beat 2 Fairy Chest Objectives in one run
+  difficulty: 17
+  types:
+    - EXPLORE
+- name: Unlock all teleporters on the map without equipping any runes in one run
+  difficulty: 18
+  types:
+    - EXPLORE
+- name: Omae Wa Mou Shindeiru
+  difficulty: 18
+  types:
+    - CLASS
+- name: Beat 3 minibosses in one life
+  difficulty: 19
+  types:
+    - HUNT
+- name: Use a Random Teleporter to an unexplored section and then kill all enemies in that section
+  difficulty: 19
+  types:
+    - EXPLORE
+    - HUNT
+- name: Clear the Castle as a Dwarf Hokage with Tunnel Vision
+  difficulty: 20
+  types:
+    - CASTLE
+    - CLASS
+    - TRAIT
+- name: Clear the Forest as a Giant Assassin with Clumsy
+  difficulty: 20
+  types:
+    - FOREST
+    - CLASS
+    - TRAIT
+- name: Go to every room in the Castle with the Spelunker
+  difficulty: 21
+  types:
+    - CASTLE
+    - CLASS
+- name: Unlock all Boss Teleporters in less than 10 minutes
+  difficulty: 21
+  types:
+    - EXPLORE
+    - SPEED
+- name: Clear the Tower as an Archmage with Dextrocardia
+  difficulty: 22
+  types:
+    - TOWER
+    - CLASS
+    - TRAIT
+- name: Clear the Dungeon as a Spellsword with Savant
+  difficulty: 22
+  types:
+    - DUNGEON
+    - CLASS
+    - TRAIT
+- name: Clear the Sections of all enemies in Reverse Order
+  difficulty: 23
+  types:
+    - HUNT
+    - CASTLE
+    - FOREST
+    - TOWER
+    - DUNGEON
+- name: Clear any two Areas of all enemies with Vertigo in one run
+  difficulty: 23
+  types:
+    - HUNT
+    - TRAIT
+- name: Clear the Dungeon of all enemies as a Dragon
+  difficulty: 24
+  types:
+    - HUNT
+    - CLASS
+    - DUNGEON
+- name: Defeat a Boss without using your Sword
+  difficulty: 24
+  types:
+    - HUNT
+    - BOSS
+- name: Heal back to full health after surviving a death
+  difficulty: 25
+  types:
+    - EXPLORE
+    - SPECIAL_ITEM

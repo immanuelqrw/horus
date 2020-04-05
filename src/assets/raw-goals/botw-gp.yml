@@ -1,0 +1,194 @@
+---
+- name: Kill a Mob by throwing a weapon at them
+  difficulty: 1
+  types:
+    - HUNT
+- name: Get the chest over the mud pit
+  difficulty: 1
+  type1:
+    - CRYOSIS
+    - CHEST
+- name: Rusted Weapon
+  difficulty: 2
+  types:
+    - EXPLORE
+- name: 20 Wood
+  difficulty: 2
+  types:
+    - WEAPON
+    - BOMB
+- name: Excavate 5 Mineral Deposits
+  difficulty: 3
+  types:
+    - WEAPON
+    - BOMB
+    - EXPLORE
+- name: Dive into the River of the Dead
+  difficulty: 4
+  types:
+    - MOUNT_HYLIA
+    - HEATED
+- name: Cross the River of the Dead
+  difficulty: 5
+  types:
+    - MOUNT_HYLIA
+    - CRYOSIS
+    - HEATED
+- name: Conquer a Bokoblin camp by first taking out the lookouts, without alerting
+  difficulty: 6
+  types:
+    - HUNT
+    - BOW
+    - STASIS
+- name: Kill an Enemy by dropping something on them
+  difficulty: 6
+  types:
+    - HUNT
+    - ROCK
+    - STASIS
+    - MAGNESIS
+- name: Make Dubious Food
+  difficulty: 6
+  types:
+    - COOK
+- name: Find a Treasure Chest along the Plateau Wall
+  difficulty: 7
+  types:
+    - EXPLORE
+- name: 3 Korok Seeds
+  difficulty: 8
+  types:
+    - KOROK
+    - EXPLORE
+- name: Sneak past the Decayed Guardians to activate the Ja Baij Shrine
+  difficulty: 9
+  types:
+    - STASIS
+    - ENEMY
+- name: Warm Doublet
+  difficulty: 9
+  types:
+    - COOK
+    - MOUNT_HYLIA
+    - EXPLORE
+- name: "Assassinate: Kill a Bokoblin in their sleep with a Sneakstrike"
+  difficulty: 10
+  types:
+    - HUNT
+- name: Red ChuChu Jelly
+  difficulty: 11
+  types:
+    - FIRE
+    - HUNT
+- name: Ride down Mount Hylia on a Shield
+  difficulty: 11
+  types:
+    - MOUNT_HYLIA
+    - SHIELD
+- name: Destroy a Bokoblin camp with only Bombs
+  difficulty: 12
+  types:
+    - HUNT
+    - BOMB
+- name: Steal a Bokoblin's Camp Treasure
+  difficulty: 13
+  types:
+    - ENEMY
+    - HUNT
+- name: Eliminate a Skull of Enemies
+  difficulty: 13
+  types:
+    - HUNT
+- name: White ChuChu Jelly
+  difficulty: 14
+  types:
+    - HUNT
+    - MOUNT_HYLIA
+- name: Snipe 2 Bokoblins in the same Bullet Time
+  difficulty: 15
+  types:
+    - BOW
+    - HUNT
+- name: Fire Arrows
+  difficulty: 16
+  types:
+    - EXPLORE
+- name: Steal a full set of Boko items (Weapon, Shield, Bow)
+  difficulty: 16
+  types:
+    - STASIS
+    - HUNT
+- name: Use bees to kill a Bokoblin
+  difficulty: 17
+  types:
+    - BOW
+    - HUNT
+- name: Perform a Stasis Launch
+  difficulty: 18
+  types:
+    - STASIS
+- name: Whistle at a Bokoblin camp and annihilate them
+  difficulty: 19
+  types:
+    - HUNT
+- name: Conquer the Bokoblin tree fort
+  difficulty: 19
+  types:
+    - HUNT
+    - BOW
+- name: Make an Elixir
+  difficulty: 20
+  types:
+    - COOK
+    - EXPLORE
+- name: Reach Keh Nanut without using Warm Doublet
+  difficulty: 21
+  types:
+    - COOK
+    - EXPLORE
+- name: 5 Korok Seeds
+  difficulty: 21
+  types:
+    - EXPLORE
+    - KOROK
+- name: "Genocide: Eliminate all Bokoblin camps"
+  difficulty: 22
+  types:
+    - HUNT
+    - EXPLORE
+- name: Destroy a Decayed Guardian through Melee
+  difficulty: 22
+  types:
+    - HUNT
+    - BOSS
+    - GUARDIAN
+    - WEAPON
+- name: Destroy a Decayed Guardian through Reflecting their laser
+  difficulty: 23
+  types:
+    - HUNT
+    - BOSS
+    - GUARDIAN
+    - SHIELD
+- name: Use a tree to cross a chasm
+  difficulty: 23
+  types:
+    - WEAPON
+    - BOMB
+- name: Destroy the Stone Talus
+  difficulty: 24
+  types:
+    - HUNT
+    - BOSS
+    - LYNEL
+- name: 7 Korok Seeds
+  difficulty: 24
+  types:
+    - EXPLORE
+    - KOROK
+- name: Conquer the Lynel [MM]
+  difficulty: 25
+  types:
+    - HUNT
+    - BOSS
+    - LYNEL

@@ -1,0 +1,300 @@
+---
+- name: Tame a horse after landing on it through gliding
+  difficulty: 1
+  types:
+    - AFFECTION
+    - HORSE
+- name: Tame a horse after sneaking up on it
+  difficulty: 1
+  types:
+    - AFFECTION
+    - HORSE
+- name: Take 3 pictures of different groups of horses
+  difficulty: 2
+  types:
+    - PICTURE
+    - HORSE
+- name: Register a solid color horse
+  difficulty: 2
+  types:
+    - HORSE
+    - COLOR
+    - REGISTER
+- name: Take 5 pictures of boars running at you
+  difficulty: 3
+  types:
+    - BOAR
+    - PICTURE
+    - BATTLE
+- name: Steal a horse from a Bokoblin
+  difficulty: 3
+  types:
+    - BATTLE
+    - HORSE
+- name: Ride a Lynel
+  difficulty: 4
+  types:
+    - LYNEL
+    - BATTLE
+- name: Ride a horse to Gerudo Desert
+  difficulty: 5
+  types:
+    - HORSE
+    - VILLAGE
+    - TRAVEL
+- name: Ride a horse to Rito Village
+  difficulty: 5
+  types:
+    - HORSE
+    - VILLAGE
+    - TRAVEL
+- name: Ride a horse to Hateno Village
+  difficulty: 5
+  types:
+    - HORSE
+    - VILLAGE
+    - TRAVEL
+- name: Ride a horse to Kakariko Village
+  difficulty: 5
+  types:
+    - HORSE
+    - VILLAGE
+    - TRAVEL
+- name: Ride a horse to Lurelin Village
+  difficulty: 5
+  types:
+    - HORSE
+    - VILLAGE
+    - TRAVEL
+- name: Get a Lynel's attention and escape on a horse
+  difficulty: 6
+  types:
+    - LYNEL
+    - HORSE
+- name: Register a horse at one stable and ride to another
+  difficulty: 7
+  types:
+    - HORSE
+    - TRAVEL
+    - REGISTER
+- name: Free all horses from a gang of Bokoblins
+  difficulty: 8
+  types:
+    - BATTLE
+    - HORSE
+- name: Max a horse's affection
+  difficulty: 9
+  types:
+    - AFFECTION
+    - HORSE
+- name: Register 5 horses
+  difficulty: 9
+  types:
+    - REGISTER
+    - HORSE
+- name: Take pictures of 3 possible horse coat colors [brown/light brown/black/gray/blue/white]
+  difficulty: 5
+  types:
+    - COLOR
+    - PICTURE
+    - HORSE
+- name: Take pictures of 3 possible horse mane colors [brown/light brown/black/gray/blue/white]
+  difficulty: 5
+  types:
+    - COLOR
+    - PICTURE
+    - HORSE
+- name: Take pictures of 3 possible horse snout colors [brown/light brown/black/gray/blue/white]
+  difficulty: 5
+  types:
+    - COLOR
+    - PICTURE
+    - HORSE
+- name: Take pictures of 2 possible horse ankle colors/lengths [short/long white/black]
+  difficulty: 5
+  types:
+    - COLOR
+    - PICTURE
+    - HORSE
+- name: Ride a horse from Gerudo to Akkala or vice versa
+  difficulty: 11
+  types:
+    - TRAVEL
+    - HORSE
+- name: Ride a horse from Faron to Hebra or vice versa
+  difficulty: 11
+  types:
+    - TRAVEL
+    - HORSE
+- name: Take a picture of both types of boars [Woodland / Red-Tusked]
+  difficulty: 12
+  types:
+    - BOAR
+    - PICTURE
+- name: Take a picture of both types of bears [Honeyvore / Grizzlemaw]
+  difficulty: 12
+  types:
+    - BEAR
+    - PICTURE
+- name: Register Ganonhorse [Giant Horse] without stamina food / elixers
+  difficulty: 13
+  types:
+    - GANON
+    - HORSE
+    - STAMINA
+- name: Register Zelda's Hereditary Horse [White Horse] without stamina food / elixirs
+  difficulty: 13
+  types:
+    - ZELDA
+    - HORSE
+    - STAMINA
+- name: Register Zelda's Hereditary Horse [White Horse] without stamina upgrades
+  difficulty: 14
+  types:
+    - ZELDA
+    - REGISTER
+    - HORSE
+    - STAMINA
+- name: Register Ganonhorse [Giant Horse] without stamina upgrades
+  difficulty: 14
+  types:
+    - GANON
+    - REGISTER
+    - HORSE
+    - STAMINA
+- name: Max 5 horses' affection
+  difficulty: 15
+  types:
+    - AFFECTION
+    - REGISTER
+    - HORSE
+- name: Ride a stalhorse to Kilton's Fang and Bone
+  difficulty: 16
+  types:
+    - STALHORSE
+    - TRAVEL
+- name: Ride a bear to a stable
+  difficulty: 16
+  types:
+    - BEAR
+    - TRAVEL
+- name: Ride a buck to a stable
+  difficulty: 16
+  types:
+    - MOOSE
+    - TRAVEL
+- name: Ride a doe to a stable
+  difficulty: 16
+  types:
+    - MOOSE
+    - TRAVEL
+- name: Ride a boar to a stable
+  difficulty: 16
+  types:
+    - BOAR
+    - TRAVEL
+- name: Ride Satori
+  difficulty: 17
+    - Lord of the Mountain] to a stable
+  types:
+    - SATORI
+    - TRAVEL
+- name: Ride a horse to Death Mountain Marker #2
+  difficulty: 18
+  types:
+    - HORSE
+    - VILLAGE
+    - TRAVEL
+- name: Ride a horse to Zora's Domain
+  difficulty: 18
+  types:
+    - HORSE
+    - VILLAGE
+    - TRAVEL
+- name: Ride a horse to Hyrule Castle
+  difficulty: 19
+  types:
+    - HORSE
+    - TRAVEL
+- name: Ride the same horse, without dismounting, to 3 stables
+  difficulty: 19
+  types:
+    - TRAVEL
+    - HORSE
+- name: Take a picture of a horse on top of a Talus
+  difficulty: 20
+  types:
+    - HORSE
+    - PICTURE
+- name: Ride a stalhorse to the Satori mountain meeting spot
+  difficulty: 20
+  types:
+    - STALHORSE
+    - TRAVEL
+- name: Ride a horse to the shrine of Courage, Wisdom, or Power
+  difficulty: 21
+  types:
+    - HORSE
+    - TRAVEL
+- name: Ride a sandseal to each molduga in Gerudo Desert
+  difficulty: 21
+  types:
+    - SANDSEAL
+    - TRAVEL
+- name: Take a picture of every rideable mount
+  difficulty: 22
+  types:
+    - PICTURE
+- name: Defeat a Hinox on horseback
+  difficulty: 23
+  types:
+    - BATTLE
+    - HORSE
+- name: Defeat a Talus on horseback
+  difficulty: 23
+  types:
+    - BATTLE
+    - HORSE
+- name: Defeat a Guardian on horseback
+  difficulty: 23
+  types:
+    - BATTLE
+    - HORSE
+- name: Defeat a Lynel on horseback
+  difficulty: 23
+  types:
+    - BATTLE
+    - HORSE
+- name: Defeat a Molduga while being pulled by a sandseal
+  difficulty: 23
+  types:
+    - BATTLE
+    - SANDSEAL
+- name: Take pictures of all possible horse coat colors [brown/light brown/black/gray/blue/white]
+  difficulty: 18
+  types:
+    - HORSE
+    - PICTURE
+    - COLOR
+- name: Take pictures of all possible horse mane colors [brown/light brown/black/gray/blue/white]
+  difficulty: 18
+  types:
+    - HORSE
+    - PICTURE
+    - COLOR
+- name: Take pictures of all possible horse snout colors [brown/light brown/black/gray/blue/white]
+  difficulty: 18
+  types:
+    - HORSE
+    - PICTURE
+    - COLOR
+- name: Take pictures of all possible horse ankle colors/lengths [short/long white/black]
+  difficulty: 18
+  types:
+    - HORSE
+    - PICTURE
+    - COLOR
+- name: Unleash the horse god
+  difficulty: 25
+  types:
+    - HORSE_GOD

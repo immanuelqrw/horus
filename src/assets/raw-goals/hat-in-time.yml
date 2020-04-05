@@ -1,0 +1,228 @@
+---
+- name: Collect 1 Roulette Token
+  difficulty: 1
+  types:
+    - token
+- name: Open 4 Chests in Mafia Town
+  difficulty: 1
+  types:
+    - mafia
+- name: Open the Red Mafia Vault
+  difficulty: 1
+  types:
+    - mafia
+- name: Buy 1 Badge
+  difficulty: 2
+  types:
+    - badge
+- name: Open the Blue Mafia Vault
+  difficulty: 2
+  types:
+    - mafia
+- name: Beach Selfie
+  difficulty: 3
+  types:
+    - selfie
+- name: Collect 5 Relics
+  difficulty: 3
+  types:
+    - relic
+- name: Collect 15 Yarn
+  difficulty: 3
+  types:
+    - yarn
+- name: Collect 2 Badges
+  difficulty: 4
+  types:
+    - badge
+- name: Craft 3 Hats
+  difficulty: 4
+  types:
+    - hat
+- name: Save 3 Men from the Mafia's Beating
+  difficulty: 4
+  types:
+    - mafia
+- name: Collect 3 Badges
+  difficulty: 5
+  types:
+    - badge
+- name: Juice Bar? Selfie
+  difficulty: 5
+  types:
+    - mafia
+- name: Open 3 Chests in Subcon
+  difficulty: 5
+  types:
+    - subcon
+- name: Repair 1 Relic
+  difficulty: 6
+  types:
+    - relic
+- name: Collect 3 Roulette Tokens
+  difficulty: 6
+  types:
+    - token
+- name: Collect 5 Yarns in Subcon
+  difficulty: 6
+  types:
+    - subcon
+- name: Open the Green Mafia Vault
+  difficulty: 6
+  types:
+    - mafia
+- name: Get 2 Time Pieces from Time Rifts
+  difficulty: 7
+  types:
+    - rift
+- name: Complete 1 Pink Time Rift
+  difficulty: 8
+  types:
+    - rift
+- name: Collect all the Photo Album pieces from Mafia of Cooks
+  difficulty: 8
+  types:
+    - rift
+- name: Complete all 4 endorsements in Picture Perfect
+  difficulty: 9
+  types:
+    - botb
+- name: Hit DJ Grooves in Three Different Places in Dead Bird Studio
+  difficulty: 9
+  types:
+    - botb
+- name: Repair 2 Relics
+  difficulty: 9
+  types:
+    - relic
+- name: Complete 2 Pink Rifts
+  difficulty: 10
+  types:
+    - rift
+- name: Craft the Dweller Mask
+  difficulty: 10
+  types:
+    - hat
+- name: Collect the Relic on Top of Snatcher’s Home
+  difficulty: 10
+  types:
+    - relic
+- name: Get 4 Time Pieces from Time Rifts
+  difficulty: 11
+  types:
+    - rift
+- name: Open 3 chests in Dead Bird Studio
+  difficulty: 11
+  types:
+    - botb
+- name: Hit The Conductor in Three Different Places in Dead Bird Studio
+  difficulty: 11
+  types:
+    - botb
+- name: Get all photo album pieces from DBS Rift
+  difficulty: 12
+  types:
+    - rift
+- name: Selfie at the top of floating stonehenge
+  difficulty: 12
+  types:
+    - subcon
+- name: Complete the Murder on the Owl Express
+  difficulty: 12
+  types:
+    - botb
+- name: Storytime Selfie
+  difficulty: 13
+  types:
+    - subcon
+- name: Collect 8 Relics
+  difficulty: 13
+  types:
+    - relic
+- name: The Village Rift
+  difficulty: 14
+  types:
+    - subcon
+- name: Gather 3 Pieces of Evidence in Murder on the Owl Express
+  difficulty: 15
+  types:
+    - botb
+- name: Vanessa Selfie
+  difficulty: 16
+  types:
+    - subcon
+- name: Collect 5 Roulette Tokens
+  difficulty: 16
+  types:
+    - token
+- name: Complete 3 Painting Burning Rituals in Subcon
+  difficulty: 17
+  types:
+    - subcon
+- name: Create a Relic in the Gallery
+  difficulty: 17
+  types: []
+- name: Parade Selfie
+  difficulty: 17
+  types:
+    - botb
+- name: Owl Express Rift
+  difficulty: 18
+  types:
+    - botb
+- name: Train rush with 100+ seconds left
+  difficulty: 18
+  types:
+    - botb
+- name: Destroy 3 tracker eyeballs in Subcon forest
+  difficulty: 19
+  types:
+    - subcon
+- name: Collect 10 Relics
+  difficulty: 19
+  types:
+    - relic
+- name: Cheat the Race
+  difficulty: 20
+  types:
+    - mafia
+- name: Craft 4 hats
+  difficulty: 20
+  types:
+    - hat
+- name: Repair 3 Relics
+  difficulty: 21
+  types:
+    - relic
+- name: Collect 13 Relics
+  difficulty: 21
+  types:
+    - relic
+- name: Get all 10 Time Pieces from Mafia Town
+  difficulty: 22
+  types:
+    - mafia
+- name: Collect 7 Roulette Tokens
+  difficulty: 22
+  types:
+    - token
+- name: Complete the Big Parade
+  difficulty: 23
+  types:
+    - botb
+- name: Kill the Toilet of Doom
+  difficulty: 23
+  types:
+    - boss
+- name: Defeat Snatcher
+  difficulty: 24
+  types:
+    - subcon
+- name: Complete the Battle of the Birds Award Ceremony
+  difficulty: 25
+  types:
+    - botb
+- name: Beat 3 Bosses
+  difficulty: 25
+  types:
+    - Boss

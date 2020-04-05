@@ -1,0 +1,390 @@
+---
+- name: Map Card
+  difficulty: 1
+  types:
+    - map
+- name: TM28 (Dig)
+  difficulty: 1
+  types:
+    - dig
+- name: Itemfinder
+  difficulty: 1
+  types:
+    - item
+- name: Radio Card
+  difficulty: 1
+  types:
+    - radio
+- name: Koffing
+  difficulty: 2
+  types:
+    - gas
+- name: 4 Different types of Poke Ball
+  difficulty: 2
+  types:
+    - ball
+- name: Give a Pokemon a haircut
+  difficulty: 2
+  types:
+    - snip
+- name: Charcoal
+  difficulty: 2
+  types:
+    - fire
+- name: Call a Youngster
+  difficulty: 3
+  types:
+    - shorts
+- name: Magikarp
+  difficulty: 3
+  types:
+    - lol
+- name: Teach TM12 (Sweet Scent)
+  difficulty: 3
+  types:
+    - bug
+- name: Rattata
+  difficulty: 3
+  types:
+    - lol
+- name: TM20 (Endure)
+  difficulty: 4
+  types:
+    - endure
+- name: Slowpoketail
+  difficulty: 4
+  types:
+    - money
+- name: Growlithe
+  difficulty: 4
+  types:
+    - grow
+- name: 10 pokemon owned
+  difficulty: 4
+  types:
+    - pkmn
+- name: Goldeen
+  difficulty: 5
+  types:
+    - oldeen
+- name: Onix
+  difficulty: 5
+  types:
+    - rock
+- name: Venonat
+  difficulty: 5
+  types:
+    - radar
+- name: Defeat all 4 trainers in National Park
+  difficulty: 5
+  types:
+    - park
+- name: Cubone
+  difficulty: 6
+  types:
+    - money
+- name: Slowpoke
+  difficulty: 6
+  types:
+    - dopey
+- name: A Pokemon with 4 moves with STAB
+  difficulty: 6
+  types:
+    - tm
+- name: TM05 (Roar)
+  difficulty: 6
+  types:
+    - thirty
+- name: Ariados
+  difficulty: 7
+  types:
+    - time
+- name: Farfetch'd
+  difficulty: 7
+  types:
+    - time
+- name: TM50 (Nightmare)
+  difficulty: 7
+  types:
+    - thirty
+- name: 3 eggs
+  difficulty: 8
+  types:
+    - egg
+- name: Kadabra
+  difficulty: 8
+  types:
+    - abra
+- name: Beedrill and Butterfree
+  difficulty: 8
+  types:
+    - buggy
+- name: Unown Pokedex
+  difficulty: 8
+  types:
+    - unown
+- name: Everstone
+  difficulty: 8
+  types:
+    - egg
+- name: Noctowl
+  difficulty: 9
+  types:
+    - trees
+- name: Defeat a Ponyta
+  difficulty: 9
+  types:
+    - thirty
+- name: Aipom
+  difficulty: 9
+  types:
+    - pompom
+- name: 7 Different berries
+  difficulty: 9
+  types:
+    - berry
+- name: TM40 (Swagger)
+  difficulty: 10
+  types:
+    - sandwich
+- name: Graveler
+  difficulty: 10
+  types:
+    - gravel
+- name: Defeat all 8 trainers on route 32
+  difficulty: 10
+  types:
+    - train
+- name: TM10 (Hidden Power)
+  difficulty: 11
+  types:
+    - time
+- name: Burn Sudowoodo
+  difficulty: 11
+  types:
+    - wtf
+- name: Phanpy
+  difficulty: 11
+  types:
+    - time
+- name: HM05 (Flash)
+  difficulty: 11
+  types:
+    - flash
+- name: Azumarill
+  difficulty: 12
+  types:
+    - time
+- name: A Pokemon with Focus Energy
+  difficulty: 12
+  types:
+    - focus
+- name: Win Bug Catching contest
+  difficulty: 12
+  types:
+    - day
+- name: Corsola
+  difficulty: 12
+  types:
+    - rod
+- name: Catch Shuckle
+  difficulty: 13
+  types:
+    - shuck
+- name: A shiny Pokemon
+  difficulty: 13
+  types:
+    - waters
+- name: Miltank
+  difficulty: 14
+  types:
+    - time
+- name: TM 13 (Snore)
+  difficulty: 14
+  types:
+    - zzz
+- name: "A Pokemon with 4 non-TM status moves"
+  difficulty: 14
+  types:
+    - hop
+- name: Mystic Water
+  difficulty: 14
+  types:
+    - thirty
+- name: 20 TMs
+  difficulty: 15
+  types:
+    - tm
+- name: King's Rock
+  difficulty: 15
+  types:
+    - slow
+- name: Soft Sand
+  difficulty: 15
+  types:
+    - pro
+- name: Exp Share
+  difficulty: 15
+  types:
+    - whirl
+- name: 20 Pokemon owned
+  difficulty: 16
+  types:
+    - pkmn
+- name: Mantine
+  difficulty: 16
+  types:
+    - mant
+- name: Heracross
+  difficulty: 16
+  types:
+    - hera
+- name: Evolve Eevee
+  difficulty: 16
+  types:
+    - stone
+- name: Stop evolving 6 times
+  difficulty: 17
+  types:
+    - starter
+- name: Wobbuffet
+  difficulty: 17
+  types:
+    - time
+- name: Xatu
+  difficulty: 17
+  types:
+    - alph
+- name: Defeat Lapras
+  difficulty: 17
+  types:
+    - day
+- name: Poliwhirl
+  difficulty: 18
+  types:
+    - raise
+- name: Encounter Suicune on route 42
+  difficulty: 18
+  types:
+    - cune
+- name: Dunsparce
+  difficulty: 18
+  types:
+    - sparce
+- name: 4 Rare Candies
+  difficulty: 18
+  types:
+    - rare
+- name: A Pokemon with pursuit
+  difficulty: 19
+  types:
+    - suit
+- name: Pokemon with an evasion boosting move
+  difficulty: 19
+  types:
+    - ass
+- name: TM 46 (Thief)
+  difficulty: 19
+  types:
+    - whirl
+- name: Nidoking or Nidoqueen
+  difficulty: 19
+  types:
+    - nido
+- name: Granbull
+  difficulty: 20
+  types:
+    - raise
+- name: Berry Juice
+  difficulty: 20
+  types:
+    - shuck
+- name: Max phonebook
+  difficulty: 20
+  types:
+    - battles
+- name: HM02 (Fly)
+  difficulty: 20
+  types:
+    - whee
+- name: Mineralbadge
+  difficulty: 21
+  types:
+    - steel
+- name: 80 Pokemon seen
+  difficulty: 21
+  types:
+    - pkmn
+- name: Electrode
+  difficulty: 21
+  types:
+    - elec
+- name: 3 baby Pokemon
+  difficulty: 21
+  types:
+    - egg
+- name: Bayleef
+  difficulty: 22
+  types:
+    - starter
+- name: TM21 (Frustration) or TM27 (Return)
+  difficulty: 22
+  types:
+    - day
+- name: A Pokemon with Flame Wheel
+  difficulty: 22
+  types:
+    - starter
+- name: Own 10 different Flying type Pokemon
+  difficulty: 22
+  types:
+    - pkmn
+- name: 3 level 30 Pokemon
+  difficulty: 23
+  types:
+    - red
+- name: Glacierbadge
+  difficulty: 23
+  types:
+    - whirl
+- name: Defeat 10 Pokemaniacs
+  difficulty: 23
+  types:
+    - harley
+- name: Sandslash
+  difficulty: 23
+  types:
+    - raise
+- name: $50,000
+  difficulty: 24
+  types:
+    - money
+    - cash
+- name: Battle a Legendary Pokemon
+  difficulty: 24
+  types:
+    - ass
+- name: 30 Pokemon owned
+  difficulty: 24
+  types:
+    - pkmn
+- name: Lanturn
+  difficulty: 24
+  types:
+    - raise
+- name: Jumpluff
+  difficulty: 25
+  types:
+    - raise
+- name: Receive elixer from Fishing Guru
+  difficulty: 25
+  types:
+    - karp
+- name: Win a Battle Tower match
+  difficulty: 25
+  types:
+    - gg
+- name: 6 Badges
+  difficulty: 25
+  types:
+    - whee
