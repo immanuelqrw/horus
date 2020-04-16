@@ -124,9 +124,11 @@ export function hasClass(el, className) {
 
 export function addClass(el, className) {
   if(el === null) { return; }
-  if (el.classList)
+  if (el.classList) {
     el.classList.add(className);
-  else if (!hasClass(el, className)) el.className += " " + className
+  } else if (!hasClass(el, className)) {
+    el.className += " " + className;
+  }
 }
 
 export function removeClass(el, className) {
@@ -166,7 +168,7 @@ export function hexRClick(hex) {
   return false;
 }
 
-export function CheckBadRow() { 
+export function CheckBadRow() {
   for (let key in INDICES_PER_ROW) {
     if (INDICES_PER_ROW.hasOwnProperty(key)) {
       let rowheader = document.getElementById("hexheader" + key);
@@ -175,7 +177,7 @@ export function CheckBadRow() {
         rowheader.style.backgroundColor = '';
         let done = true;
         for (let r = 0; r < INDICES_PER_ROW[key].length; r++) {
-          let hex = document.getElementById("hex" + INDICES_PER_ROW[key][r])
+          let hex = document.getElementById("hex" + INDICES_PER_ROW[key][r]);
           if (!hasClass(hex, 'SelectedGreenHex')) {
             done = false;
           }
