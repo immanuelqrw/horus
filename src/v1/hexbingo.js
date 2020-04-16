@@ -148,7 +148,7 @@ export function hexLClick(hex, next) {
     addClass(hex, 'SelectedGreenHex');
 
     if (next) {
-      $("#row" + next).show();   
+      $("#row" + next).show();
       fitToParent(".rowspan");
     }
   } else {
@@ -566,14 +566,7 @@ export let fitToParent = function(selector) {
     $(selector).each(function(i, elem) {
       let currentSize = sizes[i];
       if (currentSize > maxSize) {
-        // $(this).css('font-size', maxSize);
-      }
-      if (currentSize >= 4) {
-        $(this).css('font-size', 10);
-      } else if (currentSize >= 2 && currentSize <= 3) {
-        $(this).css('font-size', 6);
-      } else {
-        $(this).css('font-size', 5);
+        $(this).css('font-size', maxSize);
       }
     });
 };

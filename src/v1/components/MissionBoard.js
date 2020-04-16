@@ -17,7 +17,7 @@ class MissionBoard extends React.Component {
           color: "white"
         }}
       >
-        <MissionObjectives></MissionObjectives>
+        <MissionObjectives/>
       </div>
     );
   }
