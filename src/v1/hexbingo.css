@@ -114,6 +114,8 @@
   top: 50%;
   text-align: center;
   display: inline;
+  line-height: 15px;
+  font-weight: bold;
   transform: translateY(-50%);
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);

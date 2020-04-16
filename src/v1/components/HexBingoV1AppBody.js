@@ -15,8 +15,10 @@ class HexBingoV1AppBody extends React.Component {
   render() {
     return (
       <div
-        bgcolor="black"
-        onresize={() => {fitToParent(".hexspan"); fitToParent(".rowspan")}} >
+        style={{
+          backgroundColor: "black",
+        }}
+        onResize={() => {fitToParent(".hexspan"); fitToParent(".rowspan")}} >
         {/*<Rules/>*/}
         {/*<Tips/>*/}
         <BingoHeader/>

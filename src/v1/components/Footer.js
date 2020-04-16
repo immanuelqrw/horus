@@ -1,5 +1,7 @@
 import React from "react";
 
+import "../hexbingo.css";
+
 class Footer extends React.Component {
   render() {
     return (
@@ -9,6 +11,7 @@ class Footer extends React.Component {
           position: "fixed",
           bottom: 0,
           height: "20px",
+          backgroundColor: "black",
           width: "100%"
         }}
       >
@@ -60,7 +63,7 @@ class Footer extends React.Component {
                     marginRight: "20px",
                     padding: "0px"
                   }}
-                  onClick={() => alert('Click a hex to mark completed.\\nRight-click a hex to mark undesired.\\nYou can also use the scroll wheel to set individual goal progress\\n\\nAny row is valid, but shorter rows will have harder goals.')}
+                  onClick={() => alert('Click a hex to mark completed.\nRight-click a hex to mark undesired.\nYou can also use the scroll wheel to set individual goal progress\n\nAny row is valid, but shorter rows will have harder goals.')}
                 >
                   HexBingo Info
                 </button>

@@ -29,22 +29,21 @@ class BingoHeader extends React.Component {
             fontSize: "1.5em"
           }}
         >
-          <span className="TextR">
-            H<span className="TextO">e</span>
-            <span className="TextY">x</span>
-            <span className="TextG">B</span>
-            <span className="TextB">i</span>
-            <span className="TextP">n</span>
-            <span className="TextR">g</span>
-            <span className="TextO">o</span>
-          </span>
+          <span className="TextR">H</span>
+          <span className="TextO">e</span>
+          <span className="TextY">x</span>
+          <span className="TextG">B</span>
+          <span className="TextB">i</span>
+          <span className="TextP">n</span>
+          <span className="TextR">g</span>
+          <span className="TextO">o</span>
+        </span>
           <BingoTypeSelector/>
           <BingoGameSelector/>
           <SeedInput/>
           <CreateBoardButton/>
           {/*<ViewRulesButton/>*/}
           {/*<ViewTipsButton/>*/}
-        </span>
       </div>
     );
   }
