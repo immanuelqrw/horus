@@ -25,7 +25,7 @@ class Footer extends React.Component {
           }}
         >
           <tbody>
-            <tr width="100%">
+            <tr style={{width: "100%"}}>
               <td
                 style={{
                   color: "grey",

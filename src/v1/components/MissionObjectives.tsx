@@ -2,14 +2,12 @@ import React from "react";
 
 import "../hexbingo.css";
 
-import {hexLClick, hexRClick, SetRowHover, ClearRowHover} from "../hexbingo";
 import MissionObjective from "./MissionObjective";
 
 class MissionObjectives extends React.Component {
   render() {
     return (
       <table
-        border={1}
         style={{
           color: "white",
           textAlign: "center",

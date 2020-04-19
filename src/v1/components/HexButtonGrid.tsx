@@ -83,6 +83,7 @@ class HexButtonGrid extends React.Component {
           <HexButton
             id="hex11"
             className="hexIn MidOY"
+            onMouseOver={() => SetHover(11)}
           />
         </li>
         <li className="hex">

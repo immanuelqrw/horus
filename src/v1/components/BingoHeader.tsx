@@ -13,14 +13,15 @@ class BingoHeader extends React.Component {
   render() {
     return (
       <div
-        height="30px"
-        align="center"
         style={{
-          paddingRight: "8%",
+          height: "30px",
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
           paddingLeft: "2%",
+          paddingRight: "8%",
           paddingBottom: "10px",
           minWidth: "500px",
-          height: "20px"
         }}
       >
         <span
@@ -38,12 +39,18 @@ class BingoHeader extends React.Component {
           <span className="TextR">g</span>
           <span className="TextO">o</span>
         </span>
-          <BingoTypeSelector/>
-          <BingoGameSelector/>
-          <SeedInput/>
-          <CreateBoardButton/>
-          {/*<ViewRulesButton/>*/}
-          {/*<ViewTipsButton/>*/}
+        &nbsp;
+        <BingoTypeSelector/>
+        &nbsp;
+        <BingoGameSelector/>
+        &nbsp;
+        <SeedInput/>
+        &nbsp;
+        <CreateBoardButton/>
+        &nbsp;
+        {/*<ViewRulesButton/>*/}
+        &nbsp;
+        {/*<ViewTipsButton/>*/}
       </div>
     );
   }
