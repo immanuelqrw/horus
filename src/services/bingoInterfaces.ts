@@ -1,3 +1,5 @@
+import {Nullable} from "@utils/Utility"
+
 export interface Goal {
   name: string
   types: string[]
@@ -5,7 +7,7 @@ export interface Goal {
 }
 
 export interface Bingo {
-  goals: (Goal | null)[]
+  goals: (Nullable<Goal>)[]
   rules: string
   tips: string
 }
