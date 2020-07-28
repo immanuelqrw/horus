@@ -14,7 +14,7 @@
   types:
     - MT
     - jiggies
-- name: Purchase Blubberâ€™s Last Possession
+- name: Purchase Blubber's Last Possession
   difficulty: 1
   types:
     - JRL
@@ -709,7 +709,7 @@
   types:
     - Bosses
     - JRL
-- name: Boggyâ€™s Kids Jiggy
+- name: Boggy's Kids Jiggy
   difficulty: 18
   types:
     - WW
@@ -718,7 +718,7 @@
   difficulty: 18
   types:
     - Train
-- name: Hatch Heggyâ€™s 3 Eggs
+- name: Hatch Heggy's 3 Eggs
   difficulty: 18
   types:
     - SoS
@@ -834,7 +834,7 @@
     - HFP
     - WW
     - TDL
-- name: Terryâ€™s Kids Jiggy
+- name: Terry's Kids Jiggy
   difficulty: 22
   types:
     - TDL
@@ -911,7 +911,7 @@
     - Moves
     - HFP
     - CCL
-- name: Alienâ€™s Kids Jiggy
+- name: Alien's Kids Jiggy
   difficulty: 25
   types:
     - HFP
