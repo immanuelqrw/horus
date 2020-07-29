@@ -9,6 +9,23 @@
   },
   "rules": {
     "semicolon": [true, "never"],
-    "jsx-no-lambda": false
+    "jsx-no-lambda": false,
+    "ordered-imports": true,
+    "member-ordering": [true, {"order": "fields-first"}],
+    "curly": true,
+    "no-default-export": true,
+    "prefer-const": true,
+    "prefer-readonly": true,
+    "arrow-return-shorthand": true,
+    "class-name": true,
+    "file-name-casing": [true, {"index.tsx": "camel-case", ".tsx": "pascal-case", ".ts": "camel-case"}],
+    "prefer-template": true,
+    "prefer-switch": true,
+    "arrow-parens": true,
+    "import-spacing": true,
+    "eofline": true,
+    "newline-before-return": true,
+    "quotemark": [true, "double", "avoid-escape", "avoid-template"],
+    "whitespace": [true, "check-module"]
   }
 }

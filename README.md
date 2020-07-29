@@ -10,3 +10,9 @@
 ---
 
 HexBingo
+
+
+## Setup
+
+1. Add `127.0.0.1 horus.local` to `/private/etc/hosts` file
+1. Run `yarn run start`
